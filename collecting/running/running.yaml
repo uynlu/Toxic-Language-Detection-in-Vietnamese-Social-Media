@@ -1,2 +1,0 @@
-- Crawl reddit comments: python collecting\\running\\scrape_youtube_comments.py --file-path data\\raw\\link.xlsx --target-category Religion --output-folder data\\raw\\sexism\\youtube
-- Crawl youtube comments: python collecting\\running\\scrape_reddit_comments.py --file-path data\\raw\\link.xlsx --target-category Sexism --output-folder data\\raw\\sexism\\reddit

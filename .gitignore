@@ -6,3 +6,4 @@ prompting/
 draft.ipynb
 README.md
 .env
+*.sh
