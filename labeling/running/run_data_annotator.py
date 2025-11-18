@@ -30,15 +30,6 @@ if __name__ == "__main__":
     if args.error_flag:
         pipeline.annotate_error_data(args.error_batch_folder)
     else:
-        pipeline.main()
         # pipeline.annotate()
         # pipeline.check()
-
-
-# python labeling\\running\\run_data_annotator.py --label toxicity 
-# --annotating-system-prompt-path prompting\\toxicity\\annotation\\toxicity_annotation_prompting_version_1.txt 
-# --checking-system-prompt-path prompting\\toxicity\\check\\toxicity_check_prompting_version_1.txt 
-# --data-path data\\sample\\sample_1.json --output-folder data\\labelled\\sample_1 
-# --prompt-round 1 --optimization-flag True
-#
-# --error-flag True --error-batch-folder data\\labelled\\sample_1\\round_1\\annotated_logs\\log_batch_2
+        pipeline.main()

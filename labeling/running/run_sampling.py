@@ -19,6 +19,3 @@ if __name__ == "__main__":
 
     for i in tqdm(range(1, args.num_samples + 1)):
         random_sample_from_json_files(args.input_folder, os.path.join(args.output_folder, f"sample_{i}.json"), args.sample_size)
-
-# python labeling\\running\\run_sampling.py --num-samples 10 --input-folder data\\official
-# --output-folder data\\sample --sample-size 50
