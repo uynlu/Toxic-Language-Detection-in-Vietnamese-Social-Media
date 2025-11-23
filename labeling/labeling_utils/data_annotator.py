@@ -50,7 +50,6 @@ class DataAnnotatorPipeline:
         os.makedirs(output_folder, exist_ok=True)
         self.batch_folder = os.path.join(output_folder, "batches")
         os.makedirs(os.path.join(output_folder, "batches"), exist_ok=True)
-        if self.
         self.result_folder = os.path.join(output_folder, f"round_{self.prompt_round}")
         os.makedirs(self.result_folder, exist_ok=True)
 
@@ -98,6 +97,16 @@ class DataAnnotatorPipeline:
 
             print("Start checking!")
             self.check()
+
+            labelled_data = []
+            for annotated_batch_folder in os.listdir(os.path.join(self.result_folder, "annotated")):
+                similar_data = json.load(open(os.path.join(self.result_folder, "annotated", annotated_batch_folder, "similar_data.json"), "r", encoding="utf-8"))
+                checked_data = json.load(open(os.path.join(self.result_folder, "checked", f"checked_{annotated_batch_folder}.json"), "r", encoding="utf-8"))
+
+                labelled_data.extend(similar_data)
+                labelled_data.extend(checked_data)
+            
+            save_json(labelled_data, os.path.join(self.result_folder, "auto_labelled_data.json"))
 
     def annotate(self):
         for batch_path in self.batch_paths:
