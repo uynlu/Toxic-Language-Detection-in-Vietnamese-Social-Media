@@ -4,7 +4,7 @@ import random
 from utils import load_json, save_json
 
 
-def random_sample_from_json_files(input_folder, output_file, sample_size=30):
+def random_sample_from_json_files(input_folder: str, output_file: str, sample_size: int = 30):
     """Randomly sample from each JSON file in the input folder and save to output file"""
     all_samples = [] 
 

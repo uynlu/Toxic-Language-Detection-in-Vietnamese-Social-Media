@@ -18,4 +18,8 @@ if __name__ == "__main__":
     os.makedirs(args.output_folder, exist_ok=True)
 
     for i in tqdm(range(1, args.num_samples + 1)):
-        random_sample_from_json_files(args.input_folder, os.path.join(args.output_folder, f"sample_{i}.json"), args.sample_size)
+        random_sample_from_json_files(
+            input_folder=args.input_folder,
+            output_file=os.path.join(args.output_folder, f"sample_{i}.json"),
+            sample_size=args.sample_size
+        )

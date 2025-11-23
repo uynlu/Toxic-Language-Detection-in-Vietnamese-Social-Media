@@ -1,7 +1,6 @@
 import os
 import pandas as pd
 import argparse
-import json
 
 from utils import load_json, save_json
 from preprocessing.preprocessing_utils import (
@@ -102,12 +101,17 @@ if __name__ == "__main__":
             if "link" not in target_category:
                 print(f"Processing {target_category}!")
                 for platform in os.listdir(os.path.join(args.raw_folder, target_category)):
-                    preprocess_platform(target_category, platform, args.raw_folder, args.preprocessed_folder)
+                    preprocess_platform(
+                        target_category=target_category,
+                        platform=platform,
+                        raw_folder=args.raw_folder,
+                        preprocessed_folder=args.preprocessed_folder
+                    )
     else:
         for file_name in os.listdir(args.raw_folder):
             print(f"Processing {file_name}!")
-            preprocess(file_name, args.raw_folder, args.preprocessed_folder)
-
-
-# python preprocessing\\run_preprocessing.py --raw-folder data\\raw --preprocessed-folder data\\preprocessed --flag True
-# python preprocessing\\run_preprocessing.py --raw-folder data\\preprocessed\\original --preprocessed-folder data\\preprocessed
+            preprocess(
+                file_name=file_name,
+                raw_folder=args.raw_folder,
+                preprocessed_folder=args.preprocessed_folder
+            )

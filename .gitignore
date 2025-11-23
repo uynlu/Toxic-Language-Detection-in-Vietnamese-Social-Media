@@ -7,3 +7,4 @@ draft.ipynb
 README.md
 .env
 *.sh
+labeling/running/analyse_errors.ipynb
