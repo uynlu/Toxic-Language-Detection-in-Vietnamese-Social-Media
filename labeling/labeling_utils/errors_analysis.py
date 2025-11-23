@@ -3,6 +3,8 @@ import logging
 import numpy as np
 from statsmodels.stats.inter_rater import fleiss_kappa
 from sklearn.metrics import cohen_kappa_score
+from collections import defaultdict
+import matplotlib.pyplot as plt
 
 from utils import load_json, save_json
 
@@ -111,87 +113,70 @@ def measure_agreement(
     os.makedirs(different_labelled_folder, exist_ok=True)
     save_json(different_labelled_data, os.path.join(different_labelled_folder, "different_labelled_data.json"))
 
+def plot_different_labels_bar(file_path: str):
+    different_data = load_json(file_path)
 
-# def plot_ratio_of_similarity_to_difference(file_path: str, label: str):
-#     data = load_json(file_path)
+    different_counts = defaultdict(int)
+    for item in different_data:
+        category = item["id"].split("_")[0]
+        different_counts[category] += 1
 
-#     similarity_count = 0
-#     difference_count = 0
+    categories = list(different_counts.keys())
+    counts = [different_counts[category] for category in categories]
+
+    plt.figure(figsize=(8, 5))
+    plt.bar(categories, counts, color='skyblue')
+    plt.xlabel("Label")
+    plt.ylabel("Number of different labelled data")
+    plt.title("Number of different labelled data in each label")
+    plt.show()
+
+def plot_diffence_percentage(file_path: str, sample_size: int = 300):
+    different_data = load_json(file_path)
+
+    plt.figure(figsize=(8, 5))
+    plt.pie(
+        [sample_size - len(different_data), len(different_data)],
+        labels=["Similarity", "Difference"],
+        autopct="%1.1f%%",
+        startangle=140
+    )
+    plt.title("Percentage of Similar and Different Items") 
+    plt.axis("equal")
+    plt.show()
+
+def plot_diffence_percentage_each_category(file_path: str, sample_size_per_label: int = 50):
+    different_data = load_json(file_path)
+
+    different_counts = defaultdict(int)
+    for item in different_data:
+        category = item["id"].split("_")[0]
+        different_counts[category] += 1
+
+    categories = list(different_counts.keys())
+    num_category = len(category)
+
+    num_col = 2
+    num_row = (num_category + 1) // 2
     
-#     for item in data:
-#         if item.get(f"{label}_deepseek") == None:
-#             similarity_count += 1
-#         else:
-#             difference_count += 1
+    fig, axes = plt.subplots(num_row, num_col, figsize=(7, 9))
+    axes = axes.flatten()
 
-#     plt.figure(figsize=(8, 6))
-#     plt.pie(
-#         [similarity_count, difference_count],
-#         labels=["Similar", "Different"],
-#         autopct="%1.1f%%",
-#         colors=sns.color_palette("pastel"),
-#         startangle=140
-#     )
-#     plt.title("Ratio of Similarity to Difference") 
-#     plt.axis("equal")
-#     plt.show()
+    for i, category in enumerate(categories):
+        num_difference = different_counts.get(category)
+        num_similarity = sample_size_per_label - num_difference
 
+        axes[i].pie(
+            [num_similarity, num_difference],
+            labels=["Similarity", "Difference"],
+            autopct="%1.1f%%",
+            colors=["#8fd9a8", "#f28e8e"]
+        )
+        axes[i].set_title(f"Category '{category}'")
+        axes[i].axis("equal")
 
-# def plot_number_of_similar_comments_with_checker_each_annotator(file_path: str, label: str):
-#     with open(file_path, "r", encoding="utf-8") as file:
-#         data = json.load(file)
+    for j in range(i + 1, len(axes)):
+        fig.delaxes(axes[j])
 
-#     deepseek_count = 0
-#     _count = 0
-#     _count = 0
-    
-#     for item in data:
-#         if item.get(f"{label}_deepseek") != None:
-#             if item.get(f"{label}_deepseek") == item.get(f"{label}"):
-#                 deepseek_count += 1
-#             if item.get(f"{label}_") == item.get(f"{label}"):
-#                 _count += 1
-#             if item.get(f"{label}_") == item.get(f"{label}_"):
-#                 _count += 1
-
-#     plt.figure(figsize=(8, 6))
-#     sns.barplot(
-#         x=["Deepseek", "_", "_"],
-#         y=[deepseek_count, _count, _count],
-#         palette=sns.color_palette("pastel")
-#     )
-#     plt.title("Number of comments that are similar to the checker")
-#     plt.ylabel("Number of Comments")
-#     plt.show()
-
-# def plot_number_of_different_comments_each_category(file_path: str, label: str):
-#     with open(file_path, "r", encoding="utf-8") as file:
-#         data = json.load(file)
-
-#     categories = {}
-#     for item in data:
-#         if item.get(f"{label}_deepseek") != None:
-#             try:
-#                 categories[item["category"]] += 1
-#             except KeyError:
-#                 categories[item["category"]] = 1
-
-#     df = pd.DataFrame(list(categories.items()), columns=["Category", "Count"])
-#     df = df.sort_values(by="Count", ascending=False)
-#     plt.figure(figsize=(10, 6))
-#     sns.barplot(
-#         x="Category",
-#         y="Count",
-#         data=df,
-#         palette=sns.color_palette("pastel")
-#     )
-#     plt.title("Number of Different Comments in Each Category")
-#     plt.ylabel("Number of Comments")
-#     plt.xticks(rotation=45)
-#     plt.show()
-
-# def print_different_comments(file_path: str):
-#     with open(file_path, "r", encoding="utf-8") as file:
-#         data = json.load(file)
-
-#     return pd.DataFrame(data)
+    plt.tight_layout()
+    plt.show()
