@@ -11,11 +11,7 @@ from utils import load_json, save_json
 
 load_dotenv()
 DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY")
-DEEPSEEK_BASE_URL = os.getenv("DEEPSEEK_BASE_URL")
-
 MISTRAL_QWEN_API_KEY = os.getenv("MISTRAL_QWEN_API_KEY")
-MISTRAL_QWEN_BASE_URL = os.getenv("MISTRAL_QWEN_BASE_URL")
-
 GPT_API_KEY = os.getenv("GPT_API_KEY")
 
 
@@ -65,8 +61,8 @@ class DataAnnotatorPipeline:
         self.optimization_flag = optimization_flag
         self.result_path = result_path
 
-        self.deepseek_client = OpenAI(api_key=DEEPSEEK_API_KEY, base_url=DEEPSEEK_BASE_URL)
-        self.mistral_qwen_client = OpenAI(api_key=MISTRAL_QWEN_API_KEY, base_url=MISTRAL_QWEN_BASE_URL)
+        self.deepseek_client = OpenAI(api_key=DEEPSEEK_API_KEY, base_url="https://api.deepseek.com")
+        self.mistral_qwen_client = OpenAI(api_key=MISTRAL_QWEN_API_KEY, base_url="https://openrouter.ai/api/v1")
         self.gpt_client = OpenAI(api_key=GPT_API_KEY)
         
     def main(self):
