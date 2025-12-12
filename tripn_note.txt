@@ -1,0 +1,14 @@
+$env:PYTHONPATH = "D:\Toxic-Language-Detection-in-Vietnamese-Social-Media"
+
+
+python labeling\\running\\run_data_annotator_pipeline.py --label-type toxicity --annotating-system-prompt-path prompting\\prompt\\toxicity\\annotation\\toxicity_annotation_prompting_version_5.txt --checking-system-prompt-path prompting\\prompt\\toxicity\\check\\toxicity_check_prompting_version_5.txt --data-path data\\official\\official_data.json --output-folder official --prompt-round 5
+
+
+-- Push branch tripn
+git status
+git add .
+git commit -m "Update dataset of tripn from 401 to 790"
+git push origin tripn
+git push -u origin tripn
+
+

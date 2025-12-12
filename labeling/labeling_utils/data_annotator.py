@@ -134,8 +134,7 @@ class DataAnnotatorPipeline:
             print("Start annotating!")
             self.annotate_parallelly()
 
-            if self.error_flag:
-                return
+            return
             
             print("Start checking!")
             self.check_parallelly()
