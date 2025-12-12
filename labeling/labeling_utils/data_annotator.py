@@ -105,7 +105,7 @@ class DataAnnotatorPipeline:
             
             save_json(labelled_data, os.path.join(self.result_folder, "auto_labelled_data.json"))
 
-    def main_parallel(self):
+    def main_parallelly(self):
         if self.optimization_flag:
             print("Start prompt optimization process!")
 
@@ -134,8 +134,7 @@ class DataAnnotatorPipeline:
             print("Start annotating!")
             self.annotate_parallelly()
 
-            if self.error_flag:
-                return
+            return
             
             print("Start checking!")
             self.check_parallelly()

@@ -35,4 +35,4 @@ if __name__ == "__main__":
         # pipeline.check()
         # pipeline.main()
         # pipeline.annotate_temp()
-        pipeline.main_parallel()
+        pipeline.main_parallelly()
