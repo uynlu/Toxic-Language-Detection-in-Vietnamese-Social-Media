@@ -1,6 +1,7 @@
 import json
 import os
 import re
+import glob
 from tqdm import tqdm
 import random
 from dotenv import load_dotenv
@@ -42,7 +43,7 @@ class DataAnnotatorPipeline:
         self.result_folder = os.path.join(output_folder, f"round_{self.prompt_round}")
         os.makedirs(self.result_folder, exist_ok=True)
 
-        if not os.path.exists(os.path.join(self.batch_folder, "batch_1.json")):
+        if not glob.glob(os.path.join(self.batch_folder, "*.json")):
             self.data = load_json(data_path)
             self.split_into_batches(100)
         
