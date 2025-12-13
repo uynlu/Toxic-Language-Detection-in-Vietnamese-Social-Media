@@ -1,0 +1,50 @@
+[
+    {
+        "text": "北 門 鎖 鑰 là đề tự phổ biến, thường viết lên cổng thành/ trấn hướng bắc. cái này ngày xưa các cụ học tq, nghĩa bóng quái gì. đây là ảnh cổng ắc thành huwei ở đl, được xây để đánh nhau với pháp. giặc phương bắc nào :))",
+        "category": "region",
+        "id": "region_1692",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "có một sự thật là bọn não loz 3/ cho pháp chia thành 3 miền xong bh bọn nó lại nói miền bắc dẫn giặc? đúng bọn ócc chó 3/ muôn đời vẫn hèn…. bảo sao toànn ócc chóoo thế có tri thức đell đâu mà đòi lật đổ cs",
+        "category": "region",
+        "id": "region_1697",
+        "toxicity_deepseek": "",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nguyễn bá tần dân phủ cừ hưng yên àm..kaka",
+        "category": "region",
+        "id": "region_1731",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "30/4/1975 giải phóng miền nam thống nhất tổ quốc, đánh đuổi giặc mỹ ngoại xâm, ngụy nô bán nước cầu vinh giết hại đồng bào 👏👏👏",
+        "category": "region",
+        "id": "region_1770",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "đu càng thì đu cho trót cố lên 3 viện",
+        "category": "region",
+        "id": "region_1680",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "giặc phương bắc với bắc kỳ đồng nghĩa với nhau à? tôi đọc mà tưởng tôi bị ngu cơ",
+        "category": "region",
+        "id": "region_1753",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    }
+]

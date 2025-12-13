@@ -1,0 +1,330 @@
+[
+    {
+        "text": "đó là văn hóa. mà văn hóa thì không phải là bản ch",
+        "category": "region",
+        "id": "region_4610",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "thì lừa với gạt",
+        "category": "region",
+        "id": "region_4632",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "han huynh chính xác..🤝",
+        "category": "region",
+        "id": "region_4587",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "phía bắc phố kỳ lừa. người ngoài đó không nghĩ gì mà người sống trong nam lại bị nhạy cảm từ bắc kỳ thôi.",
+        "category": "region",
+        "id": "region_4619",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ý là ở ngoải hay lừa? hihi",
+        "category": "region",
+        "id": "region_4596",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "hiểu vầy không biết có đúng không: phố kỳ lừa ở phía bắc. và phía nam cũng có phố kỳ lừa",
+        "category": "region",
+        "id": "region_4637",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "bộ văn hóa thông tin có duyệt rồi đó.kkkk...",
+        "category": "region",
+        "id": "region_4622",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "chắc là nằm ở phía bắc của phố kỳ lừa, cũng đặt tên tương tự như quận nam từ liêm.",
+        "category": "region",
+        "id": "region_4639",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "cả một tổ chức nhà nước phụ trách vấn đề ntn mà cứ để những lỗi gây hiểu lung tung . không hiểu học vấn của nhiẽng con người này ntn",
+        "category": "region",
+        "id": "region_4593",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "han huynh rối quá trời",
+        "category": "region",
+        "id": "region_4580",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "và kao đã bị lừa đọc hết luôn",
+        "category": "region",
+        "id": "region_4629",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nguyễn đình tiến , có phải câu : “ đồng đăng có phố kỳ lừa , có nàng tô thị , có chùa tam thanh “ ?",
+        "category": "region",
+        "id": "region_4585",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "đồng đăng có phố kỳ lừa, có nàng tô thị, có chùa tam thanh. tên phố này bình thường mà.",
+        "category": "region",
+        "id": "region_4609",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "xin hỏi ad và moi người câu nầy phải hiểu mần răng: đàn ông muốn nuôi dạy con tốt phải thực hiện \" một vợ một con \" ??",
+        "category": "region",
+        "id": "region_4600",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "cái tên nói lên tất cả .",
+        "category": "region",
+        "id": "region_4628",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "thu hien nguyen lạng sơn có phố kỳ lừa có nàng tô thị có chùa tam thanh ....",
+        "category": "region",
+        "id": "region_4659",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "quang lê nam - kỳ lừa nằm ở đâu vậy anh?",
+        "category": "region",
+        "id": "region_4604",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "có thương hiệu luôn, ghê quá",
+        "category": "region",
+        "id": "region_4640",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "chắc phố này ngày xưa chuyên nuôi lừa???hay thằng pháp nó gọi vậy?",
+        "category": "region",
+        "id": "region_4633",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "lừa sao văn minh được",
+        "category": "region",
+        "id": "region_4613",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "bạn không biết câu ca dao nổi tiếng rồi! \" đồng đăng có phố kỳ lừa có nàng tô thị, có chùa tam thanh ai lên xứ lạng cùng anh bõ công bác mẹ sinh thành ra em!\" mời các bạn về thăm xứ lạng mùa xuân này, suốt tháng giêng là mùa lễ hội và đi thăm phố đi bộ kỳ lừa nhé! phố kỳ lừa là một trong những niềm tự hào của xứ lạng, ẩm thực ngon không nơi nào sánh được! các bạn là người việt nam mà không thuộc câu ca dao này và không biết có phố kỳ lừa mình thấy hơi buồn. bọn mình ngoài này nhưng thuộc nhiều câu ca dao về miền nam lắm nhé!",
+        "category": "region",
+        "id": "region_4649",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "anh 8 .",
+        "category": "region",
+        "id": "region_4631",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "siêng đi đêm cũng có ngày gặp ma. ưa thói xỏ xiên, xúc phạm thiên hạ có ngày ăn trầu cho coi.",
+        "category": "region",
+        "id": "region_4644",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ut em truong,theo tui kỳ lừa đã là một phố, hổng lẻ trong phố có phố. tui dựa vào câu, đồng đăng có phố kỳ lừa..",
+        "category": "region",
+        "id": "region_4611",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "hoàng phú quốc kể cả tay phó tổng thống ở sơn tây hay nhà tổng thống sinh ra ở quảng bình?",
+        "category": "region",
+        "id": "region_4588",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "từ trần đăng ninh bắc sơn. nam mô a di đà phật.",
+        "category": "region",
+        "id": "region_4627",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "hội đồng đặt tên đổi tên “địa danh” quá đẳng cấp.bỗng nhiên nổi như cồn là đây.",
+        "category": "region",
+        "id": "region_4606",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "giải thích xong cũng hue vốn .",
+        "category": "region",
+        "id": "region_4635",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "tưởng là sai phạm , không tưởng được là sai lầm. cái gì mình thấy là họ biết.chỉ sợ họ biết mà mình không thấy.",
+        "category": "region",
+        "id": "region_4594",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "muốn biết tại sao đặt tên kỳ lừa thì phải tìm hiểu thêm bên lịch sử nhé. như những tên của các phố phường khác ấy .",
+        "category": "region",
+        "id": "region_4668",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "lịch sử hơn 4000 khắc ghi mà dốt sử thì chịu thua.",
+        "category": "region",
+        "id": "region_4642",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "đăng hữu tâm vậy là tui bị lừa? bạn bery bibi nói đúng?",
+        "category": "region",
+        "id": "region_4676",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "lạng sơn ngoài bắc có phố kỳ lừa.",
+        "category": "region",
+        "id": "region_4650",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "vậy là tui bị lừa? bạn bery bibi nói đúng?",
+        "category": "region",
+        "id": "region_4677",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "lần này là phố luôn nhá, hết cãi",
+        "category": "region",
+        "id": "region_4666",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "câu kết không hiểu gì hết giống như con lừa không phải con lừa mà là con lừa . có giải thích như không chẳng hiểu xíu gì hết",
+        "category": "region",
+        "id": "region_4626",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "trịnh khắc hùng rồi mai mốt có thêm bên này đường là đông, bên kia đường là tây ?",
+        "category": "region",
+        "id": "region_4652",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "tên là phố kỳ lừa có từ xa xưa này đất chật người đông nên phân ra bắc và nam.",
+        "category": "region",
+        "id": "region_4638",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nguyễn việt nghĩa sợi tóc cứ ưa chẻ làm tư xưa nay đã có đường phố đã đặt tên 1 con đường rồi thì cứ thế mà gọi đi bày đặt thêm phố chi vậy. rồi phố bắc, phố nam. mai mốt chắc thêm phố đông, phố tây… nghe mắc mệt. 😪",
+        "category": "region",
+        "id": "region_4654",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "tác giả bài viết chỉ cần viết hoa chữ kỳ lừa thì người đọc sẽ ko hiểu lầm và sẽ suy luận có thêm 1 hoặc 3 con phố có tên đông, tây, nam kỳ lừa. \"đồng đăng có phố kỳ lừa có nàng tô thị, có chùa tam thanh\".",
+        "category": "region",
+        "id": "region_4664",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nguyễn van hoan theo mình hiểu lên có chấm, phẩy... hoặc đặt 1 cái tên của vĩ nhân nào đó nghe hay và ý nghĩa hơn",
+        "category": "region",
+        "id": "region_4656",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    }
+]

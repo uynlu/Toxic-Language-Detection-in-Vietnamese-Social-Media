@@ -1,0 +1,378 @@
+[
+    {
+        "text": "ở chỗ tôi người quê th chủ nhà còn không cho thuê nhà cơ",
+        "category": "region",
+        "id": "region_17688",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "mượn tiền có thấy quay lại gặp nữa đâu mà trả",
+        "category": "region",
+        "id": "region_17714",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "thần bạn thanh hoá làm cty 2016 thần không tiện mượn 1 triệu đi tới giờ sợ tới già",
+        "category": "region",
+        "id": "region_17698",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "chơi với nhau vài ngày : có xiền không tao mượn 😇",
+        "category": "region",
+        "id": "region_17624",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ng tốt nhiều hay ko thì ko biết. nhưng tui thì toàn gặp ba cái thứ gì đâu ko 😂",
+        "category": "region",
+        "id": "region_17636",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ông anh thanh hoá mượn mình 800k từ hồi năm 2010 đến giờ chưa trả =]]",
+        "category": "region",
+        "id": "region_17706",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "các ông có ăn rau má không",
+        "category": "region",
+        "id": "region_17672",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "mượn đồ của người khác với thời gian cũng lâu nhất 😂😂",
+        "category": "region",
+        "id": "region_17703",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "thủ đô thanh hoá",
+        "category": "region",
+        "id": "region_17702",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "chắc đứa thuyết minh cũng ng thanh hoá",
+        "category": "region",
+        "id": "region_17692",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "đã nói đúng lại còn nói to nữa chứ",
+        "category": "region",
+        "id": "region_17621",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "này có nha năm 2016 ở bình dương mình có thấy treo bảng luôn",
+        "category": "region",
+        "id": "region_17655",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "ê ý là ai hỏi?",
+        "category": "region",
+        "id": "region_17680",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "😂😂 đủ già chín cây chưa??",
+        "category": "region",
+        "id": "region_17664",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "ai cũng như vậy, có lẽ lên giấu kĩ thân phận đi thôi, chỉ cần che giấu đi hết tất cả",
+        "category": "region",
+        "id": "region_17725",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "xem một hồi thấy kì kì xong mới thấy tên kênh 😭😭",
+        "category": "region",
+        "id": "region_17619",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "hôm nay thứ 6 ngày 6 tháng 6 tổng 36 hẹ hẹ hẹ",
+        "category": "region",
+        "id": "region_17647",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "2019mượn 2triệu nhận lương trả giờ 2023 r vẫn chưa nhận lương",
+        "category": "region",
+        "id": "region_17708",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "ae cùng trọ có thùng mỳ xin gói ko cho bắt đưa 5k thế thị chịu r:))",
+        "category": "region",
+        "id": "region_17722",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ông này quê thanh hoá à",
+        "category": "region",
+        "id": "region_17707",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "kaka nó cắn ớt rồi 😂😂",
+        "category": "region",
+        "id": "region_17656",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "toàn giám đốc mà nghe góp tiền nhậu là đi công việc xong a e bày ra nhậu thì thấy liền luôn",
+        "category": "region",
+        "id": "region_17713",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "dư hơi, thừa giấy vẽ voi",
+        "category": "region",
+        "id": "region_17662",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ngày trc toàn đi ăn xin cả làng",
+        "category": "region",
+        "id": "region_17717",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "quen 2 năm ngoan ngoãn. đến cuối năm mượn xe về mất hút luôn",
+        "category": "region",
+        "id": "region_17719",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "đi xe khách thanh hoá rồi cảm nhận",
+        "category": "region",
+        "id": "region_17737",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "mình 2005 , chị mình 99 ngày trượt học đại học năm 1 về có kể ở cùng mấy người thanh hóa , ở cùng cấm có mua đồ ăn vặt bao giờ, hễ mua cái còn vỏ 😂",
+        "category": "region",
+        "id": "region_17693",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "thành hóa học giỏi mà xếp hạng chả thấy trong top 5",
+        "category": "region",
+        "id": "region_17718",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nói đúng lại còn nói to 😅",
+        "category": "region",
+        "id": "region_17736",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "mượn tiền song chạy mất hút chẳng ghét",
+        "category": "region",
+        "id": "region_17715",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "vâng ! nhìn mặt anh là cũng uy tín rồi",
+        "category": "region",
+        "id": "region_17691",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "đúng zậy. nhưng mà tỉ lệ gặp ng xấu là ng th khá cao nên mọi ng mới kỳ thị 😅",
+        "category": "region",
+        "id": "region_17640",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "ông th vay tui 7tr từ hồi 2014 còn chưa trả kìa",
+        "category": "region",
+        "id": "region_17751",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "tui làm cty có ông phó giám đốc biết tui là người th. ông lại khoái mấy người thanh hóa.😂😂😂",
+        "category": "region",
+        "id": "region_17755",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "anh quê ở thanh hoá đúng không? 😂😂😂",
+        "category": "region",
+        "id": "region_17754",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "khôn lỏi",
+        "category": "region",
+        "id": "region_17711",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "hoa thanh quế 😂😂😂",
+        "category": "region",
+        "id": "region_17726",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "th trả cho bao tiền sau video này",
+        "category": "region",
+        "id": "region_17649",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "thèn e làm xếp làm đá hoa cương, k trả tiền cho phụ, thèn anh làm thợ mượn tiền củng k trả lun kk",
+        "category": "region",
+        "id": "region_17738",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "còn tui chỉ bt có anh rể o thanh hóa và bỏ rơi ci tôi khi chi ấy dag bệnh suy thận giai đoạn cuối",
+        "category": "region",
+        "id": "region_17728",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "thế mày có nợ người khác ko? có ai khác nợ mày nữa ko? mày có sống tốt ko",
+        "category": "region",
+        "id": "region_17753",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "chỗ tôi 2 ông th ở tháo cả quạt trần vs bình nóng lạnh đi bán 😂",
+        "category": "region",
+        "id": "region_17749",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "ông này cũng thanh hoá roi",
+        "category": "region",
+        "id": "region_17700",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "lạc quan lên bà ơi, chờ người ta làm ăn có tiền người ta trả 😂",
+        "category": "region",
+        "id": "region_17752",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "người thanh hóa ở trọ sát nhà tui khổ qua than đên khi có xíu cái nói chuyện trên cao và tui ko muốn nói chuyện qua lại nữa",
+        "category": "region",
+        "id": "region_17696",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "tỉ lệ nhầm nó cao lắm😂",
+        "category": "region",
+        "id": "region_17743",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "tóm lại tránh xa th, an toàn hơn 😁😁",
+        "category": "region",
+        "id": "region_17758",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    }
+]

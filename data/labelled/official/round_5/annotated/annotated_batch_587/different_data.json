@@ -1,0 +1,170 @@
+[
+    {
+        "text": "tananh dao ❤️nam bắc là anh em cùng cha khác ông ngoại .mình có nghe từ bắc 54 là chiến tranh năm 1954 miền bắc đàn ông thanh niên chết sạch.bác mới đưa đàn ông miền nam ra bắc gọi là tập kết chứ thực chất là sản xuất giống nòi.",
+        "category": "region",
+        "id": "region_2435",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "pha lê bon trôi vac khắp nơi..",
+        "category": "region",
+        "id": "region_2475",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "lý thắng 1.",
+        "category": "region",
+        "id": "region_2415",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "hoang nguyen phải phân biệt dùng miền chứ, không phân biệt dùng miền làm sao biết miền đó như thế nào",
+        "category": "region",
+        "id": "region_2442",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nguyễn ba",
+        "category": "region",
+        "id": "region_2421",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "david tom ý kiên này có lý nha 10điêm kkkkkkk chuẩn",
+        "category": "region",
+        "id": "region_2446",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "qui nguyen rồi đã hơn chưa",
+        "category": "region",
+        "id": "region_2444",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "bình lê bạn nói chín xác minh là dân miền tây người dân miền nam nghĩ sao về câu nói của thằng này người dân miền nam tính rất thương người",
+        "category": "region",
+        "id": "region_2434",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "bình lê nghe ô nói hơi thô nhưng mà thấy cũng có thật 😂😂😂",
+        "category": "region",
+        "id": "region_2433",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "lưu cường chuyện đó là chuyện của bạn.. nhưng kg nên nói xúc phạm vùng miền là mất dạy",
+        "category": "region",
+        "id": "region_2458",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "david tom thế cái thằng kia cũng đang nc vùng miền thôi a ơi. nó cũng khác đeo gì nhau.",
+        "category": "region",
+        "id": "region_2449",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "vân trường kkkkk",
+        "category": "region",
+        "id": "region_2447",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "tong tran nó nói vậy biết đâu nó ăn thì ai thấy ai biết pịa nó còn ăn nữa mà",
+        "category": "region",
+        "id": "region_2487",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "cay 🌶 lắm nha anh trai hahhahaha",
+        "category": "region",
+        "id": "region_2482",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nguyễn văn thành nghe máy cái chơi",
+        "category": "region",
+        "id": "region_2456",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "quảng anh nguyen chào e, a người miền nam, nói đúng hơn a ở miền tây nam bộ, a cũng không bao giờ quơ đũa cả nắm, người miền nam cũng không bao giờ gọi ai hây bất một người nào đó bằng bọn, bọn thì chỉ có bọn ăn cướp, bọn cướp nước và bọn không biết ơn! a nói thật mở miệng ra thì nói người miền nam phân biệt vùng miền, nhưng những người phân biệt vùng miền là những người bắc đó e, mến chào e.",
+        "category": "region",
+        "id": "region_2425",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "minh nguyễn uh thì cứ thăng đây mà nói chứ sao lai chui cả vây",
+        "category": "region",
+        "id": "region_2412",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "lý thắng kkkka chuẩn nói hay lắm",
+        "category": "region",
+        "id": "region_2507",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "trieu le 1 số ít thôi bạn. người phân biệt vùng miền là loại người ko có ý thức. vô văn hóa. tôi người bắc mà cũng ko chấp nhận đc cái ô người bắc nói đầu video. còn bạn cũng tỏ thái độ phân biệt thì bạn xem lại mình",
+        "category": "region",
+        "id": "region_2492",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "hoang nguyen ngoài đó đâu có dc ông bà dạy mấy câu này. câu này của miền tây mjk mà",
+        "category": "region",
+        "id": "region_2443",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ánh bắc ninh không phải chửi màlà giáo dục.",
+        "category": "region",
+        "id": "region_2430",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    }
+]

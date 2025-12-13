@@ -1,0 +1,306 @@
+[
+    {
+        "text": "cali viết sai chính tả",
+        "category": "region",
+        "id": "region_9792",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "bạn cay vì bị trục xuất à",
+        "category": "region",
+        "id": "region_9772",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "theo như các chuyên gia nghiên cứu về ngôn ngữ động vật học cho biết \"parky,namki\"là tiếng kêu của 1 loài linh trưởng khi khác nước,cụ thể là calibudaicho",
+        "category": "region",
+        "id": "region_9703",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "cali tự nói bản thân",
+        "category": "region",
+        "id": "region_9768",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "thiếu nc😔🤡👍",
+        "category": "region",
+        "id": "region_9759",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "về chở thầy bu bs đi nhé =]]]",
+        "category": "region",
+        "id": "region_9705",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "miệt thị một dân tộc sống sót sau bao cuộc xâm lăng chỉ thể hiện bạn không hiểu sống là gì.",
+        "category": "region",
+        "id": "region_9749",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "rén hả cali",
+        "category": "region",
+        "id": "region_9800",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "cali cay chả kém",
+        "category": "region",
+        "id": "region_9720",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "vãi 😂",
+        "category": "region",
+        "id": "region_9743",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "sai chính tả cay",
+        "category": "region",
+        "id": "region_9796",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "ủa bạn? ý bạn là người bắc ai cũng như vậy hết hả,mắc gì phải đánh đồng vậy bạn người cùng một nước sao cứ phân biệt vậy nhỉ?",
+        "category": "region",
+        "id": "region_9786",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "100 gỏi quốn 🙃",
+        "category": "region",
+        "id": "region_9748",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "bỏ con",
+        "category": "region",
+        "id": "region_9797",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nhưng là thủ đo của quốc gia😒",
+        "category": "region",
+        "id": "region_9791",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "thực ra mâm dưới mâm trên k hẳn là quá to tát, lúc nào thấy mâm dưới toàn món rẻ bèo như rau, trứng còn mâm trên thịt cá đầy đủ thì mới có vấn đề",
+        "category": "region",
+        "id": "region_9781",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "cali hết tiền ko trả tiền nước🥶",
+        "category": "region",
+        "id": "region_9716",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "dịch sparky đi",
+        "category": "region",
+        "id": "region_9827",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "gia phả hình tròn",
+        "category": "region",
+        "id": "region_9744",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "cali là cái j nữa dậy bây",
+        "category": "region",
+        "id": "region_9811",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "là tên m đó 😂",
+        "category": "region",
+        "id": "region_9819",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "cali cũng cay chả kém",
+        "category": "region",
+        "id": "region_9765",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "trái nghĩa với có nước là cali con💀💀💀💀",
+        "category": "region",
+        "id": "region_9732",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "đọc cmt chỉ bt lắc đầu ngao ngán 😀",
+        "category": "region",
+        "id": "region_9810",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "trận tự đi?",
+        "category": "region",
+        "id": "region_9766",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "dùng từ nào thì cũng phải dùng đúng chỗ, chứ kp thấy ai pbvm cũng dùng từ cali đâu",
+        "category": "region",
+        "id": "region_9756",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "?? 3p trc???",
+        "category": "region",
+        "id": "region_9808",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "máy giặt nằm ngang thì nói làm j ní ơi",
+        "category": "region",
+        "id": "region_9841",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "cali nhiều chuyện quá",
+        "category": "region",
+        "id": "region_9740",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "lêu lêu bọn ko có mùa đông mùa thu 🤪",
+        "category": "region",
+        "id": "region_9727",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "thì kệ m",
+        "category": "region",
+        "id": "region_9817",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "trunky",
+        "category": "region",
+        "id": "region_9771",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "chắc hẳn là từ nhỏ đến giờ bạn gặp nhiều ngừoi tốt lắm nhỉ",
+        "category": "region",
+        "id": "region_9839",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "cái ngữ cali",
+        "category": "region",
+        "id": "region_9713",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "tôi nói theo quan điểm vậy thôi tại tôi chưa gặp người nào tốt cả",
+        "category": "region",
+        "id": "region_9785",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "cali trốn trại đi đâu đây",
+        "category": "region",
+        "id": "region_9715",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "lúc trước tôi có chuyến công tác đi ngoài bắc tôi cũng ko nghỉ ai cũng vậy mà ở đó 1 năm bị ngta nói xấu bịa đặt còn thấy nhiều kiểu đàn bà ngồi mâm dưới đàn ông mâm trên",
+        "category": "region",
+        "id": "region_9778",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "thì m cũng pbvm",
+        "category": "region",
+        "id": "region_9831",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    }
+]

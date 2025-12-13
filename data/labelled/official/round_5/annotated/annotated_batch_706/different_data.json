@@ -1,0 +1,450 @@
+[
+    {
+        "text": "nghe xong cảm thấy bị thấy kiểu gì sao sao á",
+        "category": "region",
+        "id": "region_16612",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "vải",
+        "category": "region",
+        "id": "region_16604",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "người đi trước làm khổ người đi sau. nghĩ mà buồn thay",
+        "category": "region",
+        "id": "region_16640",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "hỏi chấm nghệ an thì sao ???",
+        "category": "region",
+        "id": "region_16591",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nghệ an cũng là việt nam mà sao mà đối sử với nghệ an như thế🥺🥺🥺🥺🥺🥺🥺",
+        "category": "region",
+        "id": "region_16635",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nếu k có nghệ an thanh hóa chắc khó có đc độc lập tự do như ngayg hôm nay😞",
+        "category": "region",
+        "id": "region_16648",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "sao kì thị người nghệ an à",
+        "category": "region",
+        "id": "region_16628",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "không phải phân biệt mà là na ra bắc làm có 1 số công ty gặp một số thanh niên na kiểu hay gây sự đánh nhau chộm đồ công ty lên là vậy",
+        "category": "region",
+        "id": "region_16626",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "lên bd nghệ an vs sóc trăng thì hơi khó đấy",
+        "category": "region",
+        "id": "region_16587",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ủa rồi nghệ an thì sao",
+        "category": "region",
+        "id": "region_16622",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nghệ an bọn tao thì lm sao phải kì thị vậy chứ 😭😭😭😭😭",
+        "category": "region",
+        "id": "region_16621",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "cho hỏi bạn phỏng vấn bạn quê ở đâu bạn nói vậy quá tuyệt vời vì nghệ a có bác hồ ăn mặn nói chuyện khô cằn và chân thật tôi tự hào là người con xa xứ",
+        "category": "region",
+        "id": "region_16646",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nó có quyền mà😁😁",
+        "category": "region",
+        "id": "region_16593",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "tại sau cùng ở việt nam mà lại phân biệt thế kia hả",
+        "category": "region",
+        "id": "region_16585",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "sao nhận thế ??",
+        "category": "region",
+        "id": "region_16580",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nghe giọng bt ngay ng hà nội mà hà nội là kì thị 37vs 36 cực chả hiểu sao:(",
+        "category": "region",
+        "id": "region_16609",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "tao nhìn mà tức",
+        "category": "region",
+        "id": "region_16613",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "vn kì thị thì mình thua",
+        "category": "region",
+        "id": "region_16618",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "người vn cả sao lại kỳ thị vậy🥺",
+        "category": "region",
+        "id": "region_16611",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "37 nghệ an mải đỉnh",
+        "category": "region",
+        "id": "region_16661",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ae nghệ an ta đừng chấp 😏 cay cú câu nói bà nàay😏",
+        "category": "region",
+        "id": "region_16644",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "chx nhận chứ ko phải ko nhận",
+        "category": "region",
+        "id": "region_16584",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "sao mọi người cứ kì thị thế",
+        "category": "region",
+        "id": "region_16668",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "tau quê bác thì răng",
+        "category": "region",
+        "id": "region_16665",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nghệ an có j đâu mà phải kì thị",
+        "category": "region",
+        "id": "region_16634",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "ủa có 1 lá cờ. vn sao kì thị z ạ 😌",
+        "category": "region",
+        "id": "region_16625",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "quê bác hồ bị kì thị quá xem clip mà buồn😳",
+        "category": "region",
+        "id": "region_16660",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "cường ở hải dương nhưng xem vid này bức xúc quá",
+        "category": "region",
+        "id": "region_16616",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "tại lúc trước 2 tỉnh đó có vài ng quậy quá nên z",
+        "category": "region",
+        "id": "region_16662",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "cx là con người mà sao lại như z😳",
+        "category": "region",
+        "id": "region_16647",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "hỏi lí do mà không nhận nghê an nhỉ",
+        "category": "region",
+        "id": "region_16673",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ơ sao ko nhận v ai giải thích hộ 😳",
+        "category": "region",
+        "id": "region_16649",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "ủa kỳ thị vậy má",
+        "category": "region",
+        "id": "region_16602",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nghe mà tức 😡",
+        "category": "region",
+        "id": "region_16651",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "mé xem mà thấy ức chế thời đại nào mà còn phân biệt chủng tộc mé",
+        "category": "region",
+        "id": "region_16677",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "vn kiểu 1 người làm 1 đống người bị nói",
+        "category": "region",
+        "id": "region_16654",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "tại sao lại phân biệt thế",
+        "category": "region",
+        "id": "region_16684",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "người thanh hóa gian xảo, họ có thể làm nhiều vc để cho bản thân nhưng ko có nghĩa là ai cx giống như vậy, mong bạn có thể nhìn quê tôi vs ánh mắt kh",
+        "category": "region",
+        "id": "region_16680",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ủa giống phân biệt vùng miền z ngộ z sao làm z đc hay ko biết ???",
+        "category": "region",
+        "id": "region_16624",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "trốn nhìu họ sợ là đr",
+        "category": "region",
+        "id": "region_16642",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "trách dân mình thôi",
+        "category": "region",
+        "id": "region_16631",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "người nghệ an mà vào đc công ty này cx khổ với nó lắm",
+        "category": "region",
+        "id": "region_16607",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "vẫn chưa hiểu lí do mà bị kì thị luôn🥺",
+        "category": "region",
+        "id": "region_16666",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "đồng bài ruộng bỏ đồng bào nghe xót",
+        "category": "region",
+        "id": "region_16603",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ơ sao lại kì thị vậy họ quên là người cha vĩ đại của dân tộc sinh ra ở đâu rồi à hồ chí minh quê ở kim liên-nam đàn- nghệ an đó sao ko kì thị đi",
+        "category": "region",
+        "id": "region_16678",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ok baby nghe ngứa đít quá😬",
+        "category": "region",
+        "id": "region_16590",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "tui là del chấp nhận rôi",
+        "category": "region",
+        "id": "region_16623",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "ai mà quá đáng rk .. người việt nam hết mà",
+        "category": "region",
+        "id": "region_16669",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "cho mik xin nút phẩm nộ vs ạ",
+        "category": "region",
+        "id": "region_16676",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "tại s lại kì thị họ như vậy . cùng là ng con của bác mà lại lm như vậy",
+        "category": "region",
+        "id": "region_16671",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "ảo vãi 🥺🥺",
+        "category": "region",
+        "id": "region_16670",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "ko phải đâu bạn, họ kì thị chúng tôi từ lâu rồi, thấy chúng tôi thì lại né tránh rồi nhìn chúng tôi vs ánh mắt kì thị, quen rồi 😅",
+        "category": "region",
+        "id": "region_16679",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "đất miền nam thì quá bình thường nghệ an k nói nhiều",
+        "category": "region",
+        "id": "region_16629",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "con lạy mấy cụ kì thị🥺🥺🥺",
+        "category": "region",
+        "id": "region_16655",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "lí do j , ăn cắp á, m làm như có mình 36,37 ăn cắp ấy, t ko hiểu luôn, sao có thể nói thế nhỉ",
+        "category": "region",
+        "id": "region_16681",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ủa cũng là con người vn cũng là con người trong sạch họ có ăn cướp j âu mà lại sinh ra kiểu vậy",
+        "category": "region",
+        "id": "region_16650",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    }
+]

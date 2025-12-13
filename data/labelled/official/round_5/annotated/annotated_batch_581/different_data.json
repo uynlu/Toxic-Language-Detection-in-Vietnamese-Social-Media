@@ -1,0 +1,42 @@
+[
+    {
+        "text": "trần bình minh bọn nó cũng ở hướng bắc luôn mà",
+        "category": "region",
+        "id": "region_1787",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "vua đinh tiên hoàng người bắc kỳ mà ad .",
+        "category": "region",
+        "id": "region_1803",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "hồi xưa húc có mỗi cái cổng thôi mà dỗi đến giờ là sao",
+        "category": "region",
+        "id": "region_1860",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "sống yên ổn không xong thích làm \"con điên\" =))",
+        "category": "region",
+        "id": "region_1804",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "quoc khanh tran cựu tổng thống mỹ richard milhous nixon( 1969 - 1974 ) đã hối tiếc khi nói về cuộc chiến tranh việt nam:😏 “ nếu là truman tôi đã đứng về phía việt minh ngay từ đầu và lôi kéo họ , điều đó dễ hơn là chỉ huy một lũ ngu chống lại những kẻ thông minh nhất của một dân tộc “",
+        "category": "region",
+        "id": "region_1862",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    }
+]

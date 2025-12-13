@@ -1,0 +1,210 @@
+[
+    {
+        "text": "cá lau kiếng quá nhiều thịt.hấp sả ngon nhất quả đất.ko biết thưởng thức thì nói linh tinh.một con lau kiếng to nó cả hơn 1kg đấy",
+        "category": "region",
+        "id": "region_3299",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "bắt cụ",
+        "category": "region",
+        "id": "region_3328",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "cá lau kính ngon nhưng ít thịt.chó nó không ăn là vì nhiều sương nhọn và cứng",
+        "category": "region",
+        "id": "region_3287",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "trong miền tây chó không ăn cá rô cây",
+        "category": "region",
+        "id": "region_3273",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ở miền bắc có ăn,nhưng rất ít người ăn.vì con này làm thịt nó khó,ít thịt nhưng lại tanh.",
+        "category": "region",
+        "id": "region_3331",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "thâm sâu vậy",
+        "category": "region",
+        "id": "region_3314",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "mien tây xác nhận (chính xac100%)",
+        "category": "region",
+        "id": "region_3333",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "đùa lại cả miền bắc . thg ngáo đá đó mọi ng. chúng tôi bị oan 😭😭",
+        "category": "region",
+        "id": "region_3342",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nói hay quá a guột. bởi e nói mấy ní miền tây nói chuyện thẳng thắn. dễ chịu",
+        "category": "region",
+        "id": "region_3352",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "hay quá anh trai ơi . con chó nó khôn nên nó cũng không ăn lựu đạn",
+        "category": "region",
+        "id": "region_3377",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "anh em bìh tĩnh . đừng để bọn gốc việt lợi dụng . thay mặt miền bắc tôi xin lỗi anh em trong đó 🫡🫡",
+        "category": "region",
+        "id": "region_3337",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "chê chi cho chửi trong đầu 😄😄👍",
+        "category": "region",
+        "id": "region_3276",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "cá lau kiến ăn ngon mà",
+        "category": "region",
+        "id": "region_3267",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "chui rat kheo",
+        "category": "region",
+        "id": "region_3353",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "miền bắc bây giờ giàu gấp mấy lần miền nam; nhất là miền tây",
+        "category": "region",
+        "id": "region_3334",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "chả chửi chả nói tục mà đau quá 😂😂😂 hay",
+        "category": "region",
+        "id": "region_3295",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "tụi tao miền tây tiếc là kiếm cá rô cây hiếm lắm. haha",
+        "category": "region",
+        "id": "region_3268",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "miền tây ăn cá lao kiếng miền bắc ăn cá lao kinh",
+        "category": "region",
+        "id": "region_3374",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "thâm vậy bác!.",
+        "category": "region",
+        "id": "region_3348",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nghe mà nó thắm thắm thắm 😆😆😆😆😆",
+        "category": "region",
+        "id": "region_3375",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "cho dua long nhau",
+        "category": "region",
+        "id": "region_3281",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "ke nó bạn ơi , giọng md vậy vậy nói nó chi",
+        "category": "region",
+        "id": "region_3298",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "ăn nói nung tung cá đó là cá ngoại lai",
+        "category": "region",
+        "id": "region_3366",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "miền tây tụi tao k ăn cá rô cây thôi",
+        "category": "region",
+        "id": "region_3371",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "rau má nữa",
+        "category": "region",
+        "id": "region_3369",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "có thể là 1 lời kích động của bọn phản động. ae đừng nóng vội mà lọt bẩy kế khích tướng của bọn nó. mà nói thật ở mình ( bình thuận) cá lau kính nhiều vô kể nhưng ko biết làm ntn cho ngon. làm ra tanh và mất quá nhiều tg. ace có cách nào chế biến cá lau kính nhanh và món ăn ngon thì cho mình xin với. tks all !",
+        "category": "region",
+        "id": "region_3321",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    }
+]

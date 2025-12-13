@@ -1,0 +1,50 @@
+[
+    {
+        "text": "húc đổ cái cổng thoii mà dỗi lâu thế =))",
+        "category": "region",
+        "id": "region_1519",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "kms eisenblut thứ nhất nếu b có lòng tự trọng, lòng tự hào dân tộc b ko nên hỏi câu này. thứ hai b nên nhớ vn và trung quốc có lịch sử hàng ngàn năm xung đột , trong dó có những giai đoạn vườn không nhà trống , những giai đoạn phương bắc cai trị , mất toàn bộ lãnh thổ , nhưng ko phải là mãi mãi , vậy nên tùy thời điểm, trong bối cảnh lịch sử m phải chấp nhận cái đã mất , còn hiện tại thì chắc chắn không bao giờ mất thêm , nhưng cái khó là một đất nước nhỏ bé, so với tq hàng tỷ dân mà giữ đc ổn định ,để phát triển đất nước mà ko để gây xung đột chiên tranh. đó mới là cái chính.",
+        "category": "region",
+        "id": "region_1507",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "oanh vy lý não ko lưu",
+        "category": "region",
+        "id": "region_1480",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "khó thế cũng nghĩ ra được",
+        "category": "region",
+        "id": "region_1497",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "oanh vy lý bằng chứng đi , đảo lộn hết khái niệm rồi 😹",
+        "category": "region",
+        "id": "region_1483",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "oanh vy lý tao hỏi mày mày đang ở đâu",
+        "category": "region",
+        "id": "region_1551",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    }
+]

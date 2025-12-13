@@ -1,0 +1,250 @@
+[
+    {
+        "text": "cái tên nói lên tất cả",
+        "category": "region",
+        "id": "region_4714",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "phố kỳ lừa nằm về phía bắc phải hong?",
+        "category": "region",
+        "id": "region_4689",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "trung tran hoai thích chụp.mũ",
+        "category": "region",
+        "id": "region_4721",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "vinhdat lecong một comt thật tiếu lâm 💯",
+        "category": "region",
+        "id": "region_4680",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "đúng là ngôn ngữ xì trum!",
+        "category": "region",
+        "id": "region_4736",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "dũng's hoàng vĩ tuyến 17 trên hay dưới ￼, bạn nói mập mờ, không rõ ?!",
+        "category": "region",
+        "id": "region_4728",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "viết thiếu một chữ sau rồi!",
+        "category": "region",
+        "id": "region_4737",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "soi giun giun kim mình cg nghĩ zay",
+        "category": "region",
+        "id": "region_4764",
+        "toxicity_deepseek": "",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "cường euro chắc hay dùng để gài bố mẹ lắm nè kkkk cưng ghê",
+        "category": "region",
+        "id": "region_4741",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "không biết khi người ta gọi thế để chỉ con lừa hay sự lừa bịp ? đàng nào thì cũng tệ hèo ?",
+        "category": "region",
+        "id": "region_4750",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "hưng lê có. tui có đến chợ kỳ lừa rồi",
+        "category": "region",
+        "id": "region_4753",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "chịu thua rồi 😂",
+        "category": "region",
+        "id": "region_4756",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nếu nhớ câu vè \" đồng đăng có phố kỳ lừa\" thì có thể giải nghĩa câu này.",
+        "category": "region",
+        "id": "region_4773",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "cảnh báo hay xác nhận vậy hê? hahaha 😁",
+        "category": "region",
+        "id": "region_4754",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "khổ ghê",
+        "category": "region",
+        "id": "region_4759",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "chữ lừa có ý nghĩa tương tự ba xạo láo toét. 😜😜😜",
+        "category": "region",
+        "id": "region_4776",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "xuyên tạc để mọi người hiểu sai ý nghĩa trang này nên xóa bài viết này !",
+        "category": "region",
+        "id": "region_4770",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nguyễn sơn cảm ơn con ngoan.. kkk...cảm lạnh quá",
+        "category": "region",
+        "id": "region_4742",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "( từ trần đăng ninh _ bắc sơn ) thắng trần đăng ninh .đã từ trần tại bắc sơn",
+        "category": "region",
+        "id": "region_4697",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ở lạng sơn có một phố tên gọi kỳ lừa, nếu có thêm chữ bắc nữa...theo tôi nghĩ là phía bắc của phố này, nhưng không biết cái bảng trong ảnh có phải được chụp ở đó không",
+        "category": "region",
+        "id": "region_4713",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "thu nga vũ : từ “kỳ lừa ,” đâu nào đồng nghĩa với từ “bắc kỳ lừa “ bạn ?!",
+        "category": "region",
+        "id": "region_4727",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "lạng sơn nó đặt tên linh tinh lắm anh, thích thì đặt, vẽ bùa ra cho có chi. cái tên đường phố danh nhân tôn đản gần nhà e mà nó còn đặt là tông đản bao năm nay. ko có danh nhân tông đản nào cả. rồi xé nhỏ đoạn phố ngắn tẹo để đặt, lại thay đổi số nhà, địa chỉ. toàn lũ chỉ nghĩ việc chi cho nó kiếm thôi chứ ql nhà nước chẳng ra j. ấy vậy mà nó luôn tồn tại vô lý thế đấy a. cái đoạn kỳ lừa nó cũng ngắn tí ấy mà",
+        "category": "region",
+        "id": "region_4781",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "dũng's hoàng đổ vào chứ bạn",
+        "category": "region",
+        "id": "region_4701",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "vinhdat lecong tui bị có 1 đứa nó lừa mà điêu đứng suốt năm. này cả phố luôn chắc chết kkk",
+        "category": "region",
+        "id": "region_4684",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ngô học trò một con phố thì để cho người ta đi từ đầu phố đến cuối phố đi, mắc chi phải cắt khúc phân đoạn chia thành bắc, nam rồi mai mốt rảnh quá có chia thêm đông , tây để chỉ bên này đường phố với bên kia đường phố",
+        "category": "region",
+        "id": "region_4766",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "wo 21 ở hang chạm nọc nè .nói vui nhảy tưng từng",
+        "category": "region",
+        "id": "region_4720",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "đọc xong không biết “ kỳ lừa “ hay “ lừa kỳ “ ghê.",
+        "category": "region",
+        "id": "region_4748",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "đăng ninh từ trần nữa 😊",
+        "category": "region",
+        "id": "region_4692",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "giờ mới ...công khai",
+        "category": "region",
+        "id": "region_4779",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nghe giải thích hại não quá , muốn lừa thì nó lừa bất chấp",
+        "category": "region",
+        "id": "region_4778",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "tống thị tĩnh trái đất này có chia 4 hướng tây- bắc- đông- nam. nếu 1 con phố quá lớn, thì phải ghi rõ khu rõ hướng, để còn tiện cho việc quản lý và nhiều thứ khác. chứ nói như bạn thì cần gì chia ra xã phường, cứ để quận huyện là đc rồi :))!!!",
+        "category": "region",
+        "id": "region_4767",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    }
+]

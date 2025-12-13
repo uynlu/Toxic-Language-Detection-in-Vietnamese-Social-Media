@@ -1,0 +1,306 @@
+[
+    {
+        "text": "thùy dương đây hẻ",
+        "category": "region",
+        "id": "region_5866",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "phạm thanh hải nghe nói ny của bạn cũng",
+        "category": "region",
+        "id": "region_5853",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "bb phải k chị em",
+        "category": "region",
+        "id": "region_5863",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nguyênn bài học xương máu đầu đời:))))",
+        "category": "region",
+        "id": "region_5884",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "phuong thao trùi ui",
+        "category": "region",
+        "id": "region_5823",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "đã gán thì bọn tao làm cho tới",
+        "category": "region",
+        "id": "region_5845",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "phương dii tới nữa r",
+        "category": "region",
+        "id": "region_5826",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "tô lanphươngg :)))) fen em kìa",
+        "category": "region",
+        "id": "region_5874",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "hằng ngô quá chuẩn",
+        "category": "region",
+        "id": "region_5880",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "như quỳnh 🤣🤣",
+        "category": "region",
+        "id": "region_5839",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "anh thuw hết hồn",
+        "category": "region",
+        "id": "region_5820",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "t đi làm quen mấy ng thì k nổi 1 ng tử tế luôn á tr người thì mượn tiền k trả người thì trôm đồ mình ng thì kiểu 2 mặt tr ơi từ đấy t k bao giờ lm quen hay lm bạn với ng th nữa",
+        "category": "region",
+        "id": "region_5828",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "xàm",
+        "category": "region",
+        "id": "region_5899",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "luu thị dươnggmai anb dừa vài cuk anh e",
+        "category": "region",
+        "id": "region_5819",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "đã từng dính nên chỉ biết cười 😁 chán v l luôn",
+        "category": "region",
+        "id": "region_5883",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "mệt nhể khánh duyên😂",
+        "category": "region",
+        "id": "region_5854",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "an đoàn thanh quá",
+        "category": "region",
+        "id": "region_5830",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "phạm thanh hải :))",
+        "category": "region",
+        "id": "region_5869",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "hoàng ngân hâhhaa",
+        "category": "region",
+        "id": "region_5857",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "chum thị may là ngày xưa đi học đk ở vs toàn ng tử tế",
+        "category": "region",
+        "id": "region_5835",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "trần thế nguyên thấy làm mệt cho lên phòng ngủ trưa thôi mà mất mấy trăm triệu , nước hoa , giày dép , túi xách , mỹ phẫm . giờ nghĩ lại mình ngờ u 🥲",
+        "category": "region",
+        "id": "region_5889",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "phương phương hí",
+        "category": "region",
+        "id": "region_5832",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nguyễn lê thảo linh né thoa hánh ra nha",
+        "category": "region",
+        "id": "region_5886",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "quỳnh như nguyễn phương sợ nha",
+        "category": "region",
+        "id": "region_5855",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "phương huệ đau phải ai cũng v tr",
+        "category": "region",
+        "id": "region_5833",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "hoa thanh quế thì vkl r",
+        "category": "region",
+        "id": "region_5887",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "tú đặng kinh hãi :))",
+        "category": "region",
+        "id": "region_5868",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "hoàng khánh linh em lan ninh bình",
+        "category": "region",
+        "id": "region_5834",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "hà thanh thảolinh phùng chuẩn chỉnh",
+        "category": "region",
+        "id": "region_5905",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "thật nhiều khi ông bà cha mẹ đi trước nói rồi th thì 10 đứa 9 đứa ...",
+        "category": "region",
+        "id": "region_5900",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "hong ly nguyen buồn cười muốn ẻ 🤣🤣🤣🤣🤣",
+        "category": "region",
+        "id": "region_5898",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "khoan đã các cụ kinh nghiệm cho e tò mò đây là cú hay gai vậy? nhìn và nghe e đều ko đoán đc 😢",
+        "category": "region",
+        "id": "region_5907",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "hàng với nhau cả mà nói như đúng rồi",
+        "category": "region",
+        "id": "region_5862",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "cách kể lại cuốn vãi.",
+        "category": "region",
+        "id": "region_5918",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "theo tui thì bạn này cũng không uy tín lắm 🤭",
+        "category": "region",
+        "id": "region_5824",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "cú có gai à😂🙏",
+        "category": "region",
+        "id": "region_5902",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "lái này là lái đùm à",
+        "category": "region",
+        "id": "region_5925",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "hong ly nguyen em nhớ cái đợt mất ipad :))))",
+        "category": "region",
+        "id": "region_5896",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    }
+]

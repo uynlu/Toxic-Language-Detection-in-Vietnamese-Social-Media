@@ -1,0 +1,130 @@
+[
+    {
+        "text": "hai bạc liêu có đấy, champa, khmer mấy lần đem quân xâm lược đại việt",
+        "category": "region",
+        "id": "region_290",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nguyễn trọng hoài hay qua ban oi",
+        "category": "region",
+        "id": "region_304",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "thanh tuấn phụt cuốc mới đúng 🙃",
+        "category": "region",
+        "id": "region_311",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "tom lee ngày cạo được mấy bộ móng rồi",
+        "category": "region",
+        "id": "region_315",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nguyễn trọng hoài giờ cháy hết rồi kìa",
+        "category": "region",
+        "id": "region_305",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ngoc oanh truong quá đúng, ông đinh tiên hoàng là ng nam kỳ chuẩn vl",
+        "category": "region",
+        "id": "region_277",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "thi minh ngau do ha ha ha.",
+        "category": "region",
+        "id": "region_327",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "alexandro ông bụt 3we năm đó băng r, nhớ sao đc 🤣",
+        "category": "region",
+        "id": "region_320",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "hùng vương không ai kiểm soát sao bạn biết",
+        "category": "region",
+        "id": "region_329",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "tom lee thế cái này là gì =)) ai lái cái này đậu ở đây =))hahaha thua cuộc khóc lóc khổ thật",
+        "category": "region",
+        "id": "region_314",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "hai nam trinh nó đang ngầu mà bạn =)))",
+        "category": "region",
+        "id": "region_318",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nguyễn hồng theo giai đoạn , tam kỳ là thời pháp.",
+        "category": "region",
+        "id": "region_345",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nguyễn hồng xem bài viết đi rồi biết tay ai nhanh hơn não",
+        "category": "region",
+        "id": "region_341",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nguyen a có nghe nó nói giặc ở đông nào mà",
+        "category": "region",
+        "id": "region_285",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nguyễn hồng bắc kỳ nay ai dùng nữa từ thời pháp đô hộ chia ra 3 nam kỳ bắc kỳ trung kỳ. còn nói thế thì đế chế khmer cổ mới nói được. nhưng khmer cỗ đã sụp đổ .con bắc trung nam là 1 nước từ thời chúa nguyễn . đã nói và viết cùng 1 ngôn ngữ thì là 1 dân tộc .không gọi là giặc được. chỉ những người bị tây đồng hóa mới nghĩ thế.",
+        "category": "region",
+        "id": "region_343",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ngoc oanh truong gu học , phát biểu ms vậy",
+        "category": "region",
+        "id": "region_339",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    }
+]

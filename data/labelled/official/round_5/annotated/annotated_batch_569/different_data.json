@@ -1,0 +1,98 @@
+[
+    {
+        "text": "phao cau uh công lao của dân nhưng ai lãnh đạo, dân mà ko có lãnh đạo thì khác gì rắn mất đầu nên đây là công của cả dân và đảng, mà trên đang so sánh giữa 2 thể chế, lôi gì dân vào đây vậy",
+        "category": "region",
+        "id": "region_616",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "son ngthai họ viết đúng đấy bạn \" tiền nhận\" chứ ko phải \"tiền nhân\" đâu",
+        "category": "region",
+        "id": "region_556",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "hoàng đức thịnh :",
+        "category": "region",
+        "id": "region_568",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "lê thanh tú sao đu càng phải viết ko dấu vậy bạn :))",
+        "category": "region",
+        "id": "region_585",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "đinh quang bách viết theo cách tây phải vậy chúng nó mới hiểu bạn ơi.",
+        "category": "region",
+        "id": "region_592",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "tran đức anh nói cho chính xác thì: - hoa kỳ viện trợ cho đến hết năm 1969 - việt nam dân chủ cộng hoà được trung quốc + nga viện trợ cho đến khi xâm lược việt nam cộng hoà thành công",
+        "category": "region",
+        "id": "region_603",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "vậy bạn đang ở miền bắc phải không. còn chúng tôi là ở miền nam thì liên quan gì. dù là chế độ nào đi nữa cũng phải xem trọng người dân. chứ để dân ghét không bền lâu đâu.",
+        "category": "region",
+        "id": "region_560",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "dung tran đây thì sao b 🤣",
+        "category": "region",
+        "id": "region_613",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "son ngthai đúng vậy",
+        "category": "region",
+        "id": "region_558",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "xin tư liệu nhé bạn 😃 để đi khịa a tân",
+        "category": "region",
+        "id": "region_566",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "hai bạc liêu trước đây có bài ca :\" giặc từ miền b vô đây bàn tay nhuốm....",
+        "category": "region",
+        "id": "region_625",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "đúng vậy , xin đừng gởi đô la , xin đừng làm “ khúc ruột ngàn dặm “ như lời huy động của vị lãnh tụ",
+        "category": "region",
+        "id": "region_645",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    }
+]

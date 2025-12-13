@@ -1,0 +1,106 @@
+[
+    {
+        "text": "hiếu huỳnh quá chuẩn rồi",
+        "category": "region",
+        "id": "region_801",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "1979 ko thấy anh xứ huê kì xung phong đánh trận nhỉ",
+        "category": "region",
+        "id": "region_822",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "sao trong sử sách không thấy nhắc đến cửa này nhỉ",
+        "category": "region",
+        "id": "region_778",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "sen trắng thấy mệt mỏi mà sao bạn cũng sân si quá. ngứa cái gì thì tôi cũng giống bạn thôi thấy không vừa mắt là cào phím. bạn không mở lời sao có tôi ở đây.",
+        "category": "region",
+        "id": "region_802",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "lèng xuân bầu quá tuyệt vời 🥳",
+        "category": "region",
+        "id": "region_787",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "hai bạc liêu do hạn chế hiểu biết đấy bác.",
+        "category": "region",
+        "id": "region_844",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "sỏ lá ba que không à",
+        "category": "region",
+        "id": "region_770",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "tam bang thời đại internet không ai cần sự định hướng, tuyên truyền, xuyên tạc sự thật dẩu như thế nào thì mọi người muốn biết thì sẽ tự kiếm google teacher cậu quang vinh mới seventeen year old vừa đoạt giải olympia of australia mà còn hiểu biết nữa thì không cần phải dài giòng văn tự chi cho mệt hử ?",
+        "category": "region",
+        "id": "region_846",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "oanh vy lý chỉ có bọn tay sai cho ngoại bang mới gọi là bán nước ,còn chính quyền do ngoại bang dựng lên thì gọi là ngụy quyền .",
+        "category": "region",
+        "id": "region_855",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "phạm xuân học lại chính tả đi con. mất gốc rồi đấy",
+        "category": "region",
+        "id": "region_833",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "sen trắng thế không có đảng cộng sản việt nam chỉ cho con đường sáng, tập hợp mọi tầng lớp nhân dân quanh đảng chiến đấu chống lại thực dân, phong kiến, đế quốc thì người dân sao thoát khỏi thân phận nô lệ được. như bọn vnch thích làm nô lệ cho pháp và mỹ thì người dân yêu nước có theo quái đâu. cho lên đảng là tập hợp tinh hoa của những người dân yêu nước mong muốn những điều tốt nhất cho dân tộc việt nam. giỏi chưa chắc đã vào được đảng mà yêu cầu cốt lõi nhất của một đảng viên là yêu nước, yêu dân tộc việt nam chứ không như lũ 3/ miệng thì bô bô yêu mẹ việt nam nhưng hành động thì dựa hơi ngoại bang chống phá sự phát triển của việt nam.",
+        "category": "region",
+        "id": "region_803",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "3 que đọc xong kiểu",
+        "category": "region",
+        "id": "region_853",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "toán học cuộc sống một con bodo đi làm cu li và làm đũy khắp năm châu, đẹp mặt",
+        "category": "region",
+        "id": "region_861",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    }
+]

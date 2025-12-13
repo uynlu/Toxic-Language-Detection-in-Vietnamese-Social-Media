@@ -1,0 +1,154 @@
+[
+    {
+        "text": "nói hay quá a chai ơi văn miền nam ăn còn van miền bắc có cá rô cây mà không biết đâu",
+        "category": "region",
+        "id": "region_3820",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "anh guột thâm quá nha anh guột",
+        "category": "region",
+        "id": "region_3857",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "giờ mới hiểu con cá rô cây là con gì.kaka",
+        "category": "region",
+        "id": "region_3837",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "chiến này mình về vn có ăn thử khô cá lau kiến ôi nó ngon hẹn lần sau mang xách tay qua đây làm quà nè kkkk",
+        "category": "region",
+        "id": "region_3873",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "miền bắc cười miền tây, xong miền tây vào chế giễu miền trung, chủ video này thiếu kiến thức nên mới nói vậy.",
+        "category": "region",
+        "id": "region_3870",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "thằng ấy nó bị thiếu máu bạn thông cảm.xin lỗi ae miền nam",
+        "category": "region",
+        "id": "region_3886",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "bắt con cá bỏ vô rổ kêu rồ rồ",
+        "category": "region",
+        "id": "region_3876",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "tao người miền trung nhìn 2 thằng nam bắc đấu khẩu cười muốn lòi trĩ 🤣🤣🤣",
+        "category": "region",
+        "id": "region_3859",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "cay thế 🤣😂😅",
+        "category": "region",
+        "id": "region_3846",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "ngày trước ,cá khoai trong miền nam chỉ cho chó & heo (lợn) ăn",
+        "category": "region",
+        "id": "region_3910",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ông này ổng nói hài hài nhưng câu cuối tụi ngoài kia thốn lắm , thốn tới não luôn",
+        "category": "region",
+        "id": "region_3871",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "ghét nhất dùng từ bọn ,ăn nói vô duyên nha chúng mày",
+        "category": "region",
+        "id": "region_3896",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "bạn nói đúng mà còn nói lớn nữa……..kkkkkkk",
+        "category": "region",
+        "id": "region_3929",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nói câu nghe có vẻ thiếu chữ",
+        "category": "region",
+        "id": "region_3927",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "mẹ cứ kiếm được xô cái lâu kính về nướng ăn thì hết nước chấm.",
+        "category": "region",
+        "id": "region_3907",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "móa thấm dữ vậy 😂",
+        "category": "region",
+        "id": "region_3926",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "bọn cali nó thấy các bạn chửi nhau nó sướng lắm đó.",
+        "category": "region",
+        "id": "region_3892",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "chê miền nam, mà có mặt khắp nơi",
+        "category": "region",
+        "id": "region_3887",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ok anh trai tuyệt vời luôn nó nghe được chỉ có mà tức ói máu luôn",
+        "category": "region",
+        "id": "region_3924",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    }
+]

@@ -1,0 +1,346 @@
+[
+    {
+        "text": "trả đt cho mẹ đi cháu 🤣",
+        "category": "region",
+        "id": "region_8225",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "suy bụng ta ra bụng người à gáiii😌😌",
+        "category": "region",
+        "id": "region_8213",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "chào đồng chí ,chí huyện gì ạ",
+        "category": "region",
+        "id": "region_8186",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "cùng tỉnh fl chéo cái nhỉ",
+        "category": "region",
+        "id": "region_8189",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "eo ôi,tỉnh m hơn chưa, mà cx hơn thì không hơn nổi",
+        "category": "region",
+        "id": "region_8215",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "có r á bà",
+        "category": "region",
+        "id": "region_8158",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "đâyy",
+        "category": "region",
+        "id": "region_8177",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "t ở hoằng hợp",
+        "category": "region",
+        "id": "region_8173",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "(thanh hóa )nga sơn đâu hết rùi",
+        "category": "region",
+        "id": "region_8197",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nghệ an chào thanh hoá nì💖",
+        "category": "region",
+        "id": "region_8159",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "thôn triệu sơn",
+        "category": "region",
+        "id": "region_8200",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "xóa nhật ký sao z",
+        "category": "region",
+        "id": "region_8172",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "đứa nào mà trl nó hỏi thì nó chưa hỏi mà m trl trước là thằng kia bị m đọc",
+        "category": "region",
+        "id": "region_8224",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "+1 phiếu ủng hộ 44 trong anh",
+        "category": "region",
+        "id": "region_8222",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "cs ae nào ở ở điền lư bá thước k 😁",
+        "category": "region",
+        "id": "region_8163",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "láu: mày xếp chữ nào trước",
+        "category": "region",
+        "id": "region_8291",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "theo trải nghiệm của t và nhg ng t bt,ng thanh hoá thg bị coi là thảo mai và họ hay tính toán,và t gặp kha khá nhiều ng thanh hoá như thế.nhg cx có ng thanh hoá t gặp khá cute nên tùy chỗ th ạ😭",
+        "category": "region",
+        "id": "region_8207",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "kh có chính kiến riêng đi hùa theo toxic ngta á c ,chứ ng th tự hào lắm c ạ",
+        "category": "region",
+        "id": "region_8204",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "em ơi khách oder xuyên đêm🗿",
+        "category": "region",
+        "id": "region_8214",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "vtuan bao giờ lá rau má to bằng lá sen",
+        "category": "region",
+        "id": "region_8270",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "cali 44 đi t ủng hộ m😏",
+        "category": "region",
+        "id": "region_8248",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "44 đi uho nè",
+        "category": "region",
+        "id": "region_8285",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "ae mày đề phòng m ăn dép bọn nó à🤣",
+        "category": "region",
+        "id": "region_8202",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "lali cồn",
+        "category": "region",
+        "id": "region_8249",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "mình cũng vừa xấu vừa bẩn đấy thôi",
+        "category": "region",
+        "id": "region_8334",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "suyt k nói k ai nghĩ m k có bame đâu",
+        "category": "region",
+        "id": "region_8210",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ngocphong2018 rep t",
+        "category": "region",
+        "id": "region_8268",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "mèo biết bay đọc cmt mà pùn",
+        "category": "region",
+        "id": "region_8317",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "chứ nói rằng mình là thanh hoá",
+        "category": "region",
+        "id": "region_8176",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "44 đi tao ủng hộ cả 2 tay hai chân",
+        "category": "region",
+        "id": "region_8331",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "44 đi🥳",
+        "category": "region",
+        "id": "region_8332",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "tuấn đạt toi tu hao nguoi xu ba sau",
+        "category": "region",
+        "id": "region_8296",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "bluh kaitlyn mình ở nông cống",
+        "category": "region",
+        "id": "region_8314",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "ipin nó chửi tao",
+        "category": "region",
+        "id": "region_8226",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "như tên",
+        "category": "region",
+        "id": "region_8333",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "m có đẹp đâu :)) m tự nhận ở tên m r mag",
+        "category": "region",
+        "id": "region_8289",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "44 liền đi",
+        "category": "region",
+        "id": "region_8290",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "duyên nhờ??",
+        "category": "region",
+        "id": "region_8242",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "bởi vì thanh hoá nhiều trai xinh gái đẹp, đoàn kết lại lắm vua😔",
+        "category": "region",
+        "id": "region_8203",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "44 đi t ủhộ",
+        "category": "region",
+        "id": "region_8253",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "44 đi t ủng họ",
+        "category": "region",
+        "id": "region_8240",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "thôn hoá lành nghe thôi đã sợ rồi",
+        "category": "region",
+        "id": "region_8267",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ấy oi 44 đi to ủng hộ tiện to đăng lên mạng cho xh^^",
+        "category": "region",
+        "id": "region_8336",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    }
+]

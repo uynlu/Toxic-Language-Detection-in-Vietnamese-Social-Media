@@ -1,0 +1,162 @@
+[
+    {
+        "text": "thế cho nhanh",
+        "category": "region",
+        "id": "region_1224",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "oanh vy lý ơ biết nói tiếng việt cơ à, cũng giỏi phết",
+        "category": "region",
+        "id": "region_1231",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "đây là lời tổng thống kennedy từng nói : \" nếu chúng ta ko phải là cha mẹ của nc việt nam nhỏ bé[ ý chỉ vnch] thì chắc chắn chúng ta cũng là cha mẹ đỡ đầu của nó. chúng ta là chủ toạ khi nó ra đời, chúng ta viện trợ để nó sống, chúng ta giúp định hình tương lai của nó. đó là con đẻ của chúng ta, chúng ta ko thể bỏ rơi nó, chúng ta ko thể ko biết tới những nhu cầu của nó. và lời tuyên bố của kennedy đã làm nổi bật lên 3 điều: 1. khảng định vnch là sàn phẩm do mỹ nặn ra ko thể chối cãi đc. 2. chế độ đó phụ thuộc hoàn toàn vào bầu sữa mỹ, nếu ko có viện trợ mỹ nó sẽ chết yểu. 3. mỹ là kẻ quyết định tương lai của vnch chứ ko phải dân chủ tự do như cái danh hiệu mỹ nêu ra.",
+        "category": "region",
+        "id": "region_1187",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "dạo này cali văn hoá lên cao thật, biết cả chữ nho.",
+        "category": "region",
+        "id": "region_1192",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "tom lee tây nói được cả tiếng việt luôn à giỏi thế f mấy rồi",
+        "category": "region",
+        "id": "region_1207",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ae cang đù dạo này vui phết nhỉ",
+        "category": "region",
+        "id": "region_1173",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "bố tổ con đu càng",
+        "category": "region",
+        "id": "region_1237",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "phạm hải chữ nôm ạ",
+        "category": "region",
+        "id": "region_1170",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "bắt phương tỏa thược sẽ còn đúng mà sẽ còn phải làm đến nhiều đời sau nữa đấy đồng bào ạ",
+        "category": "region",
+        "id": "region_1195",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "oanh vy lý học đi",
+        "category": "region",
+        "id": "region_1248",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "cha ông tao không đu càng với vượt biên bằng thuyền thúng.",
+        "category": "region",
+        "id": "region_1242",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "dòng chữ đó bị để mốc không ai dám làm rõ chữ",
+        "category": "region",
+        "id": "region_1197",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "chu đức luân đúng 🤣🤣",
+        "category": "region",
+        "id": "region_1171",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "oanh vy lý nó đu càng qua đấy",
+        "category": "region",
+        "id": "region_1255",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nghĩa thật qua cổng chúng mày phải mua vé nộp tiền tây ta phuong bac phuong đông cứ tiền là qua",
+        "category": "region",
+        "id": "region_1196",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "oanh vy lý sao ở phía bắc việt nam thì phải gọi là bắc quan chứ sao lại nam quan? :))",
+        "category": "region",
+        "id": "region_1229",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "anh em cứ lo làm ăn ngủ khoẻ, chứ cali nó còn ngu như này thì mùa quýt năm nào cũng chưa phục quốc được kk",
+        "category": "region",
+        "id": "region_1219",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "oanh vy lý thiếu nước nên sảng à?",
+        "category": "region",
+        "id": "region_1260",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "tôi thấy nên đề phòng cali thì hơn",
+        "category": "region",
+        "id": "region_1174",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "oanh vy lý hỏi bố navar m xem thì biết",
+        "category": "region",
+        "id": "region_1257",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    }
+]

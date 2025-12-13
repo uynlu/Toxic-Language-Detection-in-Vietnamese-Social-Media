@@ -1,0 +1,114 @@
+[
+    {
+        "text": "vu lam nhan về giữ đất đi bạn 🤣🤣",
+        "category": "region",
+        "id": "region_411",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "son ngthai tự do nói sự thật , chứ không phải tự do lừa dối xuyên tạc lịch sử .",
+        "category": "region",
+        "id": "region_359",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "thanh hoàng bạn có nghĩ là mình đang xúc phạm quyền tự do của người khác không. bạn biết gì về chúng tôi.",
+        "category": "region",
+        "id": "region_358",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nghia nguyencao sao bạn biết sai.bạn đọc bao nhiêu truyện tàu rồi",
+        "category": "region",
+        "id": "region_371",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "bịa.đặt.",
+        "category": "region",
+        "id": "region_427",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nên xem lại lỗi chính tả rồi hãy luận bàn ( \" comment \" ) chuyện đông tây , bạn à !",
+        "category": "region",
+        "id": "region_384",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "thanh hoàng bạn biết được bao nhiêu về lịch sử và saigon. còn tôi và những người như ca sĩ ánh tuyết sống từ nhỏ tới lớn ở đây.",
+        "category": "region",
+        "id": "region_360",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "tom lee tên tây mà còn giỏi tiếng việt thế àh",
+        "category": "region",
+        "id": "region_423",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "hai bạc liêu. bên tq họ gọi vn là giặc nam. xưa ta nước nam, còn tàu là nước bắc.",
+        "category": "region",
+        "id": "region_408",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "chưa thấy giặc.mà mấy cái luật rừng đưa ra .tự ta giết ta.tết ko vui rồi đó.",
+        "category": "region",
+        "id": "region_380",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nghia nguyencao vậy bạn có biết tôi muốn nói gì không?",
+        "category": "region",
+        "id": "region_433",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "lam anh huynh có cái cổng cũng dỗi thế cu😗",
+        "category": "region",
+        "id": "region_435",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "tran đức anh 3/ nó thích thứ này hơn",
+        "category": "region",
+        "id": "region_452",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "vu lam nhan nghe câu cú nhỉ cố gắng lên bạn , dù sao mình cũng dân lưu vong mà cố gắng ẳng lên cho người ta biết chứ 🤣🤣🤣",
+        "category": "region",
+        "id": "region_415",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    }
+]

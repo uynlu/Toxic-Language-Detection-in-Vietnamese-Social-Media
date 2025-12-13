@@ -1,0 +1,314 @@
+[
+    {
+        "text": "chuẩn luôn thanh hoá",
+        "category": "region",
+        "id": "region_19712",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "chuẩn, tiếp xúc rồi cái gì cũng phải hơn",
+        "category": "region",
+        "id": "region_19697",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "chuan",
+        "category": "region",
+        "id": "region_19698",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nói thật người 36 rất khôn ,nhưng mình vẫn sống bình thường với họ vì cùng là con người viẹt nam",
+        "category": "region",
+        "id": "region_19692",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "tại bay ghen",
+        "category": "region",
+        "id": "region_19690",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "đã vậy lại còn bị con trai thì đẹp .toàn gái xinh .ví dụ như mình nè toàn bị xinh nhất trong 20 năm làm việc tại cty",
+        "category": "region",
+        "id": "region_19705",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nói chỉ có chuẩn hahaha",
+        "category": "region",
+        "id": "region_19656",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "đúng anh ạ. kkk",
+        "category": "region",
+        "id": "region_19721",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "chưa đúng e ạ",
+        "category": "region",
+        "id": "region_19680",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "bè phái,, lôi kéo, mưu mô nên mới bị ghét a ah... tôi từng nếm trải rồi... nên thôi nên xa ra",
+        "category": "region",
+        "id": "region_19720",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "chỉ thấy khôn lão thôi",
+        "category": "region",
+        "id": "region_19729",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nc thanh hóa giỏi",
+        "category": "region",
+        "id": "region_19662",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "thanh hoa cung tuy tung người tuy bản chất mỗi nguoi thoi nhe.rieng ca nhan e thanh hoa thi thjk sống sòng phẳng k thich lợi dung ai.",
+        "category": "region",
+        "id": "region_19730",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "ghét thật.. nợ tiền k trả, bán hàng thì toàn đòi trừ tiền.. k trừ k lấy, bom hàng về 😁 bảo sao t ghét 😅",
+        "category": "region",
+        "id": "region_19732",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "chuẩn men",
+        "category": "region",
+        "id": "region_19719",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "ở đâu cũng có người này kia. nhưng tại đa phần sống không đẹp. nên ngta hay nhìn phần lớn..",
+        "category": "region",
+        "id": "region_19713",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "chỉ đc cái nói đúng. th có những 44 đời vua. gì mà chả bị ghét",
+        "category": "region",
+        "id": "region_19644",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nhưng thanh hóa phải nói là khôn nỏi...nhưng cũng ko nên miệt thị...",
+        "category": "region",
+        "id": "region_19681",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "anh nói đúng còn nói to",
+        "category": "region",
+        "id": "region_19714",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "thanh hóa cái j cũng nhất k tỉnh nào bằng",
+        "category": "region",
+        "id": "region_19693",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "😅😅😂😂😂 đúng bản chất 😂😂😂😂",
+        "category": "region",
+        "id": "region_19665",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "toàn học giỏi hơn bọn nó 🤣🤣bảo sao bạn cùng phòng cũ mình ảo tưởng thế hâhha",
+        "category": "region",
+        "id": "region_19650",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "chưa bao h chị đưa tiền cho zai chỉ toàn thấy người ta thui",
+        "category": "region",
+        "id": "region_19716",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "tôi có thằng em ở lông cống tên thắng hai anh em vào sài gòn đóng than thuê năm 91 mà toàn ăn ngon nóng ăn kem xịn hahahaha",
+        "category": "region",
+        "id": "region_19741",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "muốn ăn rau má về th",
+        "category": "region",
+        "id": "region_19750",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "đúng kkkk",
+        "category": "region",
+        "id": "region_19740",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "gió tầng nào thì gặp mây tầng đó.ở đâu cung co ng nay ng kia nhung ng chê thanh thoa thì hãy tự trách minh ở tầng …nên gặp ng ko gia gi thôi",
+        "category": "region",
+        "id": "region_19724",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ông này dân thành mà 😁😁😁",
+        "category": "region",
+        "id": "region_19728",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "mấy ông th như ông này nói thì tui chưa thấy chỉ thấy toàn những gì thiên hạ nói là chuẩn",
+        "category": "region",
+        "id": "region_19753",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "cái gì cũng nhất 😂",
+        "category": "region",
+        "id": "region_19655",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "36 thanh hóa mãi đỉnh mặc kệ người ta ghét 😏",
+        "category": "region",
+        "id": "region_19671",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "toàn nhặt vặt",
+        "category": "region",
+        "id": "region_19733",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nói đúng lại còn nói tooo 😁",
+        "category": "region",
+        "id": "region_19748",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "có người nói ăn cơm nhà nó xong nó còn đánh mình",
+        "category": "region",
+        "id": "region_19735",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "đâu cũng có người này người kia, nhiều người nói khôn lỏi, khôn lỏi là do bản tính của từng người.chị dâu m người th vào đấy xem ngta làm ăn giỏi lắm",
+        "category": "region",
+        "id": "region_19736",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "theo ý kiến cả nhân thôi chứ theo mình ở đâu cũng có người tốt người xấu nếu nguyen người thanh hoá hư hỏng thì vn k đến nỗi khổ",
+        "category": "region",
+        "id": "region_19743",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "lấy vk thanh hoá rồi :))",
+        "category": "region",
+        "id": "region_19747",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ko phải đâu mà tại bẩn",
+        "category": "region",
+        "id": "region_19638",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "đi ăn trộm cũng hơn tui nó 😂😂😂😂",
+        "category": "region",
+        "id": "region_19745",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    }
+]

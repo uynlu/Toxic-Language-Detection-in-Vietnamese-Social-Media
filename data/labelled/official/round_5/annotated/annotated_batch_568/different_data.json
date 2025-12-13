@@ -1,0 +1,74 @@
+[
+    {
+        "text": "vũ anh tuấn khinh mà lấy được em gái bí thư nghị ư.",
+        "category": "region",
+        "id": "region_509",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "trong tien hoang bao năm làm được gì cho dân tộc chưa?",
+        "category": "region",
+        "id": "region_477",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "hiếu huỳnh quá chính xác",
+        "category": "region",
+        "id": "region_455",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "oanh vy lý cay",
+        "category": "region",
+        "id": "region_545",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "vu lam nhan nghĩ cũng buồn bản thân giờ cũng không hiểu mình thuộc giống loài nào 😂😂",
+        "category": "region",
+        "id": "region_507",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "hoàng phú xin lỗi nghen , nước có sạch thì còn khát , chứ thứ nước bây giờ bẩn quá ,chẳng ai thèm !",
+        "category": "region",
+        "id": "region_496",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "thi minh ngau do vậy thân gửi họ hàng bên kia bờ rào nếu không khát nước thì khỏi phải lo cho bà con bên này bờ rào",
+        "category": "region",
+        "id": "region_504",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "đem cái lý thuyết suông ra chỉ trích, bàn luận phân tích đồ, như kiểu 1+1 tại sao lại bằng 2 =))",
+        "category": "region",
+        "id": "region_542",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "tom lee chứ ko phải mẹ cali ak 😂😂😂😂😂😂😂😂",
+        "category": "region",
+        "id": "region_525",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    }
+]

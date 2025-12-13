@@ -1,0 +1,186 @@
+[
+    {
+        "text": "cái loại phân biệt vùng miền moá nó",
+        "category": "region",
+        "id": "region_2213",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "chàng cô đơn : pịa là tây bắc là miền núi chứ không phải đồng bằng bắc bộ nhé , bác đừng có nhầm , nó là món của người dân tộc, không phải dân tộc kinh",
+        "category": "region",
+        "id": "region_2209",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "trieu le mình k nên nói từ cức nghe ớn quá... nói là phân á",
+        "category": "region",
+        "id": "region_2239",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "vũ biển chuẩn luôn",
+        "category": "region",
+        "id": "region_2207",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "teo nam zô làm giàu trong ấy nè",
+        "category": "region",
+        "id": "region_2258",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "trần đúng lũ vô học mới phân biệt vùng miền. miền nào cũng có người nọ người kia mày còn thua cái thằng nói đấy. ăn nói vô học",
+        "category": "region",
+        "id": "region_2204",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "lý thắng t thích",
+        "category": "region",
+        "id": "region_2226",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "trí vô sư đúng rồi, thằng nào còn nào mất dạy cứ chửi thẳng, chửi chết cụ nó, chứ cá nhân đứa đó k thể đại diện cả vùng miền được, ở đâu cũng có ng tốt kẻ xấu",
+        "category": "region",
+        "id": "region_2274",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "phước tâm dương à , gọi là cá gỗ ý hả ? mình ở nghệ an nè hay bị gọi là dân cá gỗ nhưng chả quan tâm lắm vì mình chẳng chê bai ai cả nên họ có chê mình cũng kệ , vui vẻ đẻ ra tiền 😅",
+        "category": "region",
+        "id": "region_2232",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "por huy người dân miền nam đa số là sắc dân khác nha, đừng có nghĩ là gốc gác bắc nha, éo dính dấp gì đâu, và cá rô cây chỉ là đặc sản của miền bắc thôi 😅😅😅",
+        "category": "region",
+        "id": "region_2293",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "cá rô cây là s",
+        "category": "region",
+        "id": "region_2220",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "pha lê 😂😂😂",
+        "category": "region",
+        "id": "region_2262",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "lý thắng cá rô cây là cá gì vậy ạ ??",
+        "category": "region",
+        "id": "region_2230",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "lý thắng 🤣🤣👏👏👏👍.",
+        "category": "region",
+        "id": "region_2228",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "lưu cường chưa xài thôi. nó cũng như trê tra thôi. đầy ao kênh thì cũng gặm hết. tôi miền bắc vào miền tây thấy thiên nhiên trù phú, hiền hòa. chị em dễ thương, nhìn đâu cũng là sinh cơ, nhìn đâu cũng là sản vật. khác hẳn với nông thôn bắc bộ.",
+        "category": "region",
+        "id": "region_2297",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "sp gas tui chưa bao giờ mua dfoof của ba ke.",
+        "category": "region",
+        "id": "region_2256",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "duong chillinh nói bọn miền tây vậy tụi tao cũng có ĩa bàn thờ nhà 3 đời tụi đâu sao nói vậy",
+        "category": "region",
+        "id": "region_2269",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "trí vô sư ông anh nói chuẩn",
+        "category": "region",
+        "id": "region_2276",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "thien thai minh chửi ai thì chửi trực tiếp đến nó chứ đừng có kiểu phân biệt vùng miền vơ đũa cả nắm vì tôi cũng ăn loại cá này.",
+        "category": "region",
+        "id": "region_2270",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "phước tâm dương thêm tí nước mắm nữa vào con cá rô cây b để lúc ăn cơm còn chan thứ nước mắm ấy vào ăn chung nữa 😂😂😂",
+        "category": "region",
+        "id": "region_2305",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "lý thắng như này hả ông anh🤣",
+        "category": "region",
+        "id": "region_2303",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "tống ngụy việc học rất quan trọng. và sự giáo dục gd",
+        "category": "region",
+        "id": "region_2211",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "por huy chuẩn , cá lau kính đúng ngoài mình ko sài thật",
+        "category": "region",
+        "id": "region_2295",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    }
+]

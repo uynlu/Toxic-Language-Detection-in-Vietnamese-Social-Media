@@ -1,0 +1,322 @@
+[
+    {
+        "text": "bảo be",
+        "category": "lgbtq",
+        "id": "lgbtq_16254",
+        "toxicity_deepseek": "",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nguyễn lâm",
+        "category": "lgbtq",
+        "id": "lgbtq_16273",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "hồ vĩnh chung",
+        "category": "lgbtq",
+        "id": "lgbtq_16258",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "hạ văn",
+        "category": "lgbtq",
+        "id": "lgbtq_16269",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nguyễn quân",
+        "category": "lgbtq",
+        "id": "lgbtq_16219",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "phim gay cấn quá",
+        "category": "lgbtq",
+        "id": "lgbtq_16293",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "phạm cườnghuy hoànggia bảo",
+        "category": "lgbtq",
+        "id": "lgbtq_16233",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "phát hà",
+        "category": "lgbtq",
+        "id": "lgbtq_16229",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "ht mộng kha quốc anh nhật nguyên ng hoàng thiên thanh đức nhã",
+        "category": "lgbtq",
+        "id": "lgbtq_16218",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "đình đức oách lắm mới thấy",
+        "category": "lgbtq",
+        "id": "lgbtq_16314",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ánh hoàng",
+        "category": "lgbtq",
+        "id": "lgbtq_16281",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "mong chánh quyền,an ninh mạng xử lý hết mấy cái này lây nhiễm cả giới trẻ",
+        "category": "lgbtq",
+        "id": "lgbtq_16311",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nguyễn hữu thịnh u u",
+        "category": "lgbtq",
+        "id": "lgbtq_16329",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "vh nhung",
+        "category": "lgbtq",
+        "id": "lgbtq_16246",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "phạm bá trungtrần trung",
+        "category": "lgbtq",
+        "id": "lgbtq_16265",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "ngô thiên ân bả thấy h á",
+        "category": "lgbtq",
+        "id": "lgbtq_16225",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "ng t khánh",
+        "category": "lgbtq",
+        "id": "lgbtq_16227",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "hàn tử thiên",
+        "category": "lgbtq",
+        "id": "lgbtq_16328",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nagi nguyễn t block m quá",
+        "category": "lgbtq",
+        "id": "lgbtq_16222",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "trọng bằng",
+        "category": "lgbtq",
+        "id": "lgbtq_16279",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "định mệnh ! bọn kiểm duyệt đâu hết r!",
+        "category": "lgbtq",
+        "id": "lgbtq_16303",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "trên mạng giấu mặt thì kỳ mới dám kỳ thị thôi, đối diện trực tiếp đố chúng nó dám!",
+        "category": "lgbtq",
+        "id": "lgbtq_16350",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "minh viet má",
+        "category": "lgbtq",
+        "id": "lgbtq_16301",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nói bao nhiêu thì với những người ko chịu tiếp thu cũng như nước đổ đầu vịt thôi",
+        "category": "lgbtq",
+        "id": "lgbtq_16349",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "athony ng hiện lên và nói",
+        "category": "lgbtq",
+        "id": "lgbtq_16352",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nguyen van luc lực oi là lực =))",
+        "category": "lgbtq",
+        "id": "lgbtq_16323",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "lgbt có ảnh hưởng đến tâm lý tr.e e.m ?",
+        "category": "lgbtq",
+        "id": "lgbtq_16347",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "toàn hữu thi vũ",
+        "category": "lgbtq",
+        "id": "lgbtq_16231",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nguyễn bảo quốc tưởng bn thik",
+        "category": "lgbtq",
+        "id": "lgbtq_16263",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "minh huy bà cố ơi",
+        "category": "lgbtq",
+        "id": "lgbtq_16250",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nguyễn quang trung để bố tag tiếp",
+        "category": "lgbtq",
+        "id": "lgbtq_16288",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "tường love 12✨ an kiriya thầy cúng ☺️🥀",
+        "category": "lgbtq",
+        "id": "lgbtq_16341",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "pt dương broooo 💀🙏",
+        "category": "lgbtq",
+        "id": "lgbtq_16324",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "tôi đồng tính với ý kiến này",
+        "category": "lgbtq",
+        "id": "lgbtq_16353",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ai kì thị gay thì viết hoa?",
+        "category": "lgbtq",
+        "id": "lgbtq_16294",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "bộ phim gì mà gay cấn thế",
+        "category": "lgbtq",
+        "id": "lgbtq_16308",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "quý nguyễn hâh",
+        "category": "lgbtq",
+        "id": "lgbtq_16239",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "bảo lộc cai jv ba",
+        "category": "lgbtq",
+        "id": "lgbtq_16221",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "đinh quốc sang tomfot :))",
+        "category": "lgbtq",
+        "id": "lgbtq_16335",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nguyễn thị lộc nc hoa j zok",
+        "category": "lgbtq",
+        "id": "lgbtq_16315",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    }
+]

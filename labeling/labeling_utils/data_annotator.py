@@ -15,7 +15,7 @@ DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY")
 MISTRAL_QWEN_API_KEY = os.getenv("MISTRAL_QWEN_API_KEY")
 GPT_API_KEY = os.getenv("GPT_API_KEY")
 
-MAX_WORKERS = 32
+MAX_WORKERS = 64
 
 
 class DataAnnotatorPipeline:
@@ -24,7 +24,7 @@ class DataAnnotatorPipeline:
         label_type: str, # toxicity, toxic_type, expression_type
         annotating_system_prompt_path: str,
         checking_system_prompt_path: str,
-        data_path: str,
+        # data_path: str,
         output_folder: str,
         prompt_round: int,
         optimization_flag: bool = False
@@ -42,7 +42,7 @@ class DataAnnotatorPipeline:
         self.result_folder = os.path.join(output_folder, f"round_{self.prompt_round}")
         os.makedirs(self.result_folder, exist_ok=True)
 
-        if not os.path.exists(os.path.join(self.batch_folder, "batch_1.json")):
+        if not glob.glob(os.path.join(self.batch_folder, "*.json")):
             self.data = load_json(data_path)
             self.split_into_batches(100)
         

@@ -1,0 +1,178 @@
+[
+    {
+        "text": "sen trắng uh nhưng ý t là đầu rắn mà chết thì nó có sống dc ko:))",
+        "category": "region",
+        "id": "region_899",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "hai bạc liêu giặc pôn pốt có đấy",
+        "category": "region",
+        "id": "region_892",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "quỹ phục quốc 1ngàn7trăm đô thì bao giờ mới lấy lại đất đây ,huhu",
+        "category": "region",
+        "id": "region_874",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "cương phạm cứ cố gắng phát huy nhé ☺️",
+        "category": "region",
+        "id": "region_904",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "sen trắng thế rắn ngoài đầu ra còn gì nx ko bạn:))",
+        "category": "region",
+        "id": "region_898",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "hiếu huỳnh chào bạn. chào các bạn. tôi cũng từng được dạy rằng “quân đội nhân dân việt nam (qđndvn) bách chiến bách thắng, khó khăn nào cũng vượt qua, kẻ thù nào cũng đánh thắng”, thế cho nên qđndvn từng: 1- . chống thực dân, do đó huân huy chương chống pháp tràn ngực; 2- . chống đế quốc: do đó huân huy chương chống mỹ đầy tay; 3- . chống bá quyền xâm lược mười năm (1979-1989): tuy nhiên huân huy chương chống tàu đang ở đâu?",
+        "category": "region",
+        "id": "region_883",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "đức hiếu : dm, mỹ hay tàu xâm lược lãnh thổ vn vậy? vị xuyên, biển đảo?",
+        "category": "region",
+        "id": "region_903",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "hiếu huỳnh ông ôi , ông nói đúng ông còn phân tích như vậy thì nó làm sao để cãi 😂",
+        "category": "region",
+        "id": "region_877",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "hiep ngo hàn quốc cũng đang trấn giữ đề phòng phương bắc",
+        "category": "region",
+        "id": "region_931",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "bây giờ chặn đường nhiều tiền hơn chặn gió phương bắc.",
+        "category": "region",
+        "id": "region_909",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "thời đỉnh tiên hoàng chưa phân biệt bắc kỳ với nam kỳ đâu.",
+        "category": "region",
+        "id": "region_957",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "đã khát mà còn cay lữa thì nhanh tèo lắm",
+        "category": "region",
+        "id": "region_908",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "hai bạc liêu đc cái thật mà lại ngờ u",
+        "category": "region",
+        "id": "region_888",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "từ thuở mang que đi mở cõi, ngàn năm home less đất cali.",
+        "category": "region",
+        "id": "region_951",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "los angeles là phía bắc của bang cali đúng không? ô đúng là lời tiên tri hiệu nghiệm với cả những đứa con rơi phản phúc luôn kìa.",
+        "category": "region",
+        "id": "region_917",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "vũ anh tuấn phương bắc bắt chước chạy theo phải không bạn",
+        "category": "region",
+        "id": "region_930",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "hai zụ xiêm",
+        "category": "region",
+        "id": "region_889",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "sen trắng dân ở đây không có thứ chống phá như m",
+        "category": "region",
+        "id": "region_876",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ko lo đi dập lửa đi 🤣",
+        "category": "region",
+        "id": "region_868",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "ko liên quan nhưng thành ngày xưa thấp nhỉ , thế này chống giặc kiểu gì nhit",
+        "category": "region",
+        "id": "region_954",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "chặn gì được nửa nó len lỏi vô trong rồi",
+        "category": "region",
+        "id": "region_956",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "đề phòng bọn có ca có li mà không có nước.",
+        "category": "region",
+        "id": "region_958",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    }
+]

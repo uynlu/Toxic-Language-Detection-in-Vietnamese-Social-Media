@@ -7,7 +7,7 @@ parser = argparse.ArgumentParser(description="Label data.")
 parser.add_argument("--label-type", type=str, required=True)
 parser.add_argument("--annotating-system-prompt-path", type=str, required=True)
 parser.add_argument("--checking-system-prompt-path", type=str, required=True)
-parser.add_argument("--data-path", type=str, required=True)
+# parser.add_argument("--data-path", type=str, required=True)
 parser.add_argument("--output-folder", type=str, required=True)
 parser.add_argument("--prompt-round", type=int, required=True)
 parser.add_argument("--optimization-flag", type=bool, required=False, default=False)
@@ -22,7 +22,7 @@ if __name__ == "__main__":
         label_type=args.label_type,
         annotating_system_prompt_path=args.annotating_system_prompt_path,
         checking_system_prompt_path=args.checking_system_prompt_path,
-        data_path=args.data_path,
+        # data_path=args.data_path,
         output_folder=args.output_folder,
         prompt_round=args.prompt_round,
         optimization_flag=args.optimization_flag

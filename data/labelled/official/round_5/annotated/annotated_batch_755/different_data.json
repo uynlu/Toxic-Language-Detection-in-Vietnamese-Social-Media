@@ -1,0 +1,362 @@
+[
+    {
+        "text": "thế định nghĩa hẳn là của bạn là gì nhỉ?",
+        "category": "region",
+        "id": "region_22155",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "chứ k phải là chỉ cần b thấy ngta có biểu hiện mà bạn cho là phản động thì b có thể dùng . vì nó là vi phạm quyền công dân",
+        "category": "region",
+        "id": "region_22184",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "bọn pháp mỹ vô vn cũng cần hộ chiếu và thủ tục hả",
+        "category": "region",
+        "id": "region_22148",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "biết là giúp nhưng nếu miền bắc kh vừa sang cứu vừa hậu phương thì có giải phóng nổi kh bạn",
+        "category": "region",
+        "id": "region_22133",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "miền nam,vì miền bắc hết sức ủng hộ miền nam nên đã có nhiều phong trào đồng khởi bùng ra mạnh mẽ,mạnh nhất là ở bến tre,nếu không có miền bắc thì",
+        "category": "region",
+        "id": "region_22150",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "thời đó mb là hậu phương hỗ trợ mn, cả nc đồng lòng chứ mn trốn đi để mb chiến đấu 1 mk à.",
+        "category": "region",
+        "id": "region_22167",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "bởi v,nói lát lại vào tap,lấy điểm sử ra để tap?",
+        "category": "region",
+        "id": "region_22161",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "🙃 thế ý b là trong việc giao tiếp b cần sd từ đó để nói về ng khác đấy à ? b chỉ đc dùn khi và chỉ khi những kẻ đó đc nhà nc công nhận là phản động",
+        "category": "region",
+        "id": "region_22183",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "mấy thằng nói parky gì đó toàn để tài khoản riêng tư :()",
+        "category": "region",
+        "id": "region_22120",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "là người miền nam tham gia chiến dịch giải phóng",
+        "category": "region",
+        "id": "region_22152",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "yêu nước như bạn vẫn chưa hiểu tụi cali đã làm j,hay bạn chỉ quan tâm trung quốc việt nam thôi vậy",
+        "category": "region",
+        "id": "region_22188",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "thì từ lúc bạn cmt bạn bảo cmt cali là sai nên loại bỏ còn j??",
+        "category": "region",
+        "id": "region_22182",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": ":))) chắc học sử học được mỗi khúc đó thôi hả, làm ơn mình nhìn nhận cả quá trình đi, đồng ý mtgpdtmnvn lớn gấp nhiều lần nhưng nếu không có sự lãnh",
+        "category": "region",
+        "id": "region_22142",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "thấy ngta nói cũng nói theo , cái đáng sợ là hùa theo mà k biết hậu quả là đó",
+        "category": "region",
+        "id": "region_22190",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nước nhà sẽ chia làm đôi(k toxic)",
+        "category": "region",
+        "id": "region_22151",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "dân miền trung nhưng nhìn thấy bắc nam phân biệt vùng miền mà chán thật sự!!!",
+        "category": "region",
+        "id": "region_22201",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "mắng chửi ai đó vì cho rằng ngta làm sai k phải là bảo vệ lẽ đúng , mà là lạm dụng đạo đức trói buộc ng khác , chứ k phải là đi cáo buộc nhau",
+        "category": "region",
+        "id": "region_22175",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "mấy loại đó là chống phá với trẻ con học theo thôi, mn càng rep thì nó càng nổi r tụi trẻ con nó lại thấy nên im lặng report thoi",
+        "category": "region",
+        "id": "region_22191",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "uh,cái j sai thì chúbg ta nhắc đi nhắc lại cho con cháu đời sau còn biết có 1 thế lực cố phá nước ta từ lâu,bạn cmt kia còn bảo bỏ từ cali ko gọi thế nữa",
+        "category": "region",
+        "id": "region_22186",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "v là b chưa thấy đi khắp các trang , chia 2 phe 1 bên mắng \"parky\" , 1 bên chửi \"cali\" r , cái đó là pbvm chứ còn gì nữa",
+        "category": "region",
+        "id": "region_22173",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "trả vậy",
+        "category": "region",
+        "id": "region_22220",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nhỏ vô nam",
+        "category": "region",
+        "id": "region_22199",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "mb giải phóng chứ còn gì. lập nên mtgpmn vượt núi vào chi viện dị mĩ thả bom dọc đường. xe tăng ,thiết giáp vào húc tung dinh độc lập.",
+        "category": "region",
+        "id": "region_22145",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "vấn đề không phải phân biệt nhưng thực sự em là người bắc em không hiểu tại sao họ có thể kém văn minh trên mạng xã hội 1 số người họ không nằm trong vùng lũ họ không biết được sự khó khăn của người đang nằm trong hoàn cảnh bão lũ họ lên mạng phân biệt chửi cô chú từ miền nam ra , chúng em luôn chấp nhận sự thật ngoài bắc có 1 số thành phần không văn minh hơn người miền nam , em thật sự không hiểu nổi hàng cứu trợ lại không nhận lại đòi tiền thật , em là người bắc nhưng công tâm phải nói người miền nam hơn cả độ văn minh và cách sống",
+        "category": "region",
+        "id": "region_22215",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "\" miền nam là máu của máu vn, thịt của thịt vn. sông có thể cạn, núi có thể mòn song chân lý ấy k bao giờ thay đổi \" 😔",
+        "category": "region",
+        "id": "region_22193",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "mấy bn phản động cố tình ns vậy để chia rẽ đồng bào chúng ta đó đừng để chúng thành công",
+        "category": "region",
+        "id": "region_22211",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "đọc sách nhiều vào 🙃",
+        "category": "region",
+        "id": "region_22136",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "thế b k nghĩ tại s ngta chửi s ? là vì 1 ng chửi thì còn có thể bình tĩnh, nhiều ng chửi thì ngta càng nói v , hầu hết những cuộc cãi vã đều t",
+        "category": "region",
+        "id": "region_22177",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "miền bắc giải phóng 1955 miền nam giải phóng 1975 giải phóng sau 20 năm 😅😅",
+        "category": "region",
+        "id": "region_22192",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "t là người bắc t yêu ngy t là người nam , mấy đợt t vào chơi kì lắm , không hiểu sao lúc nào t cất giọng y rằng chỉ chỉ chỏ bàn tán kiểu bị kì thị rõ luôn ấy ,tệ thật.",
+        "category": "region",
+        "id": "region_22123",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "dùng từ miền bắc giải phóng miền nam là sai lịch sử đó, phải dùng từ miền bắc hỗ trợ miền nam giải phóng mới đúng",
+        "category": "region",
+        "id": "region_22207",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "đạo dìu dắt của đảng và đặc biệt là bác thì sao có được ngày hôm nay??? ngay cả đến lúc bác mất bác vẫn còn lo cho miền nam cơ mà,",
+        "category": "region",
+        "id": "region_22143",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "(2) tới cô giáo bạn cũng nói. tới lúc mình vô bảo thì bạn đó bảo mình là \"namkiki\", buồn thật sự. giờ cũng ít nói chuyện chung do bất đồng ý kiến",
+        "category": "region",
+        "id": "region_22149",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "theo cách hiểu bn đó nói luôn vậy.😂",
+        "category": "region",
+        "id": "region_22141",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "í nói cali là nói những người chống đối nhà nước,chứ ko ai gọi miền nam là cali cả.bạn yêu nước thì đọc hiểu rõ tí",
+        "category": "region",
+        "id": "region_22172",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "người nam nhưng t lại chưa bgio kì thị người bắc cơ, thậm chí t còn nể họ",
+        "category": "region",
+        "id": "region_22204",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "lại ngủ trong h lịch sử 🤣",
+        "category": "region",
+        "id": "region_22134",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "là dân nhân cùng nhau chóng giặc chứ ko phải là chỉ có miền bắc giải phóng miền nam",
+        "category": "region",
+        "id": "region_22216",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "ít có hài lắm🤡",
+        "category": "region",
+        "id": "region_22166",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "thế tự cứu là cgi:)))",
+        "category": "region",
+        "id": "region_22144",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "bác thất vọng về các cháu..",
+        "category": "region",
+        "id": "region_22212",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "đều có trên 200 cmt , nếu ai đó cho rằng b pbvm vào cmt b là cali , thì b có mắng ngta k ? b mắng thì nhiều ng cũng hùa vào mắng b , đó là lí do dod",
+        "category": "region",
+        "id": "region_22187",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "thay mặt anh em miền nam xin lỗi ae miền bắc, miền nào cũng có những thành phần bố mẹ ko dạy đc con. mong anh em miền bắc đừng đánh đánh đồng tất cả 🥰🥰🥰",
+        "category": "region",
+        "id": "region_22213",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ko phải cứu thì là gì hay muốn theo mĩ",
+        "category": "region",
+        "id": "region_22221",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ngày ấy tranh cãi gay gắt đến mức có những người trong miền nam nói rằng họ kh cần giải phóng",
+        "category": "region",
+        "id": "region_22125",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    }
+]

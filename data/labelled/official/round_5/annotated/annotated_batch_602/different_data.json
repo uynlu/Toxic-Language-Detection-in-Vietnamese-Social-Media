@@ -1,0 +1,226 @@
+[
+    {
+        "text": "á đù .... một pha phản đame cực kỳ gắc đến từ anh trai miền tây ! 😂🤣 10 điểm chứ không có nhưng ... 😂🤣",
+        "category": "region",
+        "id": "region_4052",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "miền tây mãi dinh",
+        "category": "region",
+        "id": "region_4044",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "a nói vậy là bậy bạ rồi. thằng kia nó vô học nó mới phát biểu vậy. e tưởng anh thế nào cũng bằng nó mà thôi",
+        "category": "region",
+        "id": "region_4068",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nói đúng còn nói to :))",
+        "category": "region",
+        "id": "region_4076",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "bí mật trái tim tao thỉnh thoảng có ăn không như nhà mày ăn thường xuyên.",
+        "category": "region",
+        "id": "region_4096",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "hop phát thi ở ko thi về",
+        "category": "region",
+        "id": "region_4091",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "việt nam là một nơi đang sống mà sao lại chạy qua những nước tu ban mà không qua trung quốc hay triều tiên hay cu ba nga vậy.......",
+        "category": "region",
+        "id": "region_4082",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "hai đứa gặp riêng nhau giải quyết nhé , không lôi dân hai miền vào",
+        "category": "region",
+        "id": "region_4058",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nếu ngày xưa không có cuộc chiến n... b thì giờ ... vn mình sao ta . 🤔🤔🤔🤔🤔",
+        "category": "region",
+        "id": "region_4090",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "tấu hề à 3///",
+        "category": "region",
+        "id": "region_4095",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "chúng đi tìm đg kíêm ăn mà, uã sai rôì đi cůú nůóc",
+        "category": "region",
+        "id": "region_4088",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "cái miệng nó kìa",
+        "category": "region",
+        "id": "region_4094",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "bí mật trái tim rau muống nuộc nay bao tiền 1 cân rồi cháu 😆",
+        "category": "region",
+        "id": "region_4105",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "thâm",
+        "category": "region",
+        "id": "region_4046",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "đi vì không sống nổi ở cái nơi mình sinh ra",
+        "category": "region",
+        "id": "region_4136",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "vinh quang cho rau muống",
+        "category": "region",
+        "id": "region_4092",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nói hay....🤣🤣🤣🤣",
+        "category": "region",
+        "id": "region_4111",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "hi hi, mấy người đi chui, leo rào, là do nghe lời ba que đó.",
+        "category": "region",
+        "id": "region_4135",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "tụi nó sang giải phóng",
+        "category": "region",
+        "id": "region_4093",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nghe bọn là thấyko thích rồi",
+        "category": "region",
+        "id": "region_4059",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "son tran ủa may hom sao tụi nó o chửi nữa he sau khi trump đánh thuế thương mại??",
+        "category": "region",
+        "id": "region_4132",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "phước lành .lịch sử phát triển mở rộng bò cõi về phía nam mấy trăm năm không có sắc tộc tụi mày đâu",
+        "category": "region",
+        "id": "region_4144",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "co $$$$ dau ma di chinh thuc",
+        "category": "region",
+        "id": "region_4124",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nói rất đúng là cướp ngày và cướp đêm luôn",
+        "category": "region",
+        "id": "region_4127",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "phạm hoàng bác nói rất hay 🫡🤣",
+        "category": "region",
+        "id": "region_4145",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "cá lao kín nó không ăn nhưng thấy cá tra mien nam mình là nó khoái lắm luôn ấy kaaaa",
+        "category": "region",
+        "id": "region_4043",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nhu binh pham mỹ không có bộ tộc ducanger /// !",
+        "category": "region",
+        "id": "region_4120",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nghe bả xuống tông “…hà lộiiii…” mà mắc cười quá xá :))",
+        "category": "region",
+        "id": "region_4130",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    }
+]

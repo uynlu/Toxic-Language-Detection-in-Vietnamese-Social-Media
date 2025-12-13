@@ -1,0 +1,274 @@
+[
+    {
+        "text": "game có luật hả😀",
+        "category": "region",
+        "id": "region_11794",
+        "toxicity_deepseek": "",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nô lệ🥺🥺🥺🥺",
+        "category": "region",
+        "id": "region_11824",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "giống nam trung 🥰🥰",
+        "category": "region",
+        "id": "region_11799",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ôg nội gì",
+        "category": "region",
+        "id": "region_11753",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "bạn \" không có tuổi\"",
+        "category": "region",
+        "id": "region_11847",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "xin lỗi vì đã đơn phương mẹ bạn 😭😭😭",
+        "category": "region",
+        "id": "region_11827",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "đọc tiểu sử là hỉu😛",
+        "category": "region",
+        "id": "region_11784",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "tắt hộ cái văn mẫu",
+        "category": "region",
+        "id": "region_11814",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "trương trình j â",
+        "category": "region",
+        "id": "region_11797",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "mấy thg nói parky thôi chứ mấy ng nói cali hay namky đều là người trưởng thành ăn học đầy đủ",
+        "category": "region",
+        "id": "region_11772",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nó là từ dùng để phân biệt vùng miền mà pháp dùng khi cai trị đất nước, dùng mấy từ đấy không phân biệt thì còn là gì 🤡",
+        "category": "region",
+        "id": "region_11777",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "mồn ổn kì z =)}",
+        "category": "region",
+        "id": "region_11831",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "m kiếm đc chưa🤒",
+        "category": "region",
+        "id": "region_11756",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "cmt bị gì mà toàn gặp cmt parky . parky là gì ????😳",
+        "category": "region",
+        "id": "region_11791",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "parky trong từ điển tiếng việt là lạnh, mát, cóng",
+        "category": "region",
+        "id": "region_11830",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "cali đang tri sau khi bị nói trúng chỗ nhột 🥵",
+        "category": "region",
+        "id": "region_11811",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "cx là 1 vn mà seo nhìu ng🥺",
+        "category": "region",
+        "id": "region_11751",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "ngài đánh rơi 👑👑👑",
+        "category": "region",
+        "id": "region_11862",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "thực ra hầu như họ chỉ để khịa lại mấy đứa nói parky thôi, nhưng vẫn ko đc vì vốn dĩ nó đều là pbvm",
+        "category": "region",
+        "id": "region_11770",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "giàu hơn namkiki",
+        "category": "region",
+        "id": "region_11844",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "k bt thì đừng nên bt",
+        "category": "region",
+        "id": "region_11768",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nó k phải là tiền sao 🤔🤡",
+        "category": "region",
+        "id": "region_11758",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "kệ nó cay rồi sáng bình luận nó thua tui mà xong cái tố cáo cười nhẹ 🤣🤣🤣🤣",
+        "category": "region",
+        "id": "region_11875",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "bọn nó cắn đấy 😂",
+        "category": "region",
+        "id": "region_11759",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "không phải đỡ cho mấy thằng nói parky đâu nói vậy cho mấy người bị nói bớt buồn á",
+        "category": "region",
+        "id": "region_11873",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "vãi đạn😂😂😂",
+        "category": "region",
+        "id": "region_11869",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "parky với namkiki là từ dùng để phân biệt vùng miền",
+        "category": "region",
+        "id": "region_11766",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "tayky lên tiếng",
+        "category": "region",
+        "id": "region_11796",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ui giời ơi cay à ai đã bảo cay chưa nhỉ queeeeeeeee",
+        "category": "region",
+        "id": "region_11780",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "kh liên quan thoi đừng nên nhắc vào nhé👍",
+        "category": "region",
+        "id": "region_11882",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "những ng miền bắc họ không thề buồn vì họ biết những đứa nói parky chỉ giám nói vậy trên mạng chứ ra đường tụi nó dám nói ai tại tụi nó cũng chỉ là bọn kid mới lớn",
+        "category": "region",
+        "id": "region_11876",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "tau tây nguyên 😂😂😂",
+        "category": "region",
+        "id": "region_11802",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "tiêu chuẩn kép nó thế, giờ tui cũng kệ luôn quan tâm là gì cho mệt toàn bọn tiêu chuẩn kép chửi nhau với cali",
+        "category": "region",
+        "id": "region_11771",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nô lệ của mxh💀",
+        "category": "region",
+        "id": "region_11885",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    }
+]

@@ -1,0 +1,186 @@
+[
+    {
+        "text": "kỳ thị vùng miền nặng quá,ko nên cổ suý mọi người ạ",
+        "category": "region",
+        "id": "region_3221",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "tôi miền trung, gốc gác miền trung...cũng k phân biệt vùng miền, nhưng qua tiếp xúc và làm việc thì người miền nam, miền tây ăn chơi,đời sống hào sảng hơn miền bắc nhiều nhé",
+        "category": "region",
+        "id": "region_3203",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "ở ngoài đó nó ăn pịa không à",
+        "category": "region",
+        "id": "region_3202",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ghẹo người ta thì người ta khịa lại",
+        "category": "region",
+        "id": "region_3169",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "rau muong mien tây cho heo ăn k",
+        "category": "region",
+        "id": "region_3220",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ngoài đó ăn cá rô không hà",
+        "category": "region",
+        "id": "region_3196",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nhắc chi chuyện cũ đau lòng lắm",
+        "category": "region",
+        "id": "region_3175",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nói hay lắm...",
+        "category": "region",
+        "id": "region_3195",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "mẹ ca gion láu l",
+        "category": "region",
+        "id": "region_3222",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "mệt mấy ông phân biệt vùng miền cũng là người vn không mà mấy ông chửi qua chửi lại có ace nào có lời dạy hay dạy cho 2 ông này 1 bài học để nhớ đời",
+        "category": "region",
+        "id": "region_3227",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "dau vậy",
+        "category": "region",
+        "id": "region_3263",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "cá rô cây ăn kèm rau muống dinh dưỡng ý như thịt bò kẹp xà lách",
+        "category": "region",
+        "id": "region_3193",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "vô duyên ghê 😝",
+        "category": "region",
+        "id": "region_3257",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "từ khi có cái mạng xã hội này tôi thấy vùng miền ghét nhau nhiều hơn",
+        "category": "region",
+        "id": "region_3252",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nghe câu bọn miền tây khó nghe .sao cứ phần biệt vùng miền",
+        "category": "region",
+        "id": "region_3163",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nói vậy rồi người ta giận làm sau kk",
+        "category": "region",
+        "id": "region_3262",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "chê cá miền tây mà kéo cả lũ về miền tây sống, kéo cả họ cả hàng vào xin ở nhờ đất người miền tây",
+        "category": "region",
+        "id": "region_3236",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "câu nói của bạn miền tay rất hay con cá rô cay dùng cho bạn phân biệt vùng miền nghe động nảo đừng có khinh chê phân biệt vùng miền nha bạn",
+        "category": "region",
+        "id": "region_3247",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "có tí tiền nói nghe xúc phạm",
+        "category": "region",
+        "id": "region_3253",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nói nhẹ mà dao",
+        "category": "region",
+        "id": "region_3265",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "xỏ hay quá .",
+        "category": "region",
+        "id": "region_3186",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "chửi thâm thế bác",
+        "category": "region",
+        "id": "region_3258",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "mình ko bên giật bắc hay nam hay miền tây, nhưng khẳng định là ngoài bắc so với miên nam miền tây là khỗ hơn nhiều, chỉ có miền bắc vô nam lập nghiệp, chứ có thấy miền nam ra bắc lập nghiệp bao giờ",
+        "category": "region",
+        "id": "region_3242",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    }
+]

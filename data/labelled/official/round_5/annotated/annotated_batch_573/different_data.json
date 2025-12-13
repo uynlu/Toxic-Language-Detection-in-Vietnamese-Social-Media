@@ -1,0 +1,146 @@
+[
+    {
+        "text": "oanh vy lý ê! ải nam quan chưa bao giờ thuộc vn trong lịch sử.",
+        "category": "region",
+        "id": "region_966",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "oanh vy lý ! không có! đu càng qua mỹ hết rồi còn đâu.",
+        "category": "region",
+        "id": "region_970",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "oanh vy lý còn 1 km mới tới ải nam quan mất 4. 5 km",
+        "category": "region",
+        "id": "region_1002",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "oanh vy lý việt nam nằm ở phía bắc tq hay gì mà có cái ải nam quan :)))",
+        "category": "region",
+        "id": "region_997",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "trần minh trí ải nam quan cửa khẩu hữu nghị",
+        "category": "region",
+        "id": "region_1038",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nhut tien quá chậm hiểu",
+        "category": "region",
+        "id": "region_974",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nguyễn đăng chính biếu nước cầu vinh",
+        "category": "region",
+        "id": "region_994",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "đặng vũ hiệp học thuộc có bao nhiêu đó sao",
+        "category": "region",
+        "id": "region_1003",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "hai tạ tây nói tiếng việt không sợ lắm bạn ạ, tôi theo dõi 1 thời gian rồi với trí tuệ của bọn đấy thì cứ bình tõm thôi ko cần quá lo",
+        "category": "region",
+        "id": "region_1047",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "lên nhanh ko hết chỗ.",
+        "category": "region",
+        "id": "region_1032",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "oanh vy lý biết hãy nói, nói sai thiên hạ chửi ngu",
+        "category": "region",
+        "id": "region_1064",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nhưng phải hiểu thật về con người vn 90%gốc trung quốc dạt sang đất này lập nghiệp từ 2000 năm trước và đầu tiên là hùng vương cũng từ tq sang lập thủ phủ quản lý khu đất hình chữ s giờ sinh ra tới 4 ngàn dân họ nguyễn rồi",
+        "category": "region",
+        "id": "region_1053",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "sao có thể hiểu thông minh vậy thần đằng",
+        "category": "region",
+        "id": "region_1027",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "hai bạc liêu thôi ! 50 năm rồi cay cú ít thôi!!!",
+        "category": "region",
+        "id": "region_1054",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "hai bạc liêu đúng tộc",
+        "category": "region",
+        "id": "region_981",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "hai bạc liêu khôn như ô thì hỉu nhanh r",
+        "category": "region",
+        "id": "region_975",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "tom lee rồi tết bọn mày vào phước lộc thọ làm gì vậy",
+        "category": "region",
+        "id": "region_1010",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "thời này đề phòng giặc phương bắc và cả giặc phương tây",
+        "category": "region",
+        "id": "region_1030",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "text": "đinh tiên hoàng là bắc kỳ hay nam kỳ z?",
+        "category": "region",
+        "id": "region_1930",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "tự do chưa nè 😆 , hành trình của 3 que",
+        "category": "region",
+        "id": "region_1883",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "thời buổi này cán bộ nhiều hơn dân, mà đi trộm thì xong. . .?",
+        "category": "region",
+        "id": "region_1992",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "lan man,vào thẳng vấn đề hộ bố.",
+        "category": "region",
+        "id": "region_1990",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "cửa phía nam không ghi gì cả nên lỡ đà , xin lỗi sọc nhé",
+        "category": "region",
+        "id": "region_1978",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "phương bắc có tung của 😁",
+        "category": "region",
+        "id": "region_1881",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    }
+]

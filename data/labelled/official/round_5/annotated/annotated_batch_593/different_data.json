@@ -1,0 +1,138 @@
+[
+    {
+        "text": "dân nam dân bắc đều là dân việt nam . cái lũ phân biệt vùng miền là cái loại vô ơn .",
+        "category": "region",
+        "id": "region_3077",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "thật sự là cá lao kính ở miền bắc rất nhiều ít ai ăn lắm toàn vứt bỏ thói, miền bắc gọi cá lao kính là cá don be",
+        "category": "region",
+        "id": "region_3053",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "đúng chuẩn",
+        "category": "region",
+        "id": "region_3103",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "hải đăng ngoài đấy ăn cức bò ngon không :))",
+        "category": "region",
+        "id": "region_3065",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "cho an duoc chu khi thi ko biet an",
+        "category": "region",
+        "id": "region_3090",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "hay quá bạn miền tây, mình cũng éo ăn được cá rô cây luôn 😆😆😆",
+        "category": "region",
+        "id": "region_3104",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "miền tây mãi định",
+        "category": "region",
+        "id": "region_3099",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "một câu nói mất dậy. vô học thức đầy tinh chất cay đắng hằn học gây ra mất đoàn kết dân tộc việt nam và chìa rẻ phân biệt vùng miền. thế mà không bị xử lý .",
+        "category": "region",
+        "id": "region_3056",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "cá lau kiếng làm sạch rùi còn đắt hơn nhiều loại cá mà ăn rất ngon không có đâu mà bỏ",
+        "category": "region",
+        "id": "region_3122",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "cá lau kiếng ngon á",
+        "category": "region",
+        "id": "region_3150",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "mình miền bắc nghe ông đấy nói mình cũng ức chế. chê bai ẩm thực vùng miền",
+        "category": "region",
+        "id": "region_3080",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "may than cho bác k",
+        "category": "region",
+        "id": "region_3158",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "đáp hay lắm",
+        "category": "region",
+        "id": "region_3154",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "mình không phân biệt vùng miền. nhưng ngoài bắc họ không ăn thật. hoặc có một số họ có ăn. sem mùi vị nó thế nào thôi. trữ thực chất họ không ăn. là đúng",
+        "category": "region",
+        "id": "region_3063",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "quá đúng,quá chẩn,cá rô cây ngon lắm,? chỉ để dành cho nó ăn,?anh nói quá đúng ,?",
+        "category": "region",
+        "id": "region_3085",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "thời buổi bây giờ chỉ có bọn đầu đất mới phân biệt vùng miền",
+        "category": "region",
+        "id": "region_3113",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "10 đ😂😂😂😂😂",
+        "category": "region",
+        "id": "region_3152",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    }
+]

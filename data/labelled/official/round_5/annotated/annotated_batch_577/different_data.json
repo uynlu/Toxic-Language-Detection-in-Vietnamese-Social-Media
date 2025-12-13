@@ -1,0 +1,82 @@
+[
+    {
+        "text": "cali đã khát nước giờ còn cháy nữa thì nước đâu ra mà dùng 😂",
+        "category": "region",
+        "id": "region_1445",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "giãy giụa",
+        "category": "region",
+        "id": "region_1444",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "lần sau chỉ cần ghi \" tôi bị ngoo\" là được",
+        "category": "region",
+        "id": "region_1435",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "bây giờ ai cũng hiểu sự chia rẽ sẽ là mồi ngon cho ngoại xâm , thời pháp thuộc thì chia rẽ 3 miền bắc, trung, nam, lúc này là bắc, nam, người vùng này nói xấu vùng kia , tôn giáo này nói xấu tôn giáo kia ..... chỉ những người ngu dốt, thiếu hiểu biết mới a dua theo những quan điểm này rốt cuộc kết quả thì mọi người đã đoán được.",
+        "category": "region",
+        "id": "region_1378",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "phòng giặc 3///",
+        "category": "region",
+        "id": "region_1438",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "đinh thiên hoàng viết thiếu , không đủ trình độ . ngoài gió bắc ra , gió từ lào qua củng rất độc , bởi vậy mới có câu gió lào",
+        "category": "region",
+        "id": "region_1461",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "😃 \" giặc sau lưng nhà vua đó \"... cụ rùa said.",
+        "category": "region",
+        "id": "region_1467",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "chủ trương thâu tóm nước việt có từ thời xuân thu chiến quốc đến đời nhà tống kéo dài cho tới nay ,,đó là chiến lược thừa kế và xuyên suốt của âm mưu thâu tóm vn ,,",
+        "category": "region",
+        "id": "region_1375",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nhảm nhí",
+        "category": "region",
+        "id": "region_1469",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "giờ thì rước gió bắc vào nhà luôn.",
+        "category": "region",
+        "id": "region_1379",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    }
+]

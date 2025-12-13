@@ -1,0 +1,178 @@
+[
+    {
+        "text": "bắc kỳ vón là sao ạ ? có ai biết giải thích dùm .",
+        "category": "region",
+        "id": "region_4918",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "phía bắc của kỳ lừa , không phải là - người bắc kỳ đi lừa . đồng đăng có phố kỳ lừa có nàng tô thị , có chùa tam thanh ... ( ca dao )",
+        "category": "region",
+        "id": "region_4932",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "câu ca dao phổ biến : đồng đăng có phố kỳ lừa, có nàng tô thị có chùa tam thanh.",
+        "category": "region",
+        "id": "region_4905",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "đồng đăng có phố kỳ lừa. có nàng tô thị, có chùa tam thanh. chắc là tên phố kỳ lừa như trong câu ca dao cũ.",
+        "category": "region",
+        "id": "region_4886",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "tôi chỉ nghe và thấy: đồng đăng có phố kỳ lừa có nàng tô thị có chùa tam thanh...",
+        "category": "region",
+        "id": "region_4898",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "bắc và nam “ kỳ lừa” thôi. cách viết sao cho tránh hiểu lầm.",
+        "category": "region",
+        "id": "region_4922",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "đây là một địa danh có thật ở miền bắc vn thuở nhỏ tôi được nghe mẹ ru như vậy và còn hai câu tiếp theo là: ai lên xứ lạng cùng anh tiếc công bác mẹ sinh thành ra em. mà sao lại nói tiếc công sinh thành của cha mẹ? phải chăng là em đã bị dụ theo anh lên phố kỳ lừa!!!",
+        "category": "region",
+        "id": "region_4888",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "“đồng đăng có phố kỳ lừa ,có nàng tô thị có chùa tam thanh”",
+        "category": "region",
+        "id": "region_4904",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "tóm lại là thanh hóa ko tin đc ,mà em đẹp đấy",
+        "category": "region",
+        "id": "region_4947",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "\" hoa thanh quế \" ớn lém 😭 thậc",
+        "category": "region",
+        "id": "region_4950",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "trongdiem eng chính xác đó anh .",
+        "category": "region",
+        "id": "region_4903",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "xui cho bạn",
+        "category": "region",
+        "id": "region_4988",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "kỳ lừa tên một địa danh...đồng đăng có phố kỳ lừa...có nàng tô thị có chùa tam thanh..",
+        "category": "region",
+        "id": "region_4887",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "hồng thắm đề nghị ko được nói chêu bạn vậy",
+        "category": "region",
+        "id": "region_4964",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "đó là phố kỳ lừa ở hướng bắc đó . đồng đăng có phố kỳ lừa có nàng tô thị có chùa tâm thanh",
+        "category": "region",
+        "id": "region_4897",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "sài gòn xưa những tên đường thường hay viết tắt từ đường (đ)..ví dụ đường bà quẹo (đ.bà quẹo) đường huyền trân công chúa thì ( đ.huyền trân công chúa)..vv & vv... thế là người dân cứ đọc là đụ bà quẹo địt bà quẹo.. rồi huyền trân công chúa cũng vậy..đụ mấy địt không à......sau này... mới sửa lại (không viết tắt nữa)và viết rõ là đường.....",
+        "category": "region",
+        "id": "region_4912",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ゴッコ トウオン đề phòng là đúng mồn bạn đi chơi hơi xa r",
+        "category": "region",
+        "id": "region_4982",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "nana phương ms ban đầu thôi mà lừa tui 5tr r á tui thấy k ổn tui rút lui",
+        "category": "region",
+        "id": "region_4973",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "đai ka đây chuyen giới dep thật",
+        "category": "region",
+        "id": "region_4959",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "hoa mỹ ra gì là ra gì chị ?",
+        "category": "region",
+        "id": "region_4995",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "hoa mỹ phải vậy mới vừa 🤣",
+        "category": "region",
+        "id": "region_4996",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "tuấn nguyễn hi thanh hoá",
+        "category": "region",
+        "id": "region_4957",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    }
+]

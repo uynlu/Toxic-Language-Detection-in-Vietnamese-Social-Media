@@ -1,0 +1,226 @@
+[
+    {
+        "text": "lk hoà đã phải lặn lội từ ngoài bắc vào miền tây để ăn cá lâu kính đấy",
+        "category": "region",
+        "id": "region_3510",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "vừa ý thấy ghê luôn",
+        "category": "region",
+        "id": "region_3545",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nó ăn mấy bộ đầu lòng của heo 🐷 trâu 🐃 bo an luôn cút không thèm nấu chín còn mau không,, tụi nó ăn tiết canh heo 🐖 trâu bò 🐂 ngựa 🐎 an còn hơn moi",
+        "category": "region",
+        "id": "region_3504",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "đúg rối chó mới k ăn cá rô cây .hay lắm chú mãi đỉnh",
+        "category": "region",
+        "id": "region_3507",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "bk thi no khoai mì",
+        "category": "region",
+        "id": "region_3523",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "chia rẽ tình đoàn kết anh em",
+        "category": "region",
+        "id": "region_3520",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "miền tay miền bac = việt nam",
+        "category": "region",
+        "id": "region_3568",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "thời bao cấp làm gì có cá để ăn, ỉa ra lấy cức làm phân bón rau muống nuớc luộc rau muống làm canh còn rau chấm nước muối",
+        "category": "region",
+        "id": "region_3553",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "cảm ơn anh bạn trả lời chính xác kkkkkk",
+        "category": "region",
+        "id": "region_3506",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "10đ, rất là thâm nha anh trai!! 😂😂",
+        "category": "region",
+        "id": "region_3493",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "tui cũng chắc chắc với fen 100% chó nhà tui ko ăn cá rô cây",
+        "category": "region",
+        "id": "region_3586",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "cũng là người việc nam con cháo bác hồ sao lại phân biệt nam bắc làm chi vậy chỉ là con cá mà sao nói vậy chi",
+        "category": "region",
+        "id": "region_3503",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "truyền thuyết con cá rô cây mãi đỉnh",
+        "category": "region",
+        "id": "region_3570",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "chưởi nó làm gì",
+        "category": "region",
+        "id": "region_3491",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "chuẩn khỏi chỉnh",
+        "category": "region",
+        "id": "region_3555",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "dung quá anh ơi",
+        "category": "region",
+        "id": "region_3556",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "hay lắm a ba khía",
+        "category": "region",
+        "id": "region_3578",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "con cá rô cây trong truyền thuyết ở ngoài bk hả",
+        "category": "region",
+        "id": "region_3535",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "chúng bay chửi nhau à",
+        "category": "region",
+        "id": "region_3499",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "bac nam phan biet chi.",
+        "category": "region",
+        "id": "region_3577",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "tôi thích con cá rô cây của a đó 😂",
+        "category": "region",
+        "id": "region_3532",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "tao cũng người bắc mà nghe lời nói của người bắc như vậy quá phản cảm",
+        "category": "region",
+        "id": "region_3581",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "phát ngôn bừa bãi",
+        "category": "region",
+        "id": "region_3519",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "bắc nam là 1. vì 1 video bọn nó chia rẽ nam bắc mà vào chửi nhau. chịu.",
+        "category": "region",
+        "id": "region_3569",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "haha chín sát",
+        "category": "region",
+        "id": "region_3543",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "ban nây miêm băt ơ đâu cho tao thăng nây gưi tao nhe",
+        "category": "region",
+        "id": "region_3571",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "t miền bắc và t cũng vẫn cá lau kiếng nướng ngon vcc. còn con cá rô cây t k biết là cá gì",
+        "category": "region",
+        "id": "region_3518",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "hay quá bạn ơi, tụi nó chê nam sau lũ đó nó tràn vô nam khủng khiếp",
+        "category": "region",
+        "id": "region_3587",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    }
+]

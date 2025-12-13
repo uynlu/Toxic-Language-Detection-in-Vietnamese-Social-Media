@@ -1,0 +1,154 @@
+[
+    {
+        "text": "hồ bảo ông phạm v đồng nói",
+        "category": "region",
+        "id": "region_2138",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "trần đúng ăn nhằm lựu đạn chết cha bk kkkkk",
+        "category": "region",
+        "id": "region_2150",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "nguyễn thanh hân bạn có thể nói chó ko ăn nhưng câu \" bọn miền tây\" thì ko nên nói bạn nhé. nếu mình cũng nói câu\" bọn miền bắc\" thì bạn sẽ như nào?",
+        "category": "region",
+        "id": "region_2159",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "trần đúng còn trái nũa là trái lựu ạn nữa 😆",
+        "category": "region",
+        "id": "region_2155",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "đức giàu",
+        "category": "region",
+        "id": "region_2123",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "đức giàu bạn coi chừng tụi nó vào táp đó. nó dọn hộ khẩu sang cali luôn á",
+        "category": "region",
+        "id": "region_2117",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "trước 75 mỹ nó bỏ xuống bk1trieu còn thở thì bg bk khg còn rau muống mà ăn",
+        "category": "region",
+        "id": "region_2169",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "david tom họ vào kiếm cá lau kiếng",
+        "category": "region",
+        "id": "region_2133",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "phạm hữu tài ủa z là hồi xưa cá chưa đẻ hay jk",
+        "category": "region",
+        "id": "region_2108",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "hồ bảo uh kkkk",
+        "category": "region",
+        "id": "region_2166",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "phạm hữu tài tại sao mặc định nam kỳ là miền tây nhỉ",
+        "category": "region",
+        "id": "region_2111",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "hoàng văn bạn nói nam kỳ cũng là bao gồm miền tây luôn rồi đó bạn",
+        "category": "region",
+        "id": "region_2113",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "hồ bảo phạm văn đồng",
+        "category": "region",
+        "id": "region_2168",
+        "toxicity_deepseek": "TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "NON-TOXIC"
+    },
+    {
+        "text": "david tom vào mới có mà ăn",
+        "category": "region",
+        "id": "region_2129",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "hồ bảo 1 kg rau lang = 1kg sâm =))",
+        "category": "region",
+        "id": "region_2167",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "hoang hoang người ta ￼có quyền ￼ chê cá không ăn . nhưng không được quyền xưng hô bọn này bọn nọ ￼ loại mất dạy . ￼",
+        "category": "region",
+        "id": "region_2124",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "og ăn roi à",
+        "category": "region",
+        "id": "region_2096",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "david tom 👍 kéo vào mn kéo đó về xài … ngày xưa chi có cá ro cây thôi 😍",
+        "category": "region",
+        "id": "region_2127",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    },
+    {
+        "text": "đức giàu tôi nói bạn nghe này, cha mẹ tôi , ông bà tôi sinh ra và lớn lên ở đất đồng nai, nhưng thật sự tôi đọc quá nhiều bình luận dưới video này rất vô ơn, tôi nói bạn nghe nhạc bạn lớn tuổi không phải trẻ con, thứ nhất cá gỗ ( cá cây ) là của người nghệ an nơi sinh ra bác hồ vĩ đại, và lịch sử của con cá đó là người dân nghệ an làm ra để lên bàn ăn để chấm nước mắm ăn với cơm, mục đích của họ là để lương thực và thịt cá để gửi cho bộ đội giải phóng miền nam bạn à, bạn lớn rồi bạn nên tìm hiểu kỹ lịch sử , bạn có cuộc sống ngày hôm nay một phần cũng nhờ con cá rô cây của bạn đang nói đó, nếu bạn đọc được bình luận của tôi thì bên nên cảm thấy cần phải biết ơn con cá rô cây đó bạn nhé. tôi cũng đang phải cảm ơn con cá rô cây để tôi có một cuộc sống tươi đẹp như hiện nay ở đồng nai.",
+        "category": "region",
+        "id": "region_2181",
+        "toxicity_deepseek": "NON-TOXIC",
+        "toxicity_mistral": "NON-TOXIC",
+        "toxicity_qwen": "TOXIC"
+    }
+]
