@@ -1,4 +1,5 @@
 import argparse
+import os
 
 from labeling.labeling_utils.data_annotator import DataAnnotatorPipeline
 
@@ -28,11 +29,20 @@ if __name__ == "__main__":
         optimization_flag=args.optimization_flag
     )
     if args.error_flag:
-        pipeline.annotate_error_data(error_batch_folder=args.error_batch_folder)
-        # pipeline.annotate_error_data_parallelly(error_batch_folder=args.error_batch_folder)
+        if not args.error_batch_folder:
+            for folder in os.listdir(os.path.join(args.output_folder, f"round_{args.prompt_round}", "annotated")):
+                folder_path = os.path.join(args.output_folder, f"round_{args.prompt_round}", "annotated", folder)
+
+                print(f"Processing folder: {folder_path}")
+                error_file = os.path.join(folder_path, "error_data.json")
+                if os.path.exists(error_file):
+                    pipeline.annotate_error_data(error_batch_folder=folder_path)
+        else:
+            pipeline.annotate_error_data(error_batch_folder=args.error_batch_folder)
     else:
         # pipeline.annotate()
         # pipeline.check()
         # pipeline.main()
         # pipeline.annotate_temp()
         pipeline.main_parallelly()
+        

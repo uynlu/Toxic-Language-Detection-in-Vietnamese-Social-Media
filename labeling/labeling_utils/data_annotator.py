@@ -7,6 +7,7 @@ import random
 from dotenv import load_dotenv
 from openai import OpenAI
 from concurrent.futures import ThreadPoolExecutor, as_completed
+from collections import Counter
 
 from utils import load_json, save_json
 
@@ -62,6 +63,7 @@ class DataAnnotatorPipeline:
         self.gpt_client = OpenAI(api_key=GPT_API_KEY)
         
     def main(self):
+        """Run the data annotation pipeline."""
         if self.optimization_flag:
             print("Start prompt optimization process!")
 
@@ -107,6 +109,7 @@ class DataAnnotatorPipeline:
             save_json(labelled_data, os.path.join(self.result_folder, "auto_labelled_data.json"))
 
     def main_parallelly(self):
+        """Run the data annotation pipeline parallelly."""
         if self.optimization_flag:
             print("Start prompt optimization process!")
 
@@ -116,17 +119,38 @@ class DataAnnotatorPipeline:
             if self.error_flag:
                 return
             
+            # GPT checking parallelly
             print("Start checking!")
             self.check_parallelly()
             
             labelled_data = []
             for annotated_batch_folder in os.listdir(os.path.join(self.result_folder, "annotated")):
-                similar_data = json.load(open(os.path.join(self.result_folder, "annotated", annotated_batch_folder, "similar_data.json"), "r", encoding="utf-8"))
-                checked_data = json.load(open(os.path.join(self.result_folder, "checked", f"checked_{annotated_batch_folder[10:]}.json"), "r", encoding="utf-8"))
+                similar_data = load_json(os.path.join(self.result_folder, "annotated", annotated_batch_folder, "similar_data.json"))
+                checked_data = load_json(os.path.join(self.result_folder, "checked", f"checked_{annotated_batch_folder[10:]}.json"))
 
                 labelled_data.extend(similar_data)
                 labelled_data.extend(checked_data)
             
+            # Major voting 3 llms
+            # labelled_data = []
+            # for annotated_batch_folder in os.listdir(os.path.join(self.result_folder, "annotated")):
+            #     similar_data = load_json(os.path.join(self.result_folder, "annotated", annotated_batch_folder, "similar_data.json"))
+            #     different_data = load_json(os.path.join(self.result_folder, "annotated", annotated_batch_folder, "different_data.json"))
+
+            #     labelled_data.extend(similar_data)
+
+            #     def majority_vote(item):
+            #         llm_results = [
+            #             v for k, v in item.items()
+            #             if k.startswith(f"{self.label_type}_")
+            #         ]
+            #         return Counter(llm_results).most_common(1)[0][0]
+                
+            #     for item in different_data:
+            #         item[self.label_type] = majority_vote(item)
+
+            #     labelled_data.extend(different_data)
+
             fixed_labelled_data = self.create_fixed_labelled_data(labelled_data, 100)
             os.makedirs(os.path.join(self.result_folder, "result"), exist_ok=True)
             save_json(fixed_labelled_data, os.path.join(self.result_folder, "result", "labelled_data_llms.json"))
@@ -134,16 +158,17 @@ class DataAnnotatorPipeline:
             print("Start annotation process!")
             print("Start annotating!")
             self.annotate_parallelly()
-
-            return
             
+            if self.error_flag:
+                return
+
             print("Start checking!")
             self.check_parallelly()
 
             labelled_data = []
             for annotated_batch_folder in os.listdir(os.path.join(self.result_folder, "annotated")):
-                similar_data = json.load(open(os.path.join(self.result_folder, "annotated", annotated_batch_folder, "similar_data.json"), "r", encoding="utf-8"))
-                checked_data = json.load(open(os.path.join(self.result_folder, "checked", f"checked_{annotated_batch_folder[10:]}.json"), "r", encoding="utf-8"))
+                similar_data = load_json(os.path.join(self.result_folder, "annotated", annotated_batch_folder, "similar_data.json"))
+                checked_data = load_json(os.path.join(self.result_folder, "checked", f"checked_{annotated_batch_folder[10:]}.json"))
 
                 labelled_data.extend(similar_data)
                 labelled_data.extend(checked_data)
@@ -151,6 +176,7 @@ class DataAnnotatorPipeline:
             save_json(labelled_data, os.path.join(self.result_folder, "auto_labelled_data.json"))
             
     def annotate(self):
+        """Annotate data."""
         for batch_path in self.batch_paths:
             print(f"Process {batch_path}!")
             saved_folder = os.path.join(self.result_folder, "annotated", f"annotated_{os.path.basename(batch_path).split('.')[0]}")
@@ -243,13 +269,16 @@ class DataAnnotatorPipeline:
                 save_json(error_data, os.path.join(saved_folder, "error_data.json"))
         
     def annotate_error_data(self, error_batch_folder: str):
+        """Annotate error data."""
         print("Process error data!")
         
         similar_data = load_json(os.path.join(error_batch_folder, "similar_data.json"))
         different_data = load_json(os.path.join(error_batch_folder, "different_data.json"))
         error_data = load_json(os.path.join(error_batch_folder, "error_data.json"))
 
-        for item in error_data:
+        for i, item in enumerate(error_data):
+            print(f"{i + 1}/{len(error_data)}")
+
             deepseek_response = self.deepseek_client.chat.completions.create(
                 model="deepseek-reasoner",
                 messages=[
@@ -310,6 +339,10 @@ class DataAnnotatorPipeline:
                     
                     different_data.append(item)
             else:
+                print("Deepseek:", deepseek_response.choices[0].message.content)
+                print("Mistral:", mistral_response.choices[0].message.content)
+                print("Qwen:", qwen_response.choices[0].message.content)
+
                 deepseek_response_result = deepseek_response.choices[0].message.content
                 mistral_response_result = mistral_response.choices[0].message.content
                 qwen_response_result = qwen_response.choices[0].message.content
@@ -325,10 +358,13 @@ class DataAnnotatorPipeline:
 
                     different_data.append(item)
 
+        os.remove(os.path.join(error_batch_folder, "error_data.json"))
+
         save_json(similar_data, os.path.join(error_batch_folder, "similar_data.json"))
         save_json(different_data, os.path.join(error_batch_folder, "different_data.json"))
 
     def annotate_parallelly(self):
+        """Annotate data parallelly."""
         for batch_path in self.batch_paths:
             print(f"Process {batch_path}!")
             saved_folder = os.path.join(self.result_folder, "annotated", f"annotated_{os.path.basename(batch_path).split('.')[0]}")
@@ -361,32 +397,8 @@ class DataAnnotatorPipeline:
             if error_data:
                 save_json(error_data, os.path.join(saved_folder, "error_data.json"))
     
-    # def annotate_error_data_parallelly(self, error_batch_folder: str):
-    #     print("Process error data!")
-        
-    #     similar_data = load_json(os.path.join(error_batch_folder, "similar_data.json"))
-    #     different_data = load_json(os.path.join(error_batch_folder, "different_data.json"))
-    #     error_data = load_json(os.path.join(error_batch_folder, "error_data.json"))
-
-    #     with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-    #         future_to_item = {executor.submit(self.annotate_one_item, item): item for item in error_data}
-
-    #         for future in tqdm(as_completed(future_to_item), total=len(error_data)):
-    #             annotated_item, status, deepseek_response, mistral_response, qwen_response = future.result()
-    #             if status == "similar":
-    #                 similar_data.append(annotated_item)
-    #             elif status == "different":
-    #                 different_data.append(annotated_item)
-    #             else:
-    #                 print(deepseek_response)
-    #                 print(mistral_response)
-    #                 print(qwen_response)
-    #                 raise ValueError(f"Error in annotating item again! Item: {annotated_item}")
-        
-    #     save_json(similar_data, os.path.join(error_batch_folder, "similar_data.json"))
-    #     save_json(different_data, os.path.join(error_batch_folder, "different_data.json"))
-
     def annotate_one_item(self, item: dict):
+        """Annotate one item for annotating parallelly."""
         try:
             deepseek_response = self.deepseek_client.chat.completions.create(
                 model="deepseek-reasoner",
@@ -452,6 +464,7 @@ class DataAnnotatorPipeline:
             return item, "error"
 
     def check(self):
+        """Check annotated data."""
         saved_folder = os.path.join(self.result_folder, "checked")
         os.makedirs(saved_folder, exist_ok=True)
 
@@ -480,7 +493,7 @@ class DataAnnotatorPipeline:
                 temp_item = {key: value for key, value in item.items() if key in used_keys}
                 
                 gpt_response = self.gpt_client.chat.completions.create(
-                    model="gpt-5",
+                    model="gpt-5-mini",
                     messages=[
                         {"role": "system", "content": self.checking_system_prompt},
                         {"role": "user", "content": json.dumps(temp_item, ensure_ascii=False)},
@@ -505,9 +518,10 @@ class DataAnnotatorPipeline:
             save_json(checked_data, os.path.join(saved_folder, f"checked_{annotated_batch_folder[10:]}.json"))
 
     def check_parallelly(self):
+        """Check annotated data parallelly."""
         saved_folder = os.path.join(self.result_folder, "checked")
         os.makedirs(saved_folder, exist_ok=True)
-
+        
         for annotated_batch_folder in os.listdir(os.path.join(self.result_folder, "annotated")):
             annotated_batch_folder_path = os.path.join(self.result_folder, "annotated", annotated_batch_folder)
             print(f"Process {annotated_batch_folder_path}!")
@@ -532,6 +546,7 @@ class DataAnnotatorPipeline:
             save_json(checked_data, os.path.join(saved_folder, f"checked_{annotated_batch_folder[10:]}.json"))
 
     def check_one_item(self, item: dict):
+        """Check one item for checking parallelly."""
         used_keys = {
             "text",
             # "category",
@@ -543,7 +558,7 @@ class DataAnnotatorPipeline:
         temp_item = {key: value for key, value in item.items() if key in used_keys}
         
         gpt_response = self.gpt_client.chat.completions.create(
-            model="gpt-5",
+            model="gpt-5-mini",
             messages=[
                 {"role": "system", "content": self.checking_system_prompt},
                 {"role": "user", "content": json.dumps(temp_item, ensure_ascii=False)},
@@ -561,16 +576,18 @@ class DataAnnotatorPipeline:
             del item[f"{self.label_type}_mistral"]
             del item[f"{self.label_type}_qwen"]
 
-            item[f"{self.label_type}"] = gpt_response_result
+            item[f"{self.label_type}"] = gpt_response.choices[0].message.content
 
         return item
         
     def split_into_batches(self, batch_size: int):
+        """Split data into batches."""
         for i in range(0, len(self.data), batch_size):
             batch = self.data[i:i + batch_size]
             save_json(batch, os.path.join(self.batch_folder, f"batch_{i // batch_size + 1}.json"))
 
     def create_fixed_labelled_data(self, labelled_data: list[dict], num_samples: int):
+        """Create fixed labelled data for optimization."""
         fixed_labelled_data = []
         if self.optimization_flag:
             for item in labelled_data:
@@ -606,7 +623,7 @@ class DataAnnotatorPipeline:
     #         for item in tqdm(batch):
     #             try:
     #                 gpt_response = self.gpt_client.chat.completions.create(
-    #                     model="gpt-5",
+    #                     model="gpt-5-mini",
     #                     messages=[
     #                         {"role": "system", "content": self.annotating_system_prompt},
     #                         {"role": "user", "content": item["text"]},

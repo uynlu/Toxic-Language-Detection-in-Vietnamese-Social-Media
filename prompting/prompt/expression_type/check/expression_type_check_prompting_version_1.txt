@@ -23,14 +23,20 @@
 - Target Identification: Determine the expression type of the given text.
 
 5. INPUT FORMAT 
-   Each input will be just a comment text in Vietnamese.
+    Each input will follow this format:
+    {
+        "text": “<TEXT>”,
+        "toxicity_deepseek": "<IMPLICIT or EXPLICIT or REPORTED>",
+        "toxicity_mistral": "<IMPLICIT or EXPLICIT or REPORTED>",
+        "toxicity_qwen": "<IMPLICIT or EXPLICIT or REPORTED>"
+    }
 
 6. OUTPUT FORMAT
-```json
-{
-    "label": "EXPLICIT",
-    "reason": Give the reason for your classification.
-}
-```
-
-7. EXAMPLES
+    Return your decision in the following format:
+    {
+        "label": "<IMPLICIT or EXPLICIT or REPORTED>",
+        "reason": "<Short and clear explanation for your decision>"
+    }
+    Note:
+    - The reason must be concise, focused on the key linguistic cues that determine the expression type.
+    - Do not include unnecessary explanation, speculation, or unrelated analysis.

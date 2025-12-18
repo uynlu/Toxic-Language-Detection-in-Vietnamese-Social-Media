@@ -24,6 +24,7 @@ parser.add_argument("--flag", default=False, type=bool, required=False)
 
 
 def preprocess_platform(target_category, platform, raw_folder, preprocessed_folder):
+    """Preprocess data for a specific platform and target category."""
     input_folder = os.path.join(raw_folder, target_category, platform)
 
     output_folder = os.path.join(preprocessed_folder, "original")

@@ -16,7 +16,7 @@ API_KEY = os.getenv("GPT_API_KEY")
 
 
 def process_tiktok_comments(data: pd.DataFrame):
-    """Process NaN and mentions from comments in Tiktok"""
+    """Process NaN and mentions from comments in Tiktok."""
     print("Process mentions from comments in Tiktok!")
     
     mention_columns = [column for column in data.columns if column.startswith("mentions")]
@@ -42,7 +42,7 @@ def process_tiktok_comments(data: pd.DataFrame):
     return data.drop(index=indexes_to_drop).reset_index(drop=True)["text"]
 
 def process_youtube_comments(data: pd.DataFrame):
-    """Process NaN and mentions from comments in Youtube"""
+    """Process NaN and mentions from comments in Youtube."""
     print("Process mentions from comments in Youtube!")
     
     mention_pattern = re.compile(r"@(\S+)")
@@ -60,7 +60,7 @@ def process_youtube_comments(data: pd.DataFrame):
     return data.drop(index=indexes_to_drop).reset_index(drop=True)["text"]
 
 def process_facebook_comments(data: pd.DataFrame):
-    """Process NaN comments in Facebook"""
+    """Process NaN comments in Facebook."""
     print("Process mentions from comments in Facebook!")
     
     indexes_to_drop = []
@@ -73,7 +73,7 @@ def process_facebook_comments(data: pd.DataFrame):
     return data.drop(index=indexes_to_drop).reset_index(drop=True)["text"]
 
 def process_reddit_comments(data: pd.DataFrame):
-    """Process removed comments and comments that contain bot-generated messages, error emoji in Reddit"""
+    """Process removed comments and comments that contain bot-generated messages, error emoji in Reddit."""
     print("Process error comments in Reddit!")
     
     data = data[(data["body"] != "[removed]") & (data["body"] != "") & (data["body"] != "[deleted]")]
@@ -87,7 +87,7 @@ def process_reddit_comments(data: pd.DataFrame):
     return data["body"]
 
 def add_id(data: List[Dict[str, Any]]):
-    """Add unique IDs to each comment in the dataset"""
+    """Add unique IDs to each comment in the dataset."""
     print("Add unique IDs to each comment!")
     
     for i, item in tqdm(enumerate(data)):
@@ -96,7 +96,7 @@ def add_id(data: List[Dict[str, Any]]):
     return data
 
 def remove_duplicates(data: List[Dict[str, Any]]):
-    """Remove duplicate comments"""
+    """Remove duplicate comments."""
     print("Remove duplicate comments!")
 
     seen = set()
@@ -110,7 +110,7 @@ def remove_duplicates(data: List[Dict[str, Any]]):
     return new_data
 
 def remove_hashtags(data: List[Dict[str, Any]]):
-    """Remove hashtags from comments"""
+    """Remove hashtags from comments."""
     print("Remove hashtags from comments!")
     
     hashtag_pattern = re.compile(r"#\S*")
@@ -120,7 +120,7 @@ def remove_hashtags(data: List[Dict[str, Any]]):
     return data
 
 def remove_urls(data: List[Dict[str, Any]]):
-    """Remove URLs and image links from comments"""
+    """Remove URLs and image links from comments."""
     print("Remove URLs and image links from comments!")
 
     pattern = re.compile(r"https?://\S+|www\.\S+|!\[img\]\([^)]+\)|\[photo\]")
@@ -130,7 +130,7 @@ def remove_urls(data: List[Dict[str, Any]]):
     return data
 
 def to_lowercase(data: List[Dict[str, Any]]):
-    """Convert texts to lowercase"""
+    """Convert texts to lowercase."""
     print("Convert texts to lowercase!")
     
     for item in tqdm(data):
@@ -139,7 +139,7 @@ def to_lowercase(data: List[Dict[str, Any]]):
     return data
 
 def clean_whitespace(data: List[Dict[str, Any]]):
-    """Clean up extra whitespace in comments"""
+    """Clean up extra whitespace in comments."""
     print("Clean up extra whitespace in comments!")
     
     for item in tqdm(data):
@@ -153,7 +153,7 @@ def filter_non_vietnamese_texts(
     batch_size: int = 100,
     flag: bool = False
 ):
-    """Filter comments to keep only those in Vietnamese"""
+    """Filter comments to keep only those in Vietnamese."""
     os.makedirs(log_folder, exist_ok=True)
 
     if flag == False:
@@ -180,7 +180,7 @@ def filter_non_vietnamese_texts(
     
     if os.path.exists(os.path.join(log_folder, "undetected_data", "batch_1.json")):
         client = OpenAI(api_key=API_KEY)
-        system_prompt = """
+        system_prompt = ."""
 You are a Vietnamese language detection expert.
 
 Your task is to determine whether a given text contains recognizable and meaningful Vietnamese content — including teencode, slang, or phonetic approximations.

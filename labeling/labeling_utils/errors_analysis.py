@@ -15,6 +15,7 @@ def measure_agreement(
     prompt_round: int,
     sample: int = None
 ):
+    """Measure agreement using Fleiss' Kappa."""
     if label_type == "toxicity":
         all_labels = ["TOXIC", "NON-TOXIC"]
     elif label_type == "toxic_type":
@@ -98,14 +99,14 @@ def measure_agreement(
             different_entry["final"] = ""
             differently_labelled_data.append(different_entry)
             
-            entry[f"{label_type}_fixed"] = ""
+            entry[f"{label_type}"] = ""
             final_data.append(entry)
         else:
             entry = {
                 "id": id,
                 "text": all_information.get(id)[0],
                 "category": all_information.get(id)[1],
-                f"{label_type}_fixed": labels[-1]
+                f"{label_type}": labels[-1]
             }
             final_data.append(entry)
 
@@ -115,7 +116,8 @@ def measure_agreement(
     
     save_json(final_data, os.path.join(result_folder, "result.json"))
 
-def plot_different_labels_bar(file_path: str):
+def plot_number_of_different_labels(file_path: str):
+    """Plot bar chart of different labelled data in each label."""
     different_data = load_json(file_path)
 
     different_counts = defaultdict(int)
@@ -134,6 +136,7 @@ def plot_different_labels_bar(file_path: str):
     plt.show()
 
 def plot_diffence_percentage(file_path: str, sample_size: int = 300):
+    """Plot pie chart of difference percentage."""
     different_data = load_json(file_path)
 
     plt.figure(figsize=(8, 5))
@@ -183,15 +186,38 @@ def plot_diffence_percentage_each_category(file_path: str, sample_size_per_label
     plt.tight_layout()
     plt.show()
 
-def create_final_result(result_path: str, differently_labelled_data_path: str, label_type: str):
+def create_final_result(
+    result_path: str,
+    differently_labelled_data_path: str,
+    llms_labelled_data_path: str,
+    label_type: str
+):
+    """Create the final file after consensus."""
     result = load_json(result_path)
     differently_labelled_data = load_json(differently_labelled_data_path)
+    llms_labelled_data = load_json(llms_labelled_data_path)
 
-    mapping = {item["id"]: item["final"] for item in differently_labelled_data}
-    
+    different_mapping = {item["id"]: item["final"] for item in differently_labelled_data}
+    llms_mapping = {item["id"]: item[label_type] for item in llms_labelled_data}
+
     for item in result:
-        if item[f"{label_type}_fixed"] == "":
-            item[f"{label_type}_fixed"] = mapping.get(item["id"])
+        if item[f"{label_type}"] == "":
+            if different_mapping.get(item["id"]):
+                item[f"{label_type}"] = llms_mapping.get(item["id"])
+            else:
+                item[f"{label_type}"] = different_mapping.get(item["id"])
 
     save_json(result, result_path)
-    
+
+def map_result(differently_labelled_path: str, result_folder: str):
+    diff = load_json(differently_labelled_path)
+    diff_mapping = {itm["id"]: itm["final"] for itm in diff}
+
+    for file_name in os.listdir(result_folder):
+        if file_name.split("_")[-1] != "llms.json":
+            data = load_json(os.path.join(result_folder, file_name))
+            for item in data:
+                if item["id"] in diff_mapping.keys():
+                    item["expression_type_fixed"] = diff_mapping.get(item["id"])
+            save_json(data, os.path.join(result_folder, file_name))
+            
