@@ -43,7 +43,7 @@ class CustomDataset(Dataset):
         elif self.label_type == "toxic_type":
             self.label_dict = {"OFFENSIVE": 0, "HATE": 1}
         elif self.label_type == "expression_type":
-            self.label_dict = {"IMPLICIT": 0, "EXPLICIT": 1, "REPORTED": 2}
+            self.label_dict = {"IMPLICIT": 0, "EXPLICIT": 1, "REPORT": 2}
         else:
             raise ValueError(f"Unsupported label type: {self.label_type}. Supported types are: toxicity, toxic_type, expression_type.")
         

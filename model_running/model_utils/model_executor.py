@@ -108,6 +108,7 @@ class ModelExecutor:
             loader = self.validation_loader
         else:
             loader = self.test_loader
+            test_results = []
 
         self.model.eval()
 
@@ -138,6 +139,13 @@ class ModelExecutor:
                 predictions.append(prediction)
                 labels.append(label)
                 
+                if type == "test":
+                    entry = dict()
+                    entry["text"] = batch["text"]
+                    entry["prediction"] = prediction
+                    entry["label"] = label
+                    test_results.append(entry)
+
                 pbar.set_postfix(loss=f"{running_loss / i}")
                 pbar.update()
         
@@ -146,16 +154,27 @@ class ModelExecutor:
 
         acc, f1, precision, recall = error(labels.detach().cpu().numpy(), predictions.detach().cpu().numpy())
         print(f"Evaluation scores: Accuracy - {acc}, F1 score - {f1}, Precision - {precision}, Recall - {recall}")
-
-        return (
-            predictions,
-            labels,
-            running_loss / len(loader),
-            acc,
-            f1,
-            precision,
-            recall
-        )
+        if type == "validation":
+            return (
+                predictions,
+                labels,
+                running_loss / len(loader),
+                acc,
+                f1,
+                precision,
+                recall
+            )
+        else:
+            return (
+                test_results,
+                predictions,
+                labels,
+                running_loss / len(loader),
+                acc,
+                f1,
+                precision,
+                recall
+            )
 
     def save_checkpoint(
         self,
@@ -282,7 +301,7 @@ class ModelExecutor:
         self.optimizer.load_state_dict(checkpoint["optimizer_state_dict"])
 
         start_time = time.time()
-        predictions, targets, _, _, _, _, _ = self.evaluate(type="test")
+        test_results, predictions, targets, _, _, _, _, _ = self.evaluate(type="test")
         end_time = time.time()
 
         elapsed = end_time - start_time
@@ -294,6 +313,7 @@ class ModelExecutor:
                 "time": elapsed,
                 "predictions": predictions.tolist(),
                 "targets": targets.tolist(),
+                "results": test_results,
                 "accuracy": accuracy,
                 "f1_score": f1_score,
                 "precision": precision,
