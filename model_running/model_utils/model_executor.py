@@ -50,6 +50,7 @@ class ModelExecutor:
         else:
             pass
 
+        self.num_labels = num_labels
         self.criterion = CrossEntropyLoss()
         self.optimizer = AdamW(self.model.parameters(), lr=self.learning_rate)
         self.grad_scaler = GradScaler(enabled=use_amp)
@@ -151,8 +152,8 @@ class ModelExecutor:
         
         predictions = torch.cat(predictions, dim=0)
         labels = torch.cat(labels, dim=0)
-
-        acc, f1, precision, recall = error(labels.detach().cpu().numpy(), predictions.detach().cpu().numpy())
+        
+        acc, f1, precision, recall = error(labels.detach().cpu().numpy(), predictions.detach().cpu().numpy(), self.num_labels)
         print(f"Evaluation scores: Accuracy - {acc}, F1 score - {f1}, Precision - {precision}, Recall - {recall}")
         if type == "validation":
             return (
@@ -306,7 +307,7 @@ class ModelExecutor:
 
         elapsed = end_time - start_time
 
-        accuracy, f1_score, precision, recall = error(predictions.detach().cpu().numpy(), targets.detach().cpu().numpy())
+        accuracy, f1_score, precision, recall = error(predictions.detach().cpu().numpy(), targets.detach().cpu().numpy(), self.num_labels)
 
         save_json(
             {
