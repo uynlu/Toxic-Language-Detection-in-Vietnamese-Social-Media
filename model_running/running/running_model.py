@@ -54,7 +54,7 @@ if __name__ == "__main__":
             pretrained_flag=True,
             cache_dir=args.cache_dir,
             checkpoint_path=args.checkpoint_path,
-            freeze_model=args.freeze_flag,
+            freeze_flag=args.freeze_flag,
             num_epochs=args.num_epochs
         )
 
