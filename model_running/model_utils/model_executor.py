@@ -10,6 +10,7 @@ import time
 
 from dataset.custom_dataset import CustomDataset
 from model_running.base_models import PretrainedModel
+from model_running.base_models import TextCNN
 from model_running.model_utils.evaluation_errors_utils import error
 from utils import save_json
 
@@ -20,21 +21,24 @@ class ModelExecutor:
         batch_size: int,
         model_name: str,
         num_labels: int,
-        cache_dir: int,
         checkpoint_path: str,
+        cache_dir: int = None,
         pretrained_flag: bool = True,
-        freeze_model: bool = True,
+        freeze_flag: bool = True,
         dropout_rate: float = 0.1,
         num_epochs: int = 100,
         learning_rate: int = 2e-5,
         use_amp: bool = False,
-        device: str = "cuda"
+        device: str = "cuda",
+        embedding_file_path: str = None,
+        word2idx_path: str = None,
     ):
         super(ModelExecutor, self).__init__()
 
         self.batch_size = batch_size
         self.learning_rate = learning_rate
         self.device = device
+        self.pretrained_flag = pretrained_flag
 
         self.checkpoint_path = checkpoint_path
         os.makedirs(self.checkpoint_path, exist_ok=True)
@@ -44,11 +48,17 @@ class ModelExecutor:
                 model_name=model_name,
                 num_labels=num_labels,
                 cache_dir=cache_dir,
-                freeze_model=freeze_model,
+                freeze_model=freeze_flag,
                 dropout_rate=dropout_rate
             ).to(self.device)
         else:
-            pass
+            if model_name == "TextCNN":
+                self.model = TextCNN(
+                    embedding_file_path=embedding_file_path,
+                    word2idx_path=word2idx_path,
+                    num_labels=num_labels,
+                    dropout_rate=dropout_rate
+                ).to(self.device)
 
         self.num_labels = num_labels
         self.criterion = CrossEntropyLoss()
@@ -75,11 +85,14 @@ class ModelExecutor:
         running_loss = 0.0
         with tqdm(desc="Epoch %d - Training" % self.epoch, unit="it", total=len(self.train_loader)) as pbar:
             for i, batch in enumerate(self.train_loader, start=1):
-                inputs = {
-                    "input_ids": batch["input_ids"].to(self.device),
-                    "attention_mask": batch["attention_mask"].to(self.device)
-                }
-                
+                if self.pretrained_flag:
+                    inputs = {
+                        "input_ids": batch["input_ids"].to(self.device),
+                        "attention_mask": batch["attention_mask"].to(self.device)
+                    }
+                else:
+                    inputs = batch["input_ids"].to(self.device)
+
                 labels = batch["label"]
                 labels = labels.to(self.device)
                 
@@ -120,10 +133,13 @@ class ModelExecutor:
         with tqdm(desc="Epoch %d - Evaluation" % self.epoch, unit="it", total=len(loader)) as pbar:
             for i, batch in enumerate(loader, start=1):
                 with torch.no_grad():
-                    inputs = {
-                        "input_ids": batch["input_ids"].to(self.device),
-                        "attention_mask": batch["attention_mask"].to(self.device)
-                    }
+                    if self.pretrained_flag:
+                        inputs = {
+                            "input_ids": batch["input_ids"].to(self.device),
+                            "attention_mask": batch["attention_mask"].to(self.device)
+                        }
+                    else:
+                        inputs = batch["input_ids"].to(self.device)
 
                     label = batch["label"]
 
@@ -142,9 +158,9 @@ class ModelExecutor:
                 
                 if type == "test":
                     entry = dict()
-                    entry["text"] = batch["text"]
-                    entry["prediction"] = prediction.tolist()
-                    entry["label"] = label
+                    entry["text"] = batch["text"][0]
+                    entry["prediction"] = prediction.tolist()[0]
+                    entry["label"] = label.tolist()[0]
                     test_results.append(entry)
 
                 pbar.set_postfix(loss=f"{running_loss / i}")
@@ -281,7 +297,6 @@ class ModelExecutor:
                 self.patience = 0
             else:
                 self.patience += 1
-                
             
             if best:
                 shutil.copyfile(
