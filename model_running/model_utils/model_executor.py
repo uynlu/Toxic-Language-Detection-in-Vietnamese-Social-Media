@@ -248,7 +248,7 @@ class ModelExecutor:
                 best_checkpoint = self.load_checkpoint(os.path.join(self.checkpoint_path, "best_model.pth"))
                 best_f1_score = best_checkpoint["validation_f1_score"]
             else:
-                best_f1_score = 0
+                best_f1_score = -1
             
             last_checkpoint = self.load_checkpoint(os.path.join(self.checkpoint_path, "last_model.pth"))
             self.epoch = last_checkpoint["epoch"]
@@ -260,7 +260,7 @@ class ModelExecutor:
             print(f"Resuming from epoch {self.epoch}")
         else:
             training_time = 0
-            best_f1_score = 0
+            best_f1_score = -1
         
         print("Start training!")
         while True:

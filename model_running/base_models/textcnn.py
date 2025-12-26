@@ -59,7 +59,7 @@ class TextCNN(nn.Module):
 
         output = self.fc(dropped_output)  # (batch, num_classes)
 
-        return F.softmax(output, dim=1)
+        return output
     
     def create_embedding_matrix(
         self,
