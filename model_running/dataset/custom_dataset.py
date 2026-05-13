@@ -69,7 +69,8 @@ class CustomDataset(Dataset):
                 "vinai/bartpho-word"
             ]:
                 text = ViTokenizer.tokenize(text)
-            elif self.tokenizer.name_or_path == "VietAI/vit5-base":
+                
+            if self.tokenizer.name_or_path == "VietAI/vit5-base":
                 text = "classify: " + text
             
             encoding = self.tokenizer(
