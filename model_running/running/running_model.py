@@ -26,21 +26,21 @@ if __name__ == "__main__":
 
     if args.pretrained_flag:
         train_data = CustomDataset(
-            data_path=os.path.join(args.data_folder, "train.json"),
+            data_path=os.path.join(args.data_folder, "train_data.json"),
             label_type=args.label_type,
             tokenizer_name=args.model_name,
             cache_dir=args.cache_dir,
             max_len=args.max_len
         )
         dev_data = CustomDataset(
-            data_path=os.path.join(args.data_folder, "dev.json"),
+            data_path=os.path.join(args.data_folder, "dev_data.json"),
             label_type=args.label_type,
             tokenizer_name=args.model_name,
             cache_dir=args.cache_dir,
             max_len=args.max_len
         )
         test_data = CustomDataset(
-            data_path=os.path.join(args.data_folder, "test.json"),
+            data_path=os.path.join(args.data_folder, "test_data.json"),
             label_type=args.label_type,
             tokenizer_name=args.model_name,
             cache_dir=args.cache_dir,
@@ -61,19 +61,19 @@ if __name__ == "__main__":
         executor.run(train_data, dev_data, test_data)
     else:
         train_data = CustomDataset(
-            data_path=os.path.join(args.data_folder, "train.json"),
+            data_path=os.path.join(args.data_folder, "train_data.json"),
             label_type=args.label_type,
             max_len=args.max_len,
             vocab_folder_path=args.vocab_folder_path
         )
         dev_data = CustomDataset(
-            data_path=os.path.join(args.data_folder, "dev.json"),
+            data_path=os.path.join(args.data_folder, "dev_data.json"),
             label_type=args.label_type,
             max_len=args.max_len,
             vocab_folder_path=args.vocab_folder_path
         )
         test_data = CustomDataset(
-            data_path=os.path.join(args.data_folder, "test.json"),
+            data_path=os.path.join(args.data_folder, "test_data.json"),
             label_type=args.label_type,
             max_len=args.max_len,
             vocab_folder_path=args.vocab_folder_path
