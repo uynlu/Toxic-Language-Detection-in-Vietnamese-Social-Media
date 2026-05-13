@@ -147,7 +147,7 @@ class ModelExecutor:
 
                     label = label.to(self.device)
                     
-                    logits = self.model(inputs)
+                    logits, _ = self.model(inputs)
                     loss = self.criterion(logits, label)
 
                     this_loss = loss.item()
