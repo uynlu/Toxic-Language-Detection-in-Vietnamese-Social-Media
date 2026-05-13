@@ -87,18 +87,18 @@ class ModelExecutor:
         running_loss = 0.0
         with tqdm(desc="Epoch %d - Training" % self.epoch, unit="it", total=len(self.train_loader)) as pbar:
             for i, batch in enumerate(self.train_loader, start=1):
+                labels = batch["label"]
+                labels = labels.to(self.device)
+
                 if self.pretrained_flag:
                     inputs = {
                         "input_ids": batch["input_ids"].to(self.device),
                         "attention_mask": batch["attention_mask"].to(self.device)
                     }
+                    logits = self.model(**inputs)
                 else:
                     inputs = batch["input_ids"].to(self.device)
-
-                labels = batch["label"]
-                labels = labels.to(self.device)
-                
-                logits = self.model(inputs)
+                    logits = self.model(inputs)
 
                 loss = self.criterion(logits, labels)
                 
