@@ -95,10 +95,10 @@ class ModelExecutor:
                         "input_ids": batch["input_ids"].to(self.device),
                         "attention_mask": batch["attention_mask"].to(self.device)
                     }
-                    logits = self.model(**inputs)
+                    logits, _ = self.model(**inputs)
                 else:
                     inputs = batch["input_ids"].to(self.device)
-                    logits = self.model(inputs)
+                    logits, _ = self.model(inputs)
 
                 loss = self.criterion(logits, labels)
                 
@@ -135,19 +135,19 @@ class ModelExecutor:
         with tqdm(desc="Epoch %d - Evaluation" % self.epoch, unit="it", total=len(loader)) as pbar:
             for i, batch in enumerate(loader, start=1):
                 with torch.no_grad():
+                    label = batch["label"]
+                    label = label.to(self.device)
+
                     if self.pretrained_flag:
                         inputs = {
                             "input_ids": batch["input_ids"].to(self.device),
                             "attention_mask": batch["attention_mask"].to(self.device)
                         }
+                        logits, _ = self.model(**inputs)
                     else:
                         inputs = batch["input_ids"].to(self.device)
-
-                    label = batch["label"]
-
-                    label = label.to(self.device)
+                        logits, _ = self.model(inputs)
                     
-                    logits, _ = self.model(inputs)
                     loss = self.criterion(logits, label)
 
                     this_loss = loss.item()
