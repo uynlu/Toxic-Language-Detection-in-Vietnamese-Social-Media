@@ -1,7 +1,7 @@
 import argparse
 import os
 
-from dataset.custom_dataset import CustomDataset
+from model_running.dataset.custom_dataset import CustomDataset
 from model_running.model_utils.model_executor import ModelExecutor
 
 

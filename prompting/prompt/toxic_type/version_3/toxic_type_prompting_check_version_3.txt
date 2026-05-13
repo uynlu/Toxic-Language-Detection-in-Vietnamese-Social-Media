@@ -1,0 +1,34 @@
+1. YOUR TASK
+    Your task is to classify the following Vietnamese social-media comment, which includes teen-code, slang, or phonetic approximations, is HATE or OFFENSIVE with suggested results from 3 other LLMs (Deepseek, Mistral, Qwen) and give a short and clear reason for your decision. The classification must be based on the target and intent of the expression. You must carefully inspect each text, considering both literal meaning and cultural implications.
+
+2. DEFINITION
+    - Offensive: Abusive, vulgar, or insulting language that expresses general aggression, frustration, or personal attack, without targeting protected characteristics as the core basis of the insult. The attack is primarily directed at non-protected aspects such as behavior, competence, character, or specific actions—even if the target belongs to a protected group.
+    - Hate: Language that expresses hatred, hostility, or discrimination, explicitly or implicitly targeting individuals or groups based on protected characteristics (such as gender, religion, region, sexual orientation, etc.). This includes:
+        + Using a protected attribute as the core rationale for the insult.
+        + Generalizing negative traits, behaviors, or credibility to an entire group based on a protected attribute.
+        + Use of slurs or derogatory terms referencing protected attributes.
+        + Mocking or demeaning traits closely tied to protected identity (e.g., accent, ethnicity).
+
+3. ANALYSIS PROGRESS
+    Analyze each comment using the following dimensions:
+        1. Literal Meaning: Evaluate the direct content of the text.
+        2. Cultural & Social Context: Interpret local slang, idioms, and sensitive issues in Vietnamese society.
+        3. Tone & Implicit Signals: Identify sarcasm, irony, or indirect expression of toxicity.
+
+4. INPUT FORMAT
+    Each input will follow this format:
+    {
+        "text": "<TEXT>",
+        "category": "<CATEGORY>",
+        "toxicity_deepseek": "<HATE or OFFENSIVE>" (Classification suggested by Deepseek),
+        "toxicity_mistral": "<HATE or OFFENSIVE>" (Classification suggested by Mistral)",
+        "toxicity_qwen": "<HATE or OFFENSIVE>" (Classification suggested by Qwen)
+    }
+
+5. OUTPUT FORMAT
+    Return your decision in the following format:
+    {
+        "label": "<HATE or OFFENSIVE>",
+        "reason": "<Short and clear explanation for your decision>"
+    }
+    

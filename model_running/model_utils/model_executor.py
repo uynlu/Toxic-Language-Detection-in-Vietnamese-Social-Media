@@ -8,7 +8,7 @@ import os
 import shutil
 import time
 
-from dataset.custom_dataset import CustomDataset
+from model_running.dataset.custom_dataset import CustomDataset
 from model_running.base_models import PretrainedModel
 from model_running.base_models import TextCNN
 from model_running.model_utils.evaluation_errors_utils import error
@@ -75,6 +75,7 @@ class ModelExecutor:
         validation_dataset: CustomDataset,
         test_dataset: CustomDataset
     ):
+        """Create data loader."""
         self.train_loader = DataLoader(train_dataset, shuffle=True, batch_size=self.batch_size)
         self.validation_loader = DataLoader(validation_dataset, shuffle=False, batch_size=1)
         self.test_loader = DataLoader(test_dataset, shuffle=False, batch_size=1)

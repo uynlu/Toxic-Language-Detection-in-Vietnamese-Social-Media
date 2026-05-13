@@ -8,13 +8,13 @@ class PretrainedModel(nn.Module):
         self,
         model_name: str,
         num_labels: int,
-        cache_dir: str,
+        cache_dir: str = None,
         freeze_model: bool = True,
         dropout_rate: float = 0.1
     ):
         super(PretrainedModel, self).__init__()
         
-        self.model = AutoModel.from_pretrained(model_name, cache_dir=cache_dir)
+        self.model = AutoModel.from_pretrained(model_name, cache_dir=cache_dir, output_attentions=True)
         
         if freeze_model:
             for param in self.model.parameters():
@@ -23,7 +23,7 @@ class PretrainedModel(nn.Module):
         self.dropout = nn.Dropout(dropout_rate)
         self.fc = torch.nn.Linear(self.model.config.hidden_size, num_labels)
     
-    def forward(self, input):
+    def forward(self, **input):
         """Forward pass through the model."""
         if self.model.name_or_path == "VietAI/vit5-base":
             model_output = self.model.get_encoder()(**input)
@@ -35,5 +35,5 @@ class PretrainedModel(nn.Module):
         dropped_features = self.dropout(cls_hidden_state)
         logits = self.fc(dropped_features)
 
-        return logits
+        return logits, model_output.attentions
     
