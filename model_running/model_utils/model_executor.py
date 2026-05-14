@@ -208,7 +208,6 @@ class ModelExecutor:
         """Save checkpoint."""
         dict_for_saving = {
             "epoch": self.epoch,
-            "patience": self.patience,
             "model_state_dict": self.model.state_dict(),
             "optimizer_state_dict": self.optimizer.state_dict(),
             "train_loss": train_loss,
@@ -255,7 +254,6 @@ class ModelExecutor:
             self.epoch = last_checkpoint["epoch"]
             self.model.load_state_dict(last_checkpoint["model_state_dict"], strict=False)
             self.optimizer.load_state_dict(last_checkpoint["optimizer_state_dict"])
-            self.patience = last_checkpoint["patience"]
             training_time = last_checkpoint["training_time"]
             
             print(f"Resuming from epoch {self.epoch}")
