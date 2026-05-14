@@ -98,7 +98,7 @@ class ModelExecutor:
                     logits, _ = self.model(**inputs)
                 else:
                     inputs = batch["input_ids"].to(self.device)
-                    logits, _ = self.model(inputs)
+                    logits = self.model(inputs)
 
                 loss = self.criterion(logits, labels)
                 
@@ -146,7 +146,7 @@ class ModelExecutor:
                         logits, _ = self.model(**inputs)
                     else:
                         inputs = batch["input_ids"].to(self.device)
-                        logits, _ = self.model(inputs)
+                        logits = self.model(inputs)
                     
                     loss = self.criterion(logits, label)
 
