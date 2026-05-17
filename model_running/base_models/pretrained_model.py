@@ -27,7 +27,7 @@ class PretrainedModel(nn.Module):
         """Forward pass through the model."""
         model_output = self.model(**input)
         
-        attentions = model_output.attentions if self.model.name_or_path != "vinai/bartpho-syllable" else model_output.encoder_attentions
+        attentions = model_output.attentions if (self.model.name_or_path != "vinai/bartpho-syllable" or self.model.name_or_path != "vinai/bartpho-word") else model_output.encoder_attentions
 
         attn_cls = attentions[-1].mean(1)[0, 0, :]
 
