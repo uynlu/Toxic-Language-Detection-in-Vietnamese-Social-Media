@@ -143,7 +143,7 @@ class ModelExecutor:
                             "input_ids": batch["input_ids"].to(self.device),
                             "attention_mask": batch["attention_mask"].to(self.device)
                         }
-                        logits, _ = self.model(**inputs)
+                        logits, attentions = self.model(**inputs)
                     else:
                         inputs = batch["input_ids"].to(self.device)
                         logits = self.model(inputs)
@@ -174,26 +174,52 @@ class ModelExecutor:
         acc, f1, precision, recall = error(labels.detach().cpu().numpy(), predictions.detach().cpu().numpy(), self.num_labels)
         print(f"Evaluation scores: Accuracy - {acc}, F1 score - {f1}, Precision - {precision}, Recall - {recall}")
         if type == "validation":
-            return (
-                predictions,
-                labels,
-                running_loss / len(loader),
-                acc,
-                f1,
-                precision,
-                recall
-            )
+            if self.pretrained_flag:
+                return (
+                    test_results,
+                    predictions,
+                    labels,
+                    running_loss / len(loader),
+                    acc,
+                    f1,
+                    precision,
+                    recall,
+                    attentions
+                )
+            else:
+                return (
+                    predictions,
+                    labels,
+                    running_loss / len(loader),
+                    acc,
+                    f1,
+                    precision,
+                    recall
+                )
         else:
-            return (
-                test_results,
-                predictions,
-                labels,
-                running_loss / len(loader),
-                acc,
-                f1,
-                precision,
-                recall
-            )
+            if self.pretrained_flag:
+                return (
+                    test_results,
+                    predictions,
+                    labels,
+                    running_loss / len(loader),
+                    acc,
+                    f1,
+                    precision,
+                    recall,
+                    attentions
+                )
+            else:
+                return (
+                    test_results,
+                    predictions,
+                    labels,
+                    running_loss / len(loader),
+                    acc,
+                    f1,
+                    precision,
+                    recall
+                )
 
     def save_checkpoint(
         self,
