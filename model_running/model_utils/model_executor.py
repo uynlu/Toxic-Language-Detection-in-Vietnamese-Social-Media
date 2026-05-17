@@ -158,12 +158,11 @@ class ModelExecutor:
                 predictions.append(prediction)
                 labels.append(label)
                 
-                if type == "test":
-                    entry = dict()
-                    entry["text"] = batch["text"][0]
-                    entry["prediction"] = prediction.tolist()[0]
-                    entry["label"] = label.tolist()[0]
-                    test_results.append(entry)
+                entry = dict()
+                entry["text"] = batch["text"][0]
+                entry["prediction"] = prediction.tolist()[0]
+                entry["label"] = label.tolist()[0]
+                test_results.append(entry)
 
                 pbar.set_postfix(loss=f"{running_loss / i}")
                 pbar.update()
@@ -173,52 +172,29 @@ class ModelExecutor:
         
         acc, f1, precision, recall = error(labels.detach().cpu().numpy(), predictions.detach().cpu().numpy(), self.num_labels)
         print(f"Evaluation scores: Accuracy - {acc}, F1 score - {f1}, Precision - {precision}, Recall - {recall}")
-        if type == "validation":
-            if self.pretrained_flag:
-                return (
-                    predictions,
-                    labels,
-                    running_loss / len(loader),
-                    acc,
-                    f1,
-                    precision,
-                    recall,
-                    attentions
-                )
-            else:
-                return (
-                    predictions,
-                    labels,
-                    running_loss / len(loader),
-                    acc,
-                    f1,
-                    precision,
-                    recall
-                )
+        if self.pretrained_flag:
+            return (
+                test_results,
+                predictions,
+                labels,
+                running_loss / len(loader),
+                acc,
+                f1,
+                precision,
+                recall,
+                attentions
+            )
         else:
-            if self.pretrained_flag:
-                return (
-                    test_results,
-                    predictions,
-                    labels,
-                    running_loss / len(loader),
-                    acc,
-                    f1,
-                    precision,
-                    recall,
-                    attentions
-                )
-            else:
-                return (
-                    test_results,
-                    predictions,
-                    labels,
-                    running_loss / len(loader),
-                    acc,
-                    f1,
-                    precision,
-                    recall
-                )
+            return (
+                test_results,
+                predictions,
+                labels,
+                running_loss / len(loader),
+                acc,
+                f1,
+                precision,
+                recall
+            )
 
     def save_checkpoint(
         self,
@@ -297,13 +273,15 @@ class ModelExecutor:
             training_time += (end_time - start_time)
 
             (
-                _,
-                _,
+                validation_results,
+                validation_predictions,
+                validation_targets,
                 validation_loss,
                 validation_accuracy,
                 validation_f1_score,
                 validation_precision,
-                validation_recall
+                validation_recall,
+                validation_attentions
             ) = self.evaluate(type="validation")
             
             self.save_checkpoint(
@@ -328,6 +306,19 @@ class ModelExecutor:
                     os.path.join(self.checkpoint_path, "last_model.pth"), 
                     os.path.join(self.checkpoint_path, "best_model.pth")
                 )
+                save_json(
+                    {
+                        "predictions": validation_predictions.tolist(),
+                        "targets": validation_targets.tolist(),
+                        "results": validation_results,
+                        "accuracy": validation_accuracy,
+                        "f1_score": validation_f1_score,
+                        "precision": validation_precision,
+                        "recall": validation_recall,
+                        "attentions": validation_attentions
+                    },
+                    os.path.join(self.checkpoint_path, "test_results.json")
+                )
 
             if self.epoch == self.num_epochs or self.patience == patience_threshold:
                 break
@@ -342,23 +333,32 @@ class ModelExecutor:
         self.optimizer.load_state_dict(checkpoint["optimizer_state_dict"])
 
         start_time = time.time()
-        test_results, predictions, targets, _, _, _, _, _ = self.evaluate(type="test")
+        (
+            test_results,
+            test_predictions,
+            test_targets,
+            _,
+            test_accuracy,
+            test_f1_score,
+            test_precision,
+            test_recall,
+            test_attentions
+        ) = self.evaluate(type="test")
         end_time = time.time()
 
         elapsed = end_time - start_time
 
-        accuracy, f1_score, precision, recall = error(predictions.detach().cpu().numpy(), targets.detach().cpu().numpy(), self.num_labels)
-
         save_json(
             {
                 "time": elapsed,
-                "predictions": predictions.tolist(),
-                "targets": targets.tolist(),
+                "predictions": test_predictions.tolist(),
+                "targets": test_targets.tolist(),
                 "results": test_results,
-                "accuracy": accuracy,
-                "f1_score": f1_score,
-                "precision": precision,
-                "recall": recall
+                "accuracy": test_accuracy,
+                "f1_score": test_f1_score,
+                "precision": test_precision,
+                "recall": test_recall,
+                "attentions": test_attentions
             },
             os.path.join(self.checkpoint_path, "test_results.json")
         )
