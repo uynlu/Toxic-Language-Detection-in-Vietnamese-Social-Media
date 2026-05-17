@@ -25,17 +25,15 @@ class PretrainedModel(nn.Module):
     
     def forward(self, **input):
         """Forward pass through the model."""
-        if self.model.name_or_path == "VietAI/vit5-base":
-            model_output = self.model.get_encoder()(**input)
-        else:
-            model_output = self.model(**input)
+        model_output = self.model(**input)
         
         attentions = model_output.attentions if self.model.name_or_path != "vinai/bartpho-syllable" else model_output.encoder_attentions
+
+        attn_cls = attentions[-1].mean(1)[0, 0, :]
 
         cls_hidden_state = model_output.last_hidden_state[:, 0, :]
 
         dropped_features = self.dropout(cls_hidden_state)
         logits = self.fc(dropped_features)
 
-        return logits, attentions
-    
+        return logits, attn_cls

@@ -143,7 +143,7 @@ class ModelExecutor:
                             "input_ids": batch["input_ids"].to(self.device),
                             "attention_mask": batch["attention_mask"].to(self.device)
                         }
-                        logits, attentions = self.model(**inputs)
+                        logits, attn_cls = self.model(**inputs)
                     else:
                         inputs = batch["input_ids"].to(self.device)
                         logits = self.model(inputs)
@@ -162,6 +162,8 @@ class ModelExecutor:
                 entry["text"] = batch["text"][0]
                 entry["prediction"] = prediction.tolist()[0]
                 entry["label"] = label.tolist()[0]
+                if self.pretrained_flag:
+                    entry["attentions"] = attn_cls.tolist()
                 results.append(entry)
 
                 pbar.set_postfix(loss=f"{running_loss / i}")
@@ -170,22 +172,13 @@ class ModelExecutor:
         predictions = torch.cat(predictions, dim=0)
         labels = torch.cat(labels, dim=0)
         
-        acc, f1, precision, recall = error(labels.detach().cpu().numpy(), predictions.detach().cpu().numpy(), self.num_labels)
+        acc, f1, precision, recall = error(
+            labels.detach().cpu().numpy(),
+            predictions.detach().cpu().numpy(),
+            self.num_labels
+        )
         print(f"Evaluation scores: Accuracy - {acc}, F1 score - {f1}, Precision - {precision}, Recall - {recall}")
-        if self.pretrained_flag:
-            return (
-                results,
-                predictions,
-                labels,
-                running_loss / len(loader),
-                acc,
-                f1,
-                precision,
-                recall,
-                attentions
-            )
-        else:
-            return (
+        return (
                 results,
                 predictions,
                 labels,
@@ -280,8 +273,8 @@ class ModelExecutor:
                 validation_accuracy,
                 validation_f1_score,
                 validation_precision,
-                validation_recall,
-                validation_attentions
+                validation_recall
+                # validation_attentions
             ) = self.evaluate(type="validation")
             
             self.save_checkpoint(
@@ -314,8 +307,8 @@ class ModelExecutor:
                         "accuracy": validation_accuracy,
                         "f1_score": validation_f1_score,
                         "precision": validation_precision,
-                        "recall": validation_recall,
-                        "attentions": validation_attentions
+                        "recall": validation_recall
+                        # "attentions": validation_attentions
                     },
                     os.path.join(self.checkpoint_path, "test_results.json")
                 )
@@ -341,8 +334,8 @@ class ModelExecutor:
             test_accuracy,
             test_f1_score,
             test_precision,
-            test_recall,
-            test_attentions
+            test_recall
+            # test_attentions
         ) = self.evaluate(type="test")
         end_time = time.time()
 
@@ -357,8 +350,8 @@ class ModelExecutor:
                 "accuracy": test_accuracy,
                 "f1_score": test_f1_score,
                 "precision": test_precision,
-                "recall": test_recall,
-                "attentions": test_attentions
+                "recall": test_recall
+                # "attentions": test_attentions
             },
             os.path.join(self.checkpoint_path, "test_results.json")
         )
