@@ -29,7 +29,8 @@ class PretrainedModel(nn.Module):
             model_output = self.model.get_encoder()(**input)
         else:
             model_output = self.model(**input)
-            attentions = model_output.attentions if self.model.name_or_path != "VietAI/vit5-base" else None
+        
+        attentions = model_output.attentions if self.model.name_or_path != "vinai/bartpho-syllable" else model_output.encoder_attentions
 
         cls_hidden_state = model_output.last_hidden_state[:, 0, :]
 
