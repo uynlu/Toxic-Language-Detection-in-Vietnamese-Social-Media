@@ -176,7 +176,6 @@ class ModelExecutor:
         if type == "validation":
             if self.pretrained_flag:
                 return (
-                    test_results,
                     predictions,
                     labels,
                     running_loss / len(loader),

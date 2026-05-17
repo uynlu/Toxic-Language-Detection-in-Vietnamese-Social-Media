@@ -29,11 +29,12 @@ class PretrainedModel(nn.Module):
             model_output = self.model.get_encoder()(**input)
         else:
             model_output = self.model(**input)
+            attentions = model_output.attentions if self.model.name_or_path != "VietAI/vit5-base" else None
 
         cls_hidden_state = model_output.last_hidden_state[:, 0, :]
 
         dropped_features = self.dropout(cls_hidden_state)
         logits = self.fc(dropped_features)
 
-        return logits, model_output.attentions
+        return logits, attentions
     
