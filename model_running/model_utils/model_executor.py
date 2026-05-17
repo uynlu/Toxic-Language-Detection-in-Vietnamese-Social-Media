@@ -274,7 +274,6 @@ class ModelExecutor:
                 validation_f1_score,
                 validation_precision,
                 validation_recall
-                # validation_attentions
             ) = self.evaluate(type="validation")
             
             self.save_checkpoint(
@@ -308,9 +307,8 @@ class ModelExecutor:
                         "f1_score": validation_f1_score,
                         "precision": validation_precision,
                         "recall": validation_recall
-                        # "attentions": validation_attentions
                     },
-                    os.path.join(self.checkpoint_path, "test_results.json")
+                    os.path.join(self.checkpoint_path, "best_dev_results.json")
                 )
 
             if self.epoch == self.num_epochs or self.patience == patience_threshold:
@@ -335,7 +333,6 @@ class ModelExecutor:
             test_f1_score,
             test_precision,
             test_recall
-            # test_attentions
         ) = self.evaluate(type="test")
         end_time = time.time()
 
@@ -351,7 +348,6 @@ class ModelExecutor:
                 "f1_score": test_f1_score,
                 "precision": test_precision,
                 "recall": test_recall
-                # "attentions": test_attentions
             },
             os.path.join(self.checkpoint_path, "test_results.json")
         )
