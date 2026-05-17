@@ -124,7 +124,6 @@ class ModelExecutor:
             loader = self.validation_loader
         else:
             loader = self.test_loader
-            test_results = []
 
         self.model.eval()
 
@@ -132,6 +131,7 @@ class ModelExecutor:
         labels = []
 
         running_loss = 0.0
+        results = []
         with tqdm(desc="Epoch %d - Evaluation" % self.epoch, unit="it", total=len(loader)) as pbar:
             for i, batch in enumerate(loader, start=1):
                 with torch.no_grad():
@@ -162,7 +162,7 @@ class ModelExecutor:
                 entry["text"] = batch["text"][0]
                 entry["prediction"] = prediction.tolist()[0]
                 entry["label"] = label.tolist()[0]
-                test_results.append(entry)
+                results.append(entry)
 
                 pbar.set_postfix(loss=f"{running_loss / i}")
                 pbar.update()
@@ -174,7 +174,7 @@ class ModelExecutor:
         print(f"Evaluation scores: Accuracy - {acc}, F1 score - {f1}, Precision - {precision}, Recall - {recall}")
         if self.pretrained_flag:
             return (
-                test_results,
+                results,
                 predictions,
                 labels,
                 running_loss / len(loader),
@@ -186,7 +186,7 @@ class ModelExecutor:
             )
         else:
             return (
-                test_results,
+                results,
                 predictions,
                 labels,
                 running_loss / len(loader),
