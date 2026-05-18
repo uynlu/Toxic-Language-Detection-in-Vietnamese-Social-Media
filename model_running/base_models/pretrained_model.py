@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-from transformers import AutoModel
+from transformers import AutoModel, MT5EncoderModel
 
 
 class PretrainedModel(nn.Module):
@@ -13,9 +13,11 @@ class PretrainedModel(nn.Module):
         dropout_rate: float = 0.1
     ):
         super(PretrainedModel, self).__init__()
-        
-        self.model = AutoModel.from_pretrained(model_name, cache_dir=cache_dir, output_attentions=True)
-        
+        if model_name == "google/mt5-base" or model_name == "google/mt5-large":
+            self.model = MT5EncoderModel.from_pretrained(model_name, cache_dir=cache_dir, output_attentions=True)
+        else:
+            self.model = AutoModel.from_pretrained(model_name, cache_dir=cache_dir, output_attentions=True)
+
         if freeze_model:
             for param in self.model.parameters():
                 param.requires_grad = False
