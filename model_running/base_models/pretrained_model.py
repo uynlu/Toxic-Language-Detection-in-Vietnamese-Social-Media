@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-from transformers import AutoModel, MT5EncoderModel
+from transformers import AutoModel, MT5EncoderModel, AutoConfig
 
 
 class PretrainedModel(nn.Module):
@@ -15,6 +15,13 @@ class PretrainedModel(nn.Module):
         super(PretrainedModel, self).__init__()
         if model_name == "google/mt5-base" or model_name == "google/mt5-large":
             self.model = MT5EncoderModel.from_pretrained(model_name, cache_dir=cache_dir, output_attentions=True)
+        elif model_name == "uitnlp/CafeBERT":
+            config = AutoConfig.from_pretrained(model_name, cache_dir=cache_dir)
+            config.num_hidden_layers = 12
+            config.hidden_dropout_prob = 0.3          # default: 0.1
+            config.attention_probs_dropout_prob = 0.3 # default: 0.1
+            config.classifier_dropout = 0.3 
+            self.model = AutoModel.from_pretrained(model_name, config=config, cache_dir=cache_dir, output_attentions=True)
         else:
             self.model = AutoModel.from_pretrained(model_name, cache_dir=cache_dir, output_attentions=True)
 
