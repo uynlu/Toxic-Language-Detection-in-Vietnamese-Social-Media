@@ -21,7 +21,8 @@ class PretrainedModel(nn.Module):
             config.hidden_dropout_prob = 0.3          # default: 0.1
             config.attention_probs_dropout_prob = 0.3 # default: 0.1
             config.classifier_dropout = 0.3 
-            self.model = AutoModel.from_pretrained(model_name, config=config, cache_dir=cache_dir, output_attentions=True)
+            config.output_attentions = True
+            self.model = AutoModel.from_pretrained(model_name, config=config, cache_dir=cache_dir)
         else:
             self.model = AutoModel.from_pretrained(model_name, cache_dir=cache_dir, output_attentions=True)
 
