@@ -18,9 +18,9 @@ class PretrainedModel(nn.Module):
         elif model_name == "uitnlp/CafeBERT":
             config = AutoConfig.from_pretrained(model_name, cache_dir=cache_dir)
             config.num_hidden_layers = 12
-            config.hidden_dropout_prob = 0.3          # default: 0.1
-            config.attention_probs_dropout_prob = 0.3 # default: 0.1
-            config.classifier_dropout = 0.3 
+            config.hidden_dropout_prob = 0.3
+            config.attention_probs_dropout_prob = 0.3
+            config.classifier_dropout = 0.3
             config.output_attentions = True
             self.model = AutoModel.from_pretrained(model_name, config=config, cache_dir=cache_dir)
         else:

@@ -21,7 +21,7 @@ def measure_agreement(
     elif label_type == "toxic_type":
         all_labels = ["HATE", "OFFENSIVE"]
     elif label_type == "expression_type":
-        all_labels = ["IMPLICIT", "EXPLICIT", "REPORTED"]
+        all_labels = ["IMPLICIT", "EXPLICIT", "REPORTING"]
     else:
         raise ValueError("Invalid label_type. Supported label_types are: 'toxicity', 'toxic_type', 'expression_type'.")
     
