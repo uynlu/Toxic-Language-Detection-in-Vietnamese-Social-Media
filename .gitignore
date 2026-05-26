@@ -6,7 +6,6 @@ prompting/agreement/
 running_models/pretrained_models/
 model_checkpoints/
 draft.ipynb
-README.md
 .env
 *.sh
 temp/
